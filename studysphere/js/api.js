@@ -4,7 +4,7 @@
    ===================================================== */
 
 const API = (() => {
-  const BASE_URL = 'http://localhost:4000/api';
+  const BASE_URL = window.location.origin.startsWith('http') ? `${window.location.origin}/api` : 'http://localhost:4000/api';
 
   async function request(endpoint, options = {}) {
     try {

@@ -185,6 +185,18 @@ const server = http.createServer((req, res) => {
   });
 });
 
-server.listen(PORT, () => {
-  console.log(`🚀 StudySphere Backend & AI Pipelines active on http://localhost:${PORT}`);
-});
+function startServer(port) {
+  server.listen(port, () => {
+    console.log(`🚀 StudySphere Backend & AI Pipelines active on http://localhost:${port}`);
+  }).on('error', (err) => {
+    if (err.code === 'EADDRINUSE') {
+      console.log(`⚠️  Port ${port} is already in use. Trying port ${port + 1}...`);
+      startServer(port + 1);
+    } else {
+      console.error(err);
+    }
+  });
+}
+
+const PORT = parseInt(process.env.PORT || '4000', 10);
+startServer(PORT);
