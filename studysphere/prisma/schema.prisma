@@ -1,0 +1,95 @@
+// Prisma Database Schema for StudySphere
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id           String   @id @default(uuid())
+  username     String   @unique
+  email        String   @unique
+  passwordHash String
+  role         String   @default("STUDENT") // STUDENT, PARENT, TEACHER
+  level        Int      @default(12)
+  xp           Int      @default(2450)
+  stars        Int      @default(1240)
+  coins        Int      @default(890)
+  gems         Int      @default(42)
+  streak       Int      @default(7)
+  createdAt    DateTime @default(now())
+
+  preferences    UserPreference?
+  widgets        DashboardWidget[]
+  stories        Story[]
+  videoLessons   VideoLesson[]
+  parentControl  ParentControl?
+  pet            VirtualPet?
+}
+
+model UserPreference {
+  id             String  @id @default(uuid())
+  userId         String  @unique
+  user           User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  theme          String  @default("dark")
+  bgMode         String  @default("particles")
+  fontFamily     String  @default("inter")
+  fontSize       String  @default("md")
+  readingMode    Boolean @default(false)
+  focusMode      Boolean @default(false)
+  dyslexicFont   Boolean @default(false)
+}
+
+model DashboardWidget {
+  id        String  @id @default(uuid())
+  userId    String
+  user      User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  widgetId  String
+  position  Int
+  visible   Boolean @default(true)
+}
+
+model Story {
+  id           String   @id @default(uuid())
+  userId       String
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  topic        String
+  grade        String
+  category     String
+  language     String
+  title        String
+  chaptersJson String
+  createdAt    DateTime @default(now())
+}
+
+model VideoLesson {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  topic     String
+  style     String
+  voice     String
+  quizJson  String
+  createdAt DateTime @default(now())
+}
+
+model VirtualPet {
+  id        String @id @default(uuid())
+  userId    String @unique
+  user      User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name      String @default("Sparky")
+  happiness Int    @default(4)
+}
+
+model ParentControl {
+  id                 String  @id @default(uuid())
+  userId             String  @unique
+  user               User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  dailyLimitMins     Int     @default(90)
+  distractionBlocker Boolean @default(true)
+  aiMonitoring       Boolean @default(true)
+}
