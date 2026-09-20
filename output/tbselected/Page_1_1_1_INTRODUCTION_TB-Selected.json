@@ -1,0 +1,357 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "Ganita Manjari - Grade 9",
+  "coverageReport": {
+    "totalQuestions": 16,
+    "totalConceptsFound": 4,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "100%"
+  },
+  "validationMeta": {
+    "totalInput": 8,
+    "passed": 8,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "selectionSummary": {
+    "initialCount": 16,
+    "selectedCount": 8,
+    "removedCount": 8,
+    "removalReasons": {
+      "duplicates": 6,
+      "nonStandardCategory": 0,
+      "categoryOverRepresentation": 2,
+      "lowQuality": 0
+    }
+  },
+  "questions": [
+    {
+      "conceptId": "C001",
+      "id": "M9.1.001",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "mcq",
+      "sourceType": "TB-Selected",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "What is a coordinate system as defined in the introduction of the chapter?",
+      "options": [
+        {
+          "optionText": "A structured framework (like grid lines on a map) that uses numbers to describe the exact physical locations of points or objects.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "A system used exclusively to measure the temperature and pressure of different geographical regions.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A mathematical tool designed solely for calculating the area of irregular polygons.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A method of organizing historical events in chronological order.",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "According to the text, a system of coordinates is a structured framework (like the grid lines on a map or graph paper) that enables us to use numbers to describe the exact physical locations of points or objects.",
+      "explanationQuestion": "The question asks for the definition of a coordinate system based on Section 1.1.",
+      "correctAnswer": "A structured framework (like grid lines on a map) that uses numbers to describe the exact physical locations of points or objects.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C001",
+      "id": "M9.1.004",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "multi",
+      "sourceType": "TB-Selected",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "options": [
+        {
+          "optionText": "It is a structured framework."
+        },
+        {
+          "optionText": "It can be visualized like grid lines on a map or graph paper."
+        },
+        {
+          "optionText": "It uses numbers to describe exact physical locations."
+        },
+        {
+          "optionText": "It is used only for measuring time intervals."
+        }
+      ],
+      "multi": [
+        "It is a structured framework.",
+        "It can be visualized like grid lines on a map or graph paper.",
+        "It uses numbers to describe exact physical locations."
+      ],
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text describes a coordinate system as a structured framework (like grid lines on a map or graph paper) that uses numbers to describe exact physical locations. It is not limited to or used only for measuring time intervals.",
+      "explanationQuestion": "Identify all correct statements describing a coordinate system based on the text.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "questionText": "Which of the following statements correctly describe a coordinate system?"
+    },
+    {
+      "conceptId": "C002",
+      "id": "M9.1.005",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "mcq",
+      "sourceType": "TB-Selected",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "Where did the first systematic use of grids occur thousands of years ago on a massive urban scale?",
+      "options": [
+        {
+          "optionText": "In the Sindhu-Sarasvatī Civilisation",
+          "isCorrect": true
+        },
+        {
+          "optionText": "In Ancient Rome",
+          "isCorrect": false
+        },
+        {
+          "optionText": "In the Mesopotamian Civilisation",
+          "isCorrect": false
+        },
+        {
+          "optionText": "In Ancient Egypt",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text states: 'The first systematic use of grids occurred thousands of years ago — on a massive urban scale — in the Sindhu-Sarasvatī Civilisation.'",
+      "explanationQuestion": "The question asks for the historical location of the first systematic use of grids on an urban scale.",
+      "correctAnswer": "In the Sindhu-Sarasvatī Civilisation",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "M9.1.006",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "truefalse",
+      "sourceType": "TB-Selected",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "In the Sindhu-Sarasvatī Civilisation, city streets were constructed with striking precision in North-South and East-West directions at uniform distances of about $100\\text{ metres}$ apart.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "This statement is false. The text states that the streets were constructed at uniform distances of about $10\\text{ metres}$ apart, not $100\\text{ metres}$.",
+      "explanationQuestion": "Verify the accuracy of the street spacing dimension mentioned in the text for the Sindhu-Sarasvatī Civilisation.",
+      "correctAnswer": false,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "M9.1.008",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "matchfollowing",
+      "sourceType": "TB-Selected",
+      "category": "Recall",
+      "difficulty": "medium",
+      "leftItems": [
+        "Sindhu-Sarasvatī Civilisation",
+        "Baudhāyana",
+        "Ptolemy",
+        "Brahmagupta"
+      ],
+      "rightItems": [
+        "Used East-West and North-South lines for deep geometric constructions (c. 800 C.E.)",
+        "First systematic use of grids on a massive urban scale",
+        "Formalised the notion and use of zero and negative numbers as algebraic entities",
+        "Described the latitudes and longitudes of thousands of locations"
+      ],
+      "correctMappings": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 1
+        },
+        {
+          "leftIndex": 1,
+          "rightIndex": 0
+        },
+        {
+          "leftIndex": 2,
+          "rightIndex": 3
+        },
+        {
+          "leftIndex": 3,
+          "rightIndex": 2
+        }
+      ],
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "Based on the text:\n- Sindhu-Sarasvatī Civilisation: First systematic use of grids on a massive urban scale.\n- Baudhāyana: Used East-West and North-South lines for deep geometric constructions.\n- Ptolemy: Described the latitudes and longitudes of thousands of locations.\n- Brahmagupta: Formalised the notion and use of zero and negative numbers.",
+      "explanationQuestion": "Match each historical entity or mathematician with their respective contribution mentioned in Section 1.1.",
+      "correctAnswer": null,
+      "set": "A",
+      "questionText": "Match the historical figures or civilisations in the left column with their corresponding contributions in the field of mathematics and science in the right column."
+    },
+    {
+      "conceptId": "C003",
+      "id": "M9.1.009",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "mcq",
+      "sourceType": "TB-Selected",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "Which Greek mathematician (c. $150\\text{ BCE}$) described the latitudes and longitudes of thousands of locations, including 'Ozine' (Ujjayinī)?",
+      "options": [
+        {
+          "optionText": "Ptolemy",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Hipparchus",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Euclid",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Pythagoras",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text states: 'The Greek mathematician Ptolemy (c. $150\\text{ BCE}$), building on earlier works including that of Hipparchus, later described the latitudes and longitudes of thousands of locations, including 'Ozine' (Ujjayinī).'",
+      "explanationQuestion": "Identify the Greek mathematician who mapped thousands of locations using latitudes and longitudes.",
+      "correctAnswer": "Ptolemy",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "M9.1.013",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "mcq",
+      "sourceType": "TB-Selected",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "Who formalised the notion and use of zero and negative numbers as algebraic entities, making the four-quadrant Cartesian plane possible?",
+      "options": [
+        {
+          "optionText": "Brahmagupta",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Āryabhaṭa",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Baudhāyana",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Ptolemy",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text states: 'Brahmagupta (c. $628\\text{ CE}$) formalised the notion and use of zero and the negative numbers as algebraic entities... Without Brahmagupta's work, the four-quadrant Cartesian plane... would be impossible.'",
+      "explanationQuestion": "Identify the Indian mathematician responsible for formalising zero and negative numbers as algebraic entities.",
+      "correctAnswer": "Brahmagupta",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "M9.1.016",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "multi",
+      "sourceType": "TB-Selected",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "options": [
+        {
+          "optionText": "The 'origin' representing zero"
+        },
+        {
+          "optionText": "The 'negative axes' representing values less than zero"
+        },
+        {
+          "optionText": "The four-quadrant Cartesian plane"
+        },
+        {
+          "optionText": "The calculation of latitudes using sines"
+        }
+      ],
+      "multi": [
+        "The 'origin' representing zero",
+        "The 'negative axes' representing values less than zero",
+        "The four-quadrant Cartesian plane"
+      ],
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text states: 'in modern coordinate systems, the 'origin' is zero and the 'negative axes' represent values less than zero. Without Brahmagupta's work, the four-quadrant Cartesian plane... would be impossible.' The calculation of latitudes using sines is associated with Āryabhaṭa, not Brahmagupta's formalisation of zero/negative numbers.",
+      "explanationQuestion": "Identify all modern coordinate system concepts that directly rely on Brahmagupta's formalisation of zero and negative numbers.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "questionText": "Which of the following modern coordinate system concepts directly rely on Brahmagupta's formalisation of zero and negative numbers?"
+    }
+  ]
+}

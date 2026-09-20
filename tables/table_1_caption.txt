@@ -1,0 +1,1 @@
+Table for evaluating if point M is the midpoint of segment ST

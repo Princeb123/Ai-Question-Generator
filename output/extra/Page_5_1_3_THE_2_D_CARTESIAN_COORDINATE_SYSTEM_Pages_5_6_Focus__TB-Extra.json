@@ -1,0 +1,115 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 5,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "10%"
+  },
+  "validationMeta": {
+    "totalInput": 3,
+    "passed": 3,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "questions": [
+    {
+      "conceptId": "C005",
+      "id": "A1.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "The plane in which the coordinate axes are situated is called the ______.",
+      "options": [
+        {
+          "optionText": "Number line",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Cartesian plane",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Linear plane",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Coordinate line",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "The text explicitly defines the plane containing the axes as the Cartesian plane, coordinate plane, or xy-plane.",
+      "explanationQuestion": "The question asks for the terminology used to describe the 2-D space defined by two perpendicular axes.",
+      "correctAnswer": "Cartesian plane",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A1.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "multi",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "Which of the following statements correctly describe the sign conventions for quadrants in the Cartesian plane?",
+      "options": [
+        {
+          "optionText": "Quadrant I: both x- and y-coordinates positive"
+        },
+        {
+          "optionText": "Quadrant II: negative x-coordinate and positive y-coordinate"
+        },
+        {
+          "optionText": "Quadrant III: both x- and y-coordinates positive"
+        },
+        {
+          "optionText": "Quadrant IV: positive x-coordinate and negative y-coordinate"
+        }
+      ],
+      "multi": [
+        "Quadrant I: both x- and y-coordinates positive",
+        "Quadrant II: negative x-coordinate and positive y-coordinate",
+        "Quadrant IV: positive x-coordinate and negative y-coordinate"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 2,
+      "explanationAnswer": "Quadrant I is (+, +), Quadrant II is (-, +), Quadrant III is (-, -), and Quadrant IV is (+, -). Option 3 is incorrect because Quadrant III has both negative.",
+      "explanationQuestion": "The question tests the understanding of coordinate signs in different quadrants.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C009",
+      "id": "A1.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "fillblanks",
+      "questionText": "In the coordinate pair $(x, y)$, $x$ represents the perpendicular distance from the ______ and $y$ represents the perpendicular distance from the ______.",
+      "blanks": [
+        "y-axis",
+        "x-axis"
+      ],
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "The x-coordinate is the distance measured along the x-axis from the y-axis, and the y-coordinate is the distance measured along the y-axis from the x-axis.",
+      "explanationQuestion": "The question tests the definition of coordinates as distances from the axes.",
+      "set": "A"
+    }
+  ]
+}

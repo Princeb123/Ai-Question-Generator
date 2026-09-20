@@ -1,0 +1,25 @@
+{
+  "subject": "Artificial Intelligence",
+  "grade": 10,
+  "chapterName": "Cartisan and Coordination ",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "reversalSummary": {
+    "inputCount": 0,
+    "reversedCount": 0,
+    "skippedCount": 0,
+    "coveragePercent": 0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [],
+  "validationMeta": {
+    "totalInput": 0,
+    "passed": 0,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

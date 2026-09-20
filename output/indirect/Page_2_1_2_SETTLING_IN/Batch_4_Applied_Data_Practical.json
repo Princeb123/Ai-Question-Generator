@@ -1,0 +1,185 @@
+{
+  "topic": "Page 2: 1.2 SETTLING IN",
+  "batch": "Batch_4_Applied_Data_Practical",
+  "subject": "Artificial Intelligence",
+  "grade": 10,
+  "chapterName": "Cartesian and Coordination",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C004",
+      "id": "A2.001",
+      "topic": "Introduction to Coordinates",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "In the historical development of coordinate systems described in the text, how did Brahmagupta's formalization of zero and negative numbers in the 7th century CE directly enable the modern four-quadrant Cartesian plane later formalized by René Descartes?",
+      "options": [
+        {
+          "optionText": "It allowed the 'origin' to be defined as a physical starting point on Earth, such as the Ujjayinī meridian, using positive integer steps.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "It established zero as the 'origin' and negative numbers as representing 'negative axes' (values less than zero), without which representing positions to the left of or below the origin would be algebraically impossible.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "It replaced the Greek 'chords' with 'sines', making it easier to calculate astronomical coordinates using decimal fractions.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "It introduced the 'astrolabe', which allowed sailors to determine their latitude by observing the stars relative to a zero-longitude reference.",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 2,
+      "marks": 1,
+      "explanationAnswer": "Brahmagupta (c. 628 CE) formalized zero and negative numbers as algebraic entities. In modern coordinate systems, the 'origin' is zero and 'negative axes' represent values less than zero. Without this, representing coordinates in the second, third, and fourth quadrants (which require negative values) would be mathematically impossible.",
+      "explanationQuestion": "The question asks for the direct connection between Brahmagupta's algebraic work on zero/negative numbers and the structure of the four-quadrant Cartesian plane.",
+      "correctAnswer": "It established zero as the 'origin' and negative numbers as representing 'negative axes' (values less than zero), without which representing positions to the left of or below the origin would be algebraically impossible.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.002",
+      "topic": "Introduction to Coordinates",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Based on the section '1.2 SETTLING IN', Shalini designs a tactile map for her visually impaired brother, Reiaan, using a scale of $1\\text{ cm} : 1\\text{ foot}$ with pins and thick wool. Explain how this physical representation functions as a coordinate system. If Shalini wants to represent a wardrobe of dimensions $4\\text{ ft} \\times 2\\text{ ft}$ placed at a distance of $3\\text{ ft}$ from the left wall (y-axis) and resting on the floor (x-axis), what would be the coordinates of its four corners on her grid, and what physical length of wool (in cm) would she need to outline this wardrobe?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 2,
+      "marks": 4,
+      "explanationAnswer": "The left wall acts as the y-axis ($x = 0$) and the bottom wall/floor boundary acts as the x-axis ($y = 0$), with the intersection as the origin $(0,0)$. The wardrobe is $4\\text{ ft}$ wide and $2\\text{ ft}$ deep, starting $3\\text{ ft}$ from the left wall. Its bottom-left corner is at $(3, 0)$, bottom-right at $(3+4, 0) = (7, 0)$, top-left at $(3, 2)$, and top-right at $(7, 2)$. The perimeter of the wardrobe is $2 \\times (4 + 2) = 12\\text{ ft}$. Since $1\\text{ ft} = 1\\text{ cm}$ on the scale, she needs $12\\text{ cm}$ of wool.",
+      "explanationQuestion": "This question requires analyzing the tactile map scenario to establish axes, determine coordinates of a rectangular shape under specific placement constraints, and apply the map's scale to find physical dimensions.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "subjective_evaluation_points": [
+        {
+          "point": "Explains that the left wall acts as the y-axis ($x = 0$) and the bottom wall/floor boundary acts as the x-axis ($y = 0$), with the intersection as the origin $(0,0)$.",
+          "marks": 1
+        },
+        {
+          "point": "Determines the coordinates of the four corners of the wardrobe as $(3, 0)$, $(7, 0)$, $(3, 2)$, and $(7, 2)$.",
+          "marks": 2
+        },
+        {
+          "point": "Calculates the perimeter of the wardrobe as $12\\text{ ft}$ and uses the scale $1\\text{ cm} : 1\\text{ foot}$ to find that $12\\text{ cm}$ of wool is required.",
+          "marks": 1
+        }
+      ],
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.003",
+      "topic": "The 2-D Cartesian Coordinate System",
+      "questionType": "matchfollowing",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "Refer to Fig. 1.3 showing Reiaan's room layout where $O(0,0)$ is the origin, the x-axis represents the distance along the bottom wall, and the y-axis represents the distance along the left wall. Match the physical features of the room with their correct mathematical coordinate representations or dimensions based on the grid.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "Based on Fig 1.3:\n- The bottom-right corner of the wardrobe ($W_{2}$) lies on the x-axis at $x = 7$, so its coordinates are $(7, 0)$.\n- The upper end of the bathroom door ($B_{2}$) lies on the y-axis at $y = 4$, so its coordinates are $(0, 4)$.\n- The entrance door width $D_{1}R_{1}$ spans from $x = 8$ to $x = 11.5$, giving a width of $11.5 - 8 = 3.5\\text{ units}$.\n- The bottom-left corner of the bed ($S_{1}$) lies on the y-axis at $y = 5$, so its coordinates are $(0, 5)$.",
+      "explanationQuestion": "The question asks to map physical elements from the room layout diagram (Fig 1.3) to their corresponding mathematical coordinates and lengths using the grid lines.",
+      "correctAnswer": null,
+      "leftItems": [
+        "Coordinates of the bottom-right corner of the wardrobe ($W_{2}$)",
+        "Coordinates of the upper end of the bathroom door ($B_{2}$)",
+        "Width of the entrance door ($D_{1}R_{1}$)",
+        "Coordinates of the bottom-left corner of the bed ($S_{1}$)"
+      ],
+      "rightItems": [
+        "$3.5\\text{ units}$",
+        "$(0, 5)$",
+        "$(7, 0)$",
+        "$(0, 4)$"
+      ],
+      "correctMappings": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 2
+        },
+        {
+          "leftIndex": 1,
+          "rightIndex": 3
+        },
+        {
+          "leftIndex": 2,
+          "rightIndex": 0
+        },
+        {
+          "leftIndex": 3,
+          "rightIndex": 1
+        }
+      ],
+      "set": "A"
+    },
+    {
+      "conceptId": "C020",
+      "id": "A2.004",
+      "topic": "Exercises",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "Suppose Shalini wants to place a study table in Reiaan's room (Fig 1.5). The table is rectangular, and three of its feet are experimentally planned to be placed at the coordinates $P(8, 9)$, $Q(11, 9)$, and $R(11, 7)$ on the room's grid.\n\n(a) Determine the coordinates of the fourth foot, $S$, of the table to ensure it remains rectangular.\n(b) Calculate the length, width, and area (in square units) of the tabletop.\n(c) If the scale is $1\\text{ cm} : 1\\text{ foot}$ and the actual floor area of the bedroom is $12\\text{ ft} \\times 10\\text{ ft}$, determine what percentage of the total bedroom floor area is occupied by this study table.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 8,
+      "marks": 4,
+      "explanationAnswer": "(a) To form a rectangle with vertices $P(8, 9)$, $Q(11, 9)$, and $R(11, 7)$, the fourth vertex $S$ must share the x-coordinate of $P$ and the y-coordinate of $R$. Thus, $S = (8, 7)$.\n(b) Length = $11 - 8 = 3\\text{ units}$. Width = $9 - 7 = 2\\text{ units}$. Area = $3 \\times 2 = 6\\text{ sq units}$.\n(c) Since $1\\text{ unit} = 1\\text{ foot}$, the table area is $6\\text{ sq ft}$. The total bedroom area is $12 \\times 10 = 120\\text{ sq ft}$. The percentage occupied is $\\frac{6}{120} \\times 100 = 5\\%$.",
+      "explanationQuestion": "This practical exercise tests the geometric properties of rectangles in a 2D coordinate system, distance calculations, and scale-to-percentage conversions.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies the coordinates of the fourth foot $S$ as $(8, 7)$ to complete the rectangle.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates the dimensions of the table (Length = $3\\text{ units}$, Width = $2\\text{ units}$) and the area as $6\\text{ sq units}$.",
+          "marks": 1
+        },
+        {
+          "point": "Converts grid units to feet using the scale $1\\text{ unit} = 1\\text{ foot}$, finding the table area is $6\\text{ sq ft}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates the percentage of the total bedroom area ($120\\text{ sq ft}$) occupied by the table as $\\frac{6}{120} \\times 100 = 5\\%$.",
+          "marks": 1
+        }
+      ],
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 4,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 5,
+    "coveragePercentage": "12.5%"
+  }
+}

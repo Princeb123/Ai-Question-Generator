@@ -1,0 +1,144 @@
+{
+  "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+  "batch": "Batch_3_Contextual_Logic",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C019",
+      "id": "A2.001",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Consider a triangle $ADM$ with vertices $A(3, 4)$, $D(7, 1)$, and $M(9, 6)$. If this triangle is reflected across the $y$-axis to form $\\Delta A'D'M'$, calculate the coordinates of the new vertices and explain why the side lengths $AD$ and $A'D'$ remain equal.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly identifies reflected coordinates: $A'(-3, 4)$, $D'(-7, 1)$, and $M'(-9, 6)$.",
+          "marks": 2
+        },
+        {
+          "point": "Explains that reflection is an isometry (rigid transformation) that preserves distance between points.",
+          "marks": 2
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The reflection of a point $(x, y)$ across the $y$-axis is $(-x, y)$. Thus, $A'( -3, 4)$, $D'(-7, 1)$, and $M'(-9, 6)$. Reflection preserves the relative spatial arrangement and distances, hence side lengths are invariant.",
+      "explanationQuestion": "This question tests the understanding of coordinate transformations via reflection and the geometric property of isometry.",
+      "correctAnswer": "A'(-3, 4), D'(-7, 1), M'(-9, 6); Reflection preserves side lengths.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.002",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Given a circle $K$ with center $O(0, 0)$ and radius $r = \sqrt{65}$, which of the following points lies exactly on the circle?",
+      "options": [
+        { "optionText": "$(7, 4)$", "isCorrect": false },
+        { "optionText": "$(8, 1)$", "isCorrect": true },
+        { "optionText": "$(6, 3)$", "isCorrect": false },
+        { "optionText": "$(5, 5)$", "isCorrect": false }
+      ],
+      "marks": 1,
+      "explanationAnswer": "A point $(x, y)$ lies on the circle if $x^{2} + y^{2} = r^{2}$. Here $r^{2} = 65$. For $(8, 1)$, $8^{2} + 1^{2} = 64 + 1 = 65$.",
+      "explanationQuestion": "Application of the distance formula from the origin to verify points on a circle.",
+      "correctAnswer": "$(8, 1)$",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.003",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The point $(x, y)$ is identical to $(y, x)$ for all real numbers $x$ and $y$. Reason: Coordinates in a Cartesian plane are ordered pairs where the first element represents the distance from the $y$-axis and the second from the $x$-axis.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The assertion is false because $(x, y) = (y, x)$ only if $x = y$. The reason is a correct definition of coordinates.",
+      "explanationQuestion": "Tests the fundamental property that order matters in coordinate geometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.004",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The distance between $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is always $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$. Reason: This formula is derived from the Baudhayana-Pythagoras Theorem.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "Both the assertion and the reason are true, and the reason correctly explains the origin of the distance formula.",
+      "explanationQuestion": "Tests the theoretical basis of the distance formula.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C024",
+      "id": "A2.005",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Identify all pairs of points that have a midpoint $(0, 0)$:",
+      "options": [
+        { "optionText": "$(5, 5)$ and $(-5, -5)$" },
+        { "optionText": "$(3, -4)$ and $(-3, 4)$" },
+        { "optionText": "$(2, 2)$ and $(-2, 2)$" },
+        { "optionText": "$(0, 6)$ and $(0, -6)$" }
+      ],
+      "multi": [
+        "$(5, 5)$ and $(-5, -5)$",
+        "$(3, -4)$ and $(-3, 4)$",
+        "$(0, 6)$ and $(0, -6)$"
+      ],
+      "marks": 1,
+      "explanationAnswer": "The midpoint is $(\\frac{x_{1}+x_{2}}{2}, \\frac{y_{1}+y_{2}}{2})$. Only the selected pairs result in $(0, 0)$.",
+      "explanationQuestion": "Tests the competency of calculating midpoints of line segments.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.006",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Prove that the points $A(0, 0)$, $B(4, 0)$, $C(4, 4)$, and $D(0, 4)$ form a square. Show your calculations for the lengths of all four sides and the two diagonals.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculates side lengths $AB=4$, $BC=4$, $CD=4$, $DA=4$ using distance formula.",
+          "marks": 2
+        },
+        {
+          "point": "Calculates diagonal lengths $AC=\\sqrt{4^{2}+4^{2}}=\\sqrt{32}$ and $BD=\\sqrt{4^{2}+(-4)^{2}}=\\sqrt{32}$, showing diagonals are equal, thus confirming it is a square.",
+          "marks": 2
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "All sides equal 4 units and diagonals equal $\\sqrt{32}$ units, satisfying the definition of a square.",
+      "explanationQuestion": "Tests the ability to use coordinate geometry to verify geometric properties of shapes.",
+      "correctAnswer": "Sides are 4 units; Diagonals are $\\sqrt{32}$ units.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

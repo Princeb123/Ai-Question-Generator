@@ -1,0 +1,112 @@
+{
+  "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+  "batch": "Batch_4_Applied_Data_Practical",
+  "subject": "Artificial Intelligence",
+  "grade": 10,
+  "chapterName": "Cartisan and Coordination",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C012",
+      "id": "A2.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "According to the chapter summary, if a point has coordinates $(x, y)$ where $x < 0$ and $y < 0$, in which quadrant does this point lie?",
+      "options": [
+        { "optionText": "First Quadrant", "isCorrect": false },
+        { "optionText": "Second Quadrant", "isCorrect": false },
+        { "optionText": "Third Quadrant", "isCorrect": true },
+        { "optionText": "Fourth Quadrant", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The summary states that points in the third quadrant have both x and y coordinates negative (-, -).",
+      "explanationQuestion": "This question tests the understanding of quadrant sign conventions as summarized on page 15.",
+      "correctAnswer": "Third Quadrant",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "The distance between two points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is calculated using the formula $\\sqrt{(x_{2} - x_{1}) + (y_{2} - y_{1})}$.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The formula provided in the summary is $\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$. The statement omits the squares.",
+      "explanationQuestion": "This tests the accuracy of the distance formula as defined in the summary.",
+      "correctAnswer": false,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If you are using a grid to map a room with a scale of $1 \\text{ cm} : 1 \\text{ foot}$, and you place a pin at $(2, 3)$ and another at $(5, 7)$ on this grid, calculate the physical distance between these two points in feet using the distance formula.",
+      "subjective_evaluation_points": [
+        { "point": "Identifies coordinates as $(x_{1}, y_{1}) = (2, 3)$ and $(x_{2}, y_{2}) = (5, 7)$.", "marks": 1 },
+        { "point": "Applies the distance formula $d = \\sqrt{(5 - 2)^{2} + (7 - 3)^{2}}$.", "marks": 1 },
+        { "point": "Calculates $d = \\sqrt{3^{2} + 4^{2}} = \\sqrt{9 + 16} = \\sqrt{25}$.", "marks": 1 },
+        { "point": "Concludes the distance is $5$ feet, noting the scale $1 \\text{ cm} = 1 \\text{ foot}$.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 4,
+      "explanationAnswer": "The distance is $\\sqrt{(5-2)^{2} + (7-3)^{2}} = \\sqrt{3^{2} + 4^{2}} = 5$ units. Since $1 \\text{ unit} = 1 \\text{ foot}$, the distance is $5$ feet.",
+      "explanationQuestion": "This tests the application of the distance formula to a practical room-mapping scenario.",
+      "correctAnswer": "5 feet",
+      "set": "A"
+    },
+    {
+      "conceptId": "C027",
+      "id": "A2.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200 \\text{ m}$ apart, if a street intersection is defined as $(2, 5)$, where the first coordinate is the N-S street and the second is the E-W street, the intersection $(4, 3)$ represents the ______ street in the N-S direction and the ______ street in the E-W direction.",
+      "blanks": [
+        "4th",
+        "3rd"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "Following the convention provided in Problem 14, $(x, y)$ corresponds to the x-th N-S street and y-th E-W street.",
+      "explanationQuestion": "Tests understanding of custom coordinate conventions established in the practical exercises.",
+      "correctAnswer": null,
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 4,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "10%"
+  }
+}

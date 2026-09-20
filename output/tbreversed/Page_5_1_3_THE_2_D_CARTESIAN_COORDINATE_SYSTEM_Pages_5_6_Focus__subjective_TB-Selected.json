@@ -1,0 +1,67 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "reversalSummary": {
+    "inputCount": 1,
+    "reversedCount": 1,
+    "skippedCount": 0,
+    "coveragePercent": 100.0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [
+    {
+      "conceptId": "C021",
+      "id": "REV-S001.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "In the floor plan represented by Fig 1.3, a designer needs to place a new window of exactly 3.5 units in width, starting at the coordinate x = 2.0. If the window is represented by a line segment on the x-axis, determine the coordinate of the endpoint of this window and explain the mathematical relationship between the segment length and the coordinate system.",
+      "options": null,
+      "correctAnswer": "The window will span from x = 2.0 to x = 5.5. The endpoint is at 5.5, calculated by adding the width (3.5) to the starting coordinate (2.0).",
+      "explanationAnswer": "The length of a horizontal segment on the x-axis is defined by the absolute difference between its endpoints: |x2 - x1| = length. Given the start point x1 = 2.0 and length = 3.5, we solve 3.5 = |x2 - 2.0|. Since the window extends forward, x2 = 2.0 + 3.5 = 5.5.",
+      "explanationQuestion": "This question reverses the process of finding a length from coordinates to finding a coordinate from a specified length, requiring an understanding of the additive property of segments on a Cartesian axis.",
+      "marks": 4,
+      "pageNumber": 5,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://generativelanguage.googleapis.com/v1beta/files/q9g1pmb0jmx5",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly identifying the starting coordinate x1 = 2.0 and the window width = 3.5.",
+          "marks": 1
+        },
+        {
+          "point": "Applying the mathematical relationship: Length = |x2 - x1|.",
+          "marks": 1
+        },
+        {
+          "point": "Correctly calculating the endpoint x2 = 2.0 + 3.5 = 5.5.",
+          "marks": 1
+        },
+        {
+          "point": "Providing a clear explanation of the additive property of segments on the coordinate axis.",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 1,
+    "passed": 1,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

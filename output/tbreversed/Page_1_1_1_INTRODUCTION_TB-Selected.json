@@ -1,0 +1,339 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "Ganita Manjari - Grade 9",
+  "reversalSummary": {
+    "inputCount": 8,
+    "reversedCount": 8,
+    "skippedCount": 0,
+    "coveragePercent": 100.0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [
+    {
+      "conceptId": "C001",
+      "id": "REV-M9.1.001",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "A cartographer needs to create a system that assigns numerical values to specific points on a map to identify their exact physical locations. What is the mathematical term for this type of framework?",
+      "options": [
+        {
+          "optionText": "A coordinate system",
+          "isCorrect": true
+        },
+        {
+          "optionText": "A chronological timeline",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A geometric polygon calculator",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A thermal measurement scale",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "A coordinate system",
+      "explanationAnswer": "The definition provided describes a coordinate system, which acts as a structured framework using numbers to define physical locations.",
+      "explanationQuestion": "Identify the term that matches the description of a numerical framework for locating points.",
+      "marks": 1,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C001",
+      "id": "REV-M9.1.004",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "multi",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "If a student is asked to identify the essential characteristics that allow a mathematical framework to function as a coordinate system, which of the following features must be present?",
+      "options": [
+        {
+          "optionText": "It must function as a structured framework."
+        },
+        {
+          "optionText": "It must be capable of being visualized as grid lines."
+        },
+        {
+          "optionText": "It must use numbers to map physical locations."
+        },
+        {
+          "optionText": "It must be used exclusively for measuring time intervals."
+        }
+      ],
+      "multi": [
+        "It must function as a structured framework.",
+        "It must be capable of being visualized as grid lines.",
+        "It must use numbers to map physical locations."
+      ],
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "A coordinate system is defined by its structure, its grid-like visualization, and its use of numbers for spatial location. Measuring time is not a defining characteristic of a spatial coordinate system.",
+      "explanationQuestion": "Select the properties that define a coordinate system.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "REV-M9.1.005",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "Which ancient civilization is historically credited with the first massive urban-scale application of grid systems for city planning?",
+      "options": [
+        {
+          "optionText": "The Sindhu-Sarasvatī Civilisation",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The Roman Empire",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The Mesopotamian Civilisation",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The Egyptian Civilisation",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "The Sindhu-Sarasvatī Civilisation",
+      "explanationAnswer": "Historical records indicate that the Sindhu-Sarasvatī Civilisation utilized grid layouts on a massive urban scale thousands of years ago.",
+      "explanationQuestion": "Identify the civilization known for early systematic grid usage.",
+      "marks": 1,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "REV-M9.1.006",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "truefalse",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "True or False: In the urban planning of the Sindhu-Sarasvatī Civilisation, the streets were laid out in a grid pattern with a uniform spacing of approximately 10 metres.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "True. The historical evidence confirms that the streets were spaced at intervals of about 10 metres, which demonstrates the precision of their urban planning.",
+      "explanationQuestion": "Evaluate the accuracy of the 10-metre spacing claim for Sindhu-Sarasvatī city grids.",
+      "correctAnswer": true,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "REV-M9.1.008",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "matchfollowing",
+      "category": "Recall",
+      "difficulty": "hard",
+      "leftItems": [
+        "First systematic use of grids on a massive urban scale",
+        "Used East-West and North-South lines for deep geometric constructions",
+        "Described the latitudes and longitudes of thousands of locations",
+        "Formalised the notion and use of zero and negative numbers"
+      ],
+      "rightItems": [
+        "Sindhu-Sarasvatī Civilisation",
+        "Baudhāyana",
+        "Ptolemy",
+        "Brahmagupta"
+      ],
+      "correctMappings": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 0
+        },
+        {
+          "leftIndex": 1,
+          "rightIndex": 1
+        },
+        {
+          "leftIndex": 2,
+          "rightIndex": 2
+        },
+        {
+          "leftIndex": 3,
+          "rightIndex": 3
+        }
+      ],
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "The matches are: Urban grids (Sindhu-Sarasvatī), Geometric lines (Baudhāyana), Latitudes/Longitudes (Ptolemy), Zero/Negative numbers (Brahmagupta).",
+      "explanationQuestion": "Match the historical achievement to the corresponding mathematician or civilization.",
+      "correctAnswer": null,
+      "set": "A",
+      "questionText": "Match the historical contributions in the left column with the figures or civilisations responsible for them in the right column."
+    },
+    {
+      "conceptId": "C003",
+      "id": "REV-M9.1.009",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "Which mathematician is noted for building upon Hipparchus's work to map thousands of locations using a system of latitudes and longitudes around 150 BCE?",
+      "options": [
+        {
+          "optionText": "Ptolemy",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Euclid",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Pythagoras",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Hipparchus",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "Ptolemy",
+      "explanationAnswer": "Ptolemy is the Greek mathematician who expanded on earlier work to document the coordinates of thousands of locations.",
+      "explanationQuestion": "Identify the mathematician who mapped locations using latitude and longitude.",
+      "marks": 1,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "REV-M9.1.013",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "The development of the four-quadrant Cartesian plane relies fundamentally on the algebraic formalisation of which mathematical concepts?",
+      "options": [
+        {
+          "optionText": "Zero and negative numbers",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Prime numbers and fractions",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Sines and cosines",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Geometric area and volume",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "Zero and negative numbers",
+      "explanationAnswer": "Brahmagupta's work on zero and negative numbers provided the necessary algebraic foundation for the four-quadrant Cartesian plane.",
+      "explanationQuestion": "Identify the mathematical concepts that enabled the creation of the Cartesian plane.",
+      "marks": 1,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "REV-M9.1.016",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "multi",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "Brahmagupta's mathematical contributions were essential for the development of modern coordinate systems. Which of the following components of a Cartesian plane are direct consequences of his work?",
+      "options": [
+        {
+          "optionText": "The definition of the origin as zero."
+        },
+        {
+          "optionText": "The representation of values less than zero on negative axes."
+        },
+        {
+          "optionText": "The existence of a four-quadrant plane."
+        },
+        {
+          "optionText": "The use of trigonometric ratios for mapping."
+        }
+      ],
+      "multi": [
+        "The definition of the origin as zero.",
+        "The representation of values less than zero on negative axes.",
+        "The existence of a four-quadrant plane."
+      ],
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "Brahmagupta's formalisation of zero and negative numbers allowed for the origin and the negative axes, which are the building blocks of the four-quadrant Cartesian plane.",
+      "explanationQuestion": "Select the features of the Cartesian plane derived from Brahmagupta's work.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 8,
+    "passed": 8,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "topic": "Page 1: 1.1 INTRODUCTION",
+  "batch": "Batch_2_Advanced_Cognitive",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Cartesian and Coordinate Geometry",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C004",
+      "id": "A2.001",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Which mathematician is credited with formalising the notion of zero and negative numbers as algebraic entities, which is essential for the structure of the four-quadrant Cartesian plane?",
+      "options": [
+        { "optionText": "Hipparchus", "isCorrect": false },
+        { "optionText": "Ptolemy", "isCorrect": false },
+        { "optionText": "Brahmagupta", "isCorrect": true },
+        { "optionText": "Aryabhata", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "Brahmagupta (c. 628 CE) formalised the use of zero and negative numbers, providing the algebraic foundation required for the coordinate system.",
+      "explanationQuestion": "The question asks for the historical figure who contributed the algebraic entities necessary for the modern Cartesian coordinate system.",
+      "correctAnswer": "Brahmagupta",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "A2.002",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "truefalse",
+      "sourceType": "Definition",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "The earliest systematic use of grid-based city planning, which mirrors the concept of a coordinate system, is found in the Sindhu-Sarasvati Civilisation.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "The text explicitly states that the first systematic use of grids occurred thousands of years ago in the Sindhu-Sarasvati Civilisation for city street layouts.",
+      "explanationQuestion": "The question tests the understanding of the historical origins of grid-based thinking mentioned in the introduction.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.003",
+      "topic": "Page 6: Quadrants",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "If a point $P$ has a negative $x$-coordinate and a positive $y$-coordinate, in which quadrant must it lie?",
+      "options": [
+        { "optionText": "Quadrant I", "isCorrect": false },
+        { "optionText": "Quadrant II", "isCorrect": true },
+        { "optionText": "Quadrant III", "isCorrect": false },
+        { "optionText": "Quadrant IV", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "By convention, Quadrant II is where $x < 0$ and $y > 0$.",
+      "explanationQuestion": "The question requires evaluating coordinate signs to identify the quadrant location.",
+      "correctAnswer": "Quadrant II",
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.004",
+      "topic": "Page 7: Reflection Questions",
+      "questionType": "truefalse",
+      "sourceType": "Reflection Question",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "The point $(x, y)$ always coincides with the point $(y, x)$ regardless of the values of $x$ and $y$.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The point $(x, y)$ coincides with $(y, x)$ if and only if $x = y$. If $x \neq y$, then $(x, y) \neq (y, x)$.",
+      "explanationQuestion": "This tests the understanding of coordinate order and symmetry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 14: Exercises",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "Given points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$ on the Cartesian plane. Prove whether $ABCD$ is a square by calculating the lengths of its sides and diagonals.",
+      "marks": 4,
+      "subjective_evaluation_points": [
+        { "point": "Calculate the distance between consecutive points $AB, BC, CD, DA$ using the distance formula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.", "marks": 2 },
+        { "point": "Show that all four sides are equal in length ($\\sqrt{10}$ units).", "marks": 1 },
+        { "point": "Calculate lengths of diagonals $AC$ and $BD$ and show they are equal ($\\sqrt{20}$ units), confirming it is a square.", "marks": 1 }
+      ],
+      "explanationAnswer": "The sides are all $\\sqrt{10}$ and diagonals are $\\sqrt{20}$, satisfying the condition for a square.",
+      "explanationQuestion": "This requires applying the distance formula to verify geometric properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.006",
+      "topic": "Page 14: Exercises",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200\\text{ m}$ apart, if the city centre is $(0, 0)$, find the number of street intersections that can be described by the coordinate $(4, 3)$. Explain your reasoning.",
+      "marks": 2,
+      "subjective_evaluation_points": [
+        { "point": "Identify that the coordinate $(4, 3)$ refers to a unique intersection point formed by the 4th street in the North-South direction and 3rd street in the East-West direction.", "marks": 1 },
+        { "point": "Conclude that there is only one such intersection.", "marks": 1 }
+      ],
+      "explanationAnswer": "There is exactly one intersection at $(4, 3)$ because coordinates represent a unique location in a Cartesian system.",
+      "explanationQuestion": "This tests the application of coordinate systems to real-world grid layouts.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

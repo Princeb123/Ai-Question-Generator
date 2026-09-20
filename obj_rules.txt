@@ -1,0 +1,115 @@
+Question Type Specifications
+
+Overall rules:
+sourceType is a required field
+questionType is a required field
+category is a required field and must be among valid categories
+difficulty is a required field
+questionText is a required field
+
+
+1. mcq
+
+Required fields:
+- options : The "options" field MUST be an array of JSON objects. Inside it each json object should have "optionText" as shown in example.
+
+Rules:
+- Minimum 2 options.
+- Exactly one option must have "isCorrect": true.
+
+Example:
+
+{
+  "questionType": "mcq",
+  "options": [
+    { "optionText": "Candela", "isCorrect": true },
+    { "optionText": "Lumen", "isCorrect": false },
+    { "optionText": "Lux", "isCorrect": false },
+    { "optionText": "Watt", "isCorrect": false }
+  ]
+}
+
+2. multi
+
+Required fields:
+- options: The "options" field MUST be an array of JSON objects. Inside it each json object should have "optionText" as shown in example.
+- multi
+
+Rules:
+- Every value in multi must exist in options.
+- One or more correct answers are allowed.
+
+Example:
+
+{
+  "questionType": "multi",
+  "options": [
+    { "optionText": "Optical fibre" },
+    { "optionText": "Periscope" },
+    { "optionText": "Convex lens" },
+    { "optionText": "Binocular prism" }
+  ],
+  "multi": [
+    "Optical fibre",
+    "Binocular prism"
+  ]
+}
+
+3. truefalse
+
+Required field:
+- correctAnswer
+
+Example:
+
+{
+  "questionType": "truefalse",
+  "questionText": "...",
+  "correctAnswer": true
+}
+
+4. fillblanks
+
+Required field:
+- blanks
+
+Example:
+
+{
+  "questionType": "fillblanks",
+  "questionText": "The angle between the ______ ray and the ______ is called the angle of incidence.",
+  "blanks": [
+    "incident",
+    "normal"
+  ]
+}
+
+5. matchfollowing
+
+Required fields:
+- leftItems
+- rightItems
+- correctMappings
+
+Rules:
+- leftItems and rightItems must be arrays of strings with at least 1 item each.
+- correctMappings must be an array of objects specifying 0-indexed pairs: {"leftIndex": number, "rightIndex": number}.
+- All indices in correctMappings must be within bounds of leftItems and rightItems arrays.
+
+Example:
+
+{
+  "questionType": "matchfollowing",
+  "leftItems": [
+    "Angle of Incidence",
+    "Angle of Refraction"
+  ],
+  "rightItems": [
+    "Angle between incident ray and normal",
+    "Angle between refracted ray and normal"
+  ],
+  "correctMappings": [
+    { "leftIndex": 0, "rightIndex": 0 },
+    { "leftIndex": 1, "rightIndex": 1 }
+  ]
+}

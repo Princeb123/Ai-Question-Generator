@@ -1,0 +1,67 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "reversalSummary": {
+    "inputCount": 1,
+    "reversedCount": 1,
+    "skippedCount": 0,
+    "coveragePercent": 100.0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "REV-S001.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "A student observes that the distance between two points on a Cartesian plane can be represented as the hypotenuse of a right-angled triangle. If the horizontal leg of this triangle has a length of |x2 - x1| and the vertical leg has a length of |y2 - y1|, derive the mathematical expression for the distance between these two points and justify why the Baudhayana-Pythagoras Theorem is the fundamental basis for this derivation.",
+      "options": null,
+      "correctAnswer": "The distance is sqrt((x2 - x1)^2 + (y2 - y1)^2). The theorem states that in a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides, which directly maps to the distance formula.",
+      "explanationAnswer": "By applying the Baudhayana-Pythagoras Theorem (a^2 + b^2 = c^2) to the right triangle formed by the coordinates, where the legs are the differences in x and y coordinates, we get d^2 = (x2 - x1)^2 + (y2 - y1)^2. Taking the square root yields the distance formula.",
+      "explanationQuestion": "The question requires the student to work backwards from the geometric construction of the distance formula to its algebraic representation and theoretical justification.",
+      "marks": 4,
+      "pageNumber": 15,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/textbook.php?iemh1=0-15",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "State that in a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides (Baudhayana-Pythagoras Theorem).",
+          "marks": 1
+        },
+        {
+          "point": "Express the lengths of the horizontal and vertical legs as |x2 - x1| and |y2 - y1| respectively.",
+          "marks": 1
+        },
+        {
+          "point": "Set up the equation d^2 = (x2 - x1)^2 + (y2 - y1)^2 using the theorem.",
+          "marks": 1
+        },
+        {
+          "point": "Solve for d to derive the distance formula d = sqrt((x2 - x1)^2 + (y2 - y1)^2).",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 1,
+    "passed": 1,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

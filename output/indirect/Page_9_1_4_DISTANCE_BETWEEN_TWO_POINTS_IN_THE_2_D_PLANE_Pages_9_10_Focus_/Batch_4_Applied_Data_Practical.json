@@ -1,0 +1,106 @@
+{
+  "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+  "batch": "Batch_4_Applied_Data_Practical",
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Based on the derivation of the distance formula in the chapter, if a point A is at $(3, 4)$ and point D is at $(7, 1)$, what is the distance $AD$ calculated using the Baudhayana-Pythagoras Theorem?",
+      "options": [
+        { "optionText": "$3$ units", "isCorrect": false },
+        { "optionText": "$4$ units", "isCorrect": false },
+        { "optionText": "$5$ units", "isCorrect": true },
+        { "optionText": "$7$ units", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Class 9 Ganita Manjari",
+      "pageNumber": 9,
+      "marks": 1,
+      "explanationAnswer": "The distance formula is $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$. Here, $\\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16+9} = \\sqrt{25} = 5$ units.",
+      "explanationQuestion": "The question asks to apply the distance formula derived from the Baudhayana-Pythagoras theorem on the provided coordinates in the text.",
+      "correctAnswer": "$5$ units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.002",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Explain how the distance between two points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is derived using the Baudhayana-Pythagoras Theorem as shown in the textbook.",
+      "subjective_evaluation_points": [
+        { "point": "Identify that the horizontal distance between points is $|x_{2}-x_{1}|$.", "marks": 1 },
+        { "point": "Identify that the vertical distance between points is $|y_{2}-y_{1}|$.", "marks": 1 },
+        { "point": "State that these form the two sides of a right-angled triangle with the distance between points as the hypotenuse.", "marks": 1 },
+        { "point": "Apply the theorem $c^{2} = a^{2} + b^{2}$ to arrive at the formula $d = \\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "NCERT - Class 9 Ganita Manjari",
+      "pageNumber": 10,
+      "marks": 4,
+      "explanationAnswer": "The derivation relies on creating a right triangle where the horizontal leg is the difference in x-coordinates and the vertical leg is the difference in y-coordinates, then using the Pythagoras theorem to find the hypotenuse.",
+      "explanationQuestion": "The question requires explaining the geometric derivation of the distance formula.",
+      "correctAnswer": "Derivation using a right triangle and Pythagoras theorem.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In the experiment of pinning threads to a grid to represent a room (Fig 1.1), if the scale is $1\\text{ cm} : 1\\text{ foot}$, then a distance of $5\\text{ cm}$ on the sketch represents a physical room distance of $5\\text{ feet}$.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "NCERT - Class 9 Ganita Manjari",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "The scale $1\\text{ cm} : 1\\text{ foot}$ implies a direct linear conversion where $1\\text{ cm}$ on the map equals $1\\text{ foot}$ in reality.",
+      "explanationQuestion": "The question tests the understanding of scale conversion used in the practical activity.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.004",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If you were to map a room using pins and threads as described in the activity, why is it necessary to define an origin $(0, 0)$ and a standard scale before marking points?",
+      "subjective_evaluation_points": [
+        { "point": "Defining an origin provides a fixed reference point to measure all other coordinates.", "marks": 1 },
+        { "point": "A standard scale ensures that the relative proportions and actual physical dimensions are maintained accurately in the sketch.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "NCERT - Class 9 Ganita Manjari",
+      "pageNumber": 3,
+      "marks": 2,
+      "explanationAnswer": "The origin and scale are fundamental to creating a consistent coordinate system that allows for accurate distance and position calculation.",
+      "explanationQuestion": "The question requires conceptual understanding of the practical activity's requirements.",
+      "correctAnswer": "To ensure fixed reference and accurate dimensional representation.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 4,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 2,
+    "coveragePercentage": "5%"
+  }
+}

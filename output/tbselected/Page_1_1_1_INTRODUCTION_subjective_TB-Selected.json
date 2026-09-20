@@ -1,0 +1,77 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 3,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 3,
+    "coveragePercentage": "7.5%"
+  },
+  "validationMeta": {
+    "totalInput": 1,
+    "passed": 1,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "selectionSummary": {
+    "initialCount": 3,
+    "selectedCount": 1,
+    "removedCount": 2,
+    "removalReasons": {
+      "duplicates": 0,
+      "nonStandardCategory": 0,
+      "categoryOverRepresentation": 0,
+      "lowQuality": 2
+    }
+  },
+  "questions": [
+    {
+      "conceptId": "C004",
+      "id": "S001.003",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "subjective",
+      "sourceType": "TB-Selected",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "How did the work of Brahmagupta contribute to the development of the modern Cartesian plane?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies Brahmagupta's formalisation of zero.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies the formalisation of negative numbers as algebraic entities.",
+          "marks": 1
+        },
+        {
+          "point": "Explains that these concepts are essential for defining the origin and negative axes.",
+          "marks": 1
+        },
+        {
+          "point": "Concludes that without these, the four-quadrant Cartesian plane would be impossible.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "Brahmagupta (c. 628 CE) formalised the notion of zero and negative numbers as algebraic entities. In modern coordinate systems, the 'origin' is zero and the 'negative axes' represent values less than zero. Therefore, his work laid the necessary foundation for the four-quadrant Cartesian plane.",
+      "explanationQuestion": "This question requires the student to synthesize historical information to explain the mathematical necessity of specific concepts in coordinate geometry.",
+      "correctAnswer": "Brahmagupta formalised zero and negative numbers, which allowed for the creation of the origin and negative axes, making the four-quadrant Cartesian plane possible.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ]
+}

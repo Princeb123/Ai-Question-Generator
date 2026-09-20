@@ -1,0 +1,203 @@
+Chapter: Orienting Yourself: The Use of Coordinates
+
+Concept ID: C001
+Topic: Introduction to Coordinates
+Concept: Definition of a coordinate system as a structured framework using numbers to describe physical locations.
+Source Type: Definition
+
+Concept ID: C002
+Topic: Introduction to Coordinates
+Concept: Historical fact: First systematic use of grids in the Sindhu-Sarasvati Civilisation for city street layouts.
+Source Type: Definition
+
+Concept ID: C003
+Topic: Introduction to Coordinates
+Concept: Historical fact: Ptolemy (c. 150 BCE) described latitudes and longitudes for mapping.
+Source Type: Definition
+
+Concept ID: C004
+Topic: Introduction to Coordinates
+Concept: Historical fact: Brahmagupta (c. 628 CE) formalised the notion of zero and negative numbers as algebraic entities.
+Source Type: Definition
+
+Concept ID: C005
+Topic: The 2-D Cartesian Coordinate System
+Concept: Definition of the Cartesian plane (xy-plane) using two perpendicular axes.
+Source Type: Definition
+
+Concept ID: C006
+Topic: The 2-D Cartesian Coordinate System
+Concept: Definition of the origin (0, 0) as the intersection of x-axis and y-axis.
+Source Type: Definition
+
+Concept ID: C007
+Topic: The 2-D Cartesian Coordinate System
+Concept: Convention: Points to the right of the origin are positive x-coordinates; to the left are negative x-coordinates.
+Source Type: Definition
+
+Concept ID: C008
+Topic: The 2-D Cartesian Coordinate System
+Concept: Convention: Points above the origin are positive y-coordinates; below are negative y-coordinates.
+Source Type: Definition
+
+Concept ID: C009
+Topic: The 2-D Cartesian Coordinate System
+Concept: Interpretation of (x, y) coordinates where x is distance from y-axis and y is distance from x-axis.
+Source Type: Diagram
+
+Concept ID: C010
+Topic: The 2-D Cartesian Coordinate System
+Concept: Property: Points on the x-axis have a y-coordinate of 0.
+Source Type: Fact
+
+Concept ID: C011
+Topic: The 2-D Cartesian Coordinate System
+Concept: Property: Points on the y-axis have an x-coordinate of 0.
+Source Type: Fact
+
+Concept ID: C012
+Topic: The 2-D Cartesian Coordinate System
+Concept: Identification of the four quadrants and their sign conventions (+, +), (-, +), (-, -), and (+, -).
+Source Type: Definition
+
+Concept ID: C013
+Topic: The 2-D Cartesian Coordinate System
+Concept: Example: Identifying S(3, -5) in Quadrant IV and Q(-5, 3) in Quadrant II.
+Source Type: Example
+
+Concept ID: C014
+Topic: The 2-D Cartesian Coordinate System
+Concept: Property: If x ≠ y, then (x, y) ≠ (y, x) (Order matters).
+Source Type: Fact
+
+Concept ID: C015
+Topic: The 2-D Cartesian Coordinate System
+Concept: Property: The point (x, y) coincides with (y, x) only if x = y.
+Source Type: Fact
+
+Concept ID: C016
+Topic: Distance Between Two Points in the 2-D Plane
+Concept: Definition of the distance between two points on the axes or a line parallel to an axis using absolute differences.
+Source Type: Definition
+
+Concept ID: C017
+Topic: Distance Between Two Points in the 2-D Plane
+Concept: Derivation of the distance formula using the Baudhayana-Pythagoras Theorem for a right-angled triangle.
+Source Type: Diagram
+
+Concept ID: C018
+Topic: Distance Between Two Points in the 2-D Plane
+Concept: Distance formula: sqrt((x2 - x1)^2 + (y2 - y1)^2).
+Source Type: Definition
+
+Concept ID: C019
+Topic: Distance Between Two Points in the 2-D Plane
+Concept: Fact: Reflection of a triangle across an axis preserves side lengths (distance).
+Source Type: Fact
+
+Concept ID: C020
+Topic: Exercises
+Concept: Exercise: Determining the fourth corner of a rectangle given three vertices.
+Source Type: Exercise
+
+Concept ID: C021
+Topic: Exercises
+Concept: Exercise: Determining coordinates of points based on a room layout (Fig 1.3).
+Source Type: Exercise
+
+Concept ID: C022
+Topic: Exercises
+Concept: Exercise: Using the distance formula to find lengths of sides of an acute triangle.
+Source Type: Exercise
+
+Concept ID: C023
+Topic: Exercises
+Concept: Exercise: Determining if three points are collinear.
+Source Type: Exercise
+
+Concept ID: C024
+Topic: Exercises
+Concept: Exercise: Calculating the midpoint of a segment given endpoints.
+Source Type: Exercise
+
+Concept ID: C025
+Topic: Exercises
+Concept: Exercise: Finding the coordinates of endpoints given one endpoint and a midpoint.
+Source Type: Exercise
+
+Concept ID: C026
+Topic: Exercises
+Concept: Exercise: Verifying if points lie on a circle (distance from origin equals radius).
+Source Type: Exercise
+
+Concept ID: C027
+Topic: Exercises
+Concept: Exercise: Mapping a grid-based street city layout to a coordinate system.
+Source Type: Exercise
+
+Concept ID: C028
+Topic: Exercises
+Concept: Exercise: Calculating intersections of paths on a 2-D grid.
+Source Type: Exercise
+
+Concept ID: C029
+Topic: Exercises
+Concept: Exercise: Checking if geometric shapes (circles) intersect on a screen.
+Source Type: Exercise
+
+Concept ID: C030
+Topic: Exercises
+Concept: Exercise: Proving if a quadrilateral is a square using coordinate distance calculations.
+Source Type: Exercise
+
+Concept ID: C031
+Topic: Reflection Questions
+Concept: Reflection: Determining the x-coordinate of any point on the y-axis.
+Source Type: Reflection Question
+
+Concept ID: C032
+Topic: Reflection Questions
+Concept: Reflection: Determining the y-coordinate of any point on the x-axis.
+Source Type: Reflection Question
+
+Concept ID: C033
+Topic: Reflection Questions
+Concept: Reflection: Reflecting a triangle across the x-axis vs. the y-axis.
+Source Type: Reflection Question
+
+Concept ID: C034
+Topic: Table Entry
+Concept: Table: Checking midpoint calculation for (-3, 0) and (3, 0) relative to (0, 0).
+Source Type: Table
+
+Concept ID: C035
+Topic: Table Entry
+Concept: Table: Checking midpoint calculation for (2, 3) and (4, 5) relative to (3, 4).
+Source Type: Table
+
+Concept ID: C036
+Topic: Table Entry
+Concept: Table: Checking midpoint calculation for (0, 0) and (0, -10) relative to (0, 5).
+Source Type: Table
+
+Concept ID: C037
+Topic: Table Entry
+Concept: Table: Checking midpoint calculation for (-8, 7) and (6, -3) relative to (0, -2).
+Source Type: Table
+
+Concept ID: C038
+Topic: Activity
+Concept: Activity: Measuring room dimensions with pins and strings to understand coordinates.
+Source Type: Activity
+
+Concept ID: C039
+Topic: Diagram Interpretation
+Concept: Interpretation: Identifying the origin (0, 0) in the context of the room layout (Fig 1.3).
+Source Type: Diagram
+
+Concept ID: C040
+Topic: Diagram Interpretation
+Concept: Interpretation: Understanding the scale conversion of 1 cm : 1 foot.
+Source Type: Diagram
+
+Total Atomic Concepts Identified: 40

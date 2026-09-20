@@ -1,0 +1,143 @@
+{
+  "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+  "batch": "Batch_3_Contextual_Logic",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Cartesian and Coordination",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C021",
+      "id": "A2.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "In the room layout provided (Fig 1.3), if the bottom-left corner of the room is the origin $(0,0)$, and the door $D_1R_1$ is located such that $D_1$ is at $(7, 0)$ and $R_1$ is at $(11.5, 0)$, what is the width of the door in feet?",
+      "options": [
+        { "optionText": "3.5 feet", "isCorrect": false },
+        { "optionText": "4.5 feet", "isCorrect": true },
+        { "optionText": "7 feet", "isCorrect": false },
+        { "optionText": "11.5 feet", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "The distance between $D_1(7, 0)$ and $R_1(11.5, 0)$ along the x-axis is calculated as $|11.5 - 7| = 4.5$ feet.",
+      "explanationQuestion": "The question tests the application of coordinate geometry to measure physical distances in a layout.",
+      "correctAnswer": "4.5 feet",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "A city has roads 200 m apart in both North-South and East-West directions. If the intersection of the 2nd North-South road and 5th East-West road is $(2, 5)$, how many unique street intersections can be referred to as $(4, 3)$?",
+      "options": [
+        { "optionText": "0", "isCorrect": false },
+        { "optionText": "1", "isCorrect": true },
+        { "optionText": "2", "isCorrect": false },
+        { "optionText": "4", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "In a Cartesian coordinate system, a unique pair of $(x, y)$ coordinates defines exactly one unique point or intersection.",
+      "explanationQuestion": "The question tests the understanding of unique mapping in a grid-based coordinate system.",
+      "correctAnswer": "1",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The point $(3, 5)$ is the same as the point $(5, 3)$ in a 2-D Cartesian plane. Reason: The order of coordinates in an ordered pair does not matter for defining the location.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The order of coordinates $(x, y)$ is fixed; $x$ represents the horizontal distance and $y$ the vertical. $(3, 5) \neq (5, 3)$ unless $x=y$.",
+      "explanationQuestion": "This tests the fundamental property of ordered pairs in coordinate geometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C011",
+      "id": "A2.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: Any point lying on the y-axis must have its x-coordinate equal to zero. Reason: The y-axis is defined as the set of all points where the horizontal distance from the origin is null.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "By definition, the y-axis is the locus of points where the perpendicular distance from the y-axis (the x-coordinate) is $0$.",
+      "explanationQuestion": "This tests the definition of axis-based coordinate properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Given points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$, prove that $ABCD$ is a square by calculating the lengths of its sides.",
+      "subjective_evaluation_points": [
+        { "point": "Calculate length of $AB$ using distance formula: $\\sqrt{(-1-2)^{2} + (2-1)^{2}} = \\sqrt{9+1} = \\sqrt{10}$.", "marks": 1 },
+        { "point": "Calculate length of $BC$, $CD$, and $DA$ showing all equal $\\sqrt{10}$.", "marks": 1 },
+        { "point": "Show that the diagonals $AC$ and $BD$ are equal or sides are perpendicular to confirm it is a square.", "marks": 1 },
+        { "point": "Conclude that since all sides are equal and diagonals are equal, it is a square.", "marks": 1 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The side lengths are all $\\sqrt{10}$. Since all sides are equal and the diagonals are equal, the shape is a square.",
+      "explanationQuestion": "This requires applying the distance formula to verify geometric properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.006",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Points $A(1, -8)$, $B(-4, 7)$, and $C(-7, -4)$ lie on a circle centered at the origin $(0, 0)$. Determine the radius of this circle and verify if point $D(-5, 6)$ lies inside, outside, or on the circle.",
+      "subjective_evaluation_points": [
+        { "point": "Calculate radius $r$ using $OA = \\sqrt{1^{2} + (-8)^{2}} = \\sqrt{65}$.", "marks": 1 },
+        { "point": "Verify $OB$ and $OC$ also equal $\\sqrt{65}$.", "marks": 1 },
+        { "point": "Calculate distance $OD = \\sqrt{(-5)^{2} + 6^{2}} = \\sqrt{25 + 36} = \\sqrt{61}$.", "marks": 1 },
+        { "point": "Conclude $OD < \\sqrt{65}$, so $D$ lies inside the circle.", "marks": 1 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The radius is $\\sqrt{65}$. Since the distance of $D$ from the origin is $\\sqrt{61} < \\sqrt{65}$, $D$ is inside.",
+      "explanationQuestion": "This tests the application of the distance formula to geometric loci.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

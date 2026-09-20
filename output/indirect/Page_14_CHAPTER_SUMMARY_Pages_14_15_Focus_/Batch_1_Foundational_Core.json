@@ -1,0 +1,135 @@
+{
+  "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+  "batch": "Batch_1_Foundational_Core",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Cartesian and Coordinate Geometry",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C012",
+      "id": "A2.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "In the Cartesian plane, which quadrant contains points where both the x-coordinate and y-coordinate are negative?",
+      "options": [
+        { "optionText": "Quadrant I", "isCorrect": false },
+        { "optionText": "Quadrant II", "isCorrect": false },
+        { "optionText": "Quadrant III", "isCorrect": true },
+        { "optionText": "Quadrant IV", "isCorrect": false }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "By definition, the third quadrant is characterized by points $(x, y)$ where $x < 0$ and $y < 0$.",
+      "explanationQuestion": "The question asks to identify the quadrant based on the sign convention of coordinate axes.",
+      "correctAnswer": "Quadrant III",
+      "set": "A"
+    },
+    {
+      "conceptId": "C006",
+      "id": "A2.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Definition",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "The coordinates of the origin, which is the point of intersection of the x-axis and the y-axis, are defined as $(1, 1)$.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The origin is defined as the point $(0, 0)$, not $(1, 1)$.",
+      "explanationQuestion": "The question tests the fundamental definition of the origin in a Cartesian coordinate system.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "For any two distinct real numbers $x$ and $y$, the point $(x, y)$ is identical to the point $(y, x)$.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "If $x \\neq y$, the order of coordinates matters, so $(x, y) \\neq (y, x)$.",
+      "explanationQuestion": "The question tests the comprehension of coordinate ordering in 2D space.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Definition",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "According to the distance formula derived from the Baudhayana-Pythagoras Theorem, the distance between points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is given by $\\sqrt{______ + ______}$.",
+      "blanks": [
+        "(x_{2} - x_{1})^{2}",
+        "(y_{2} - y_{1})^{2}"
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The distance formula is $\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$.",
+      "explanationQuestion": "The question requires recalling the standard distance formula structure.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A2.005",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Fact",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Explain why the coordinates of any point on the x-axis must be of the form $(x, 0)$ and provide a geometric justification.",
+      "subjective_evaluation_points": [
+        { "point": "Correctly states that the y-coordinate represents the perpendicular distance from the x-axis.", "marks": 1 },
+        { "point": "Explains that for any point on the x-axis, the perpendicular distance from the x-axis is zero, hence y=0.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 2,
+      "explanationAnswer": "A point on the x-axis has no vertical displacement from the axis, meaning its distance from the x-axis is zero. Thus, its y-coordinate is 0.",
+      "explanationQuestion": "This requires applying the definition of coordinates to a specific geometric scenario.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.006",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Definition",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Calculate the distance between the points $P(3, 4)$ and $Q(6, 8)$ using the distance formula.",
+      "subjective_evaluation_points": [
+        { "point": "Identifies the formula $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.", "marks": 1 },
+        { "point": "Substitutes values correctly: $\\sqrt{(6-3)^{2} + (8-4)^{2}} = \\sqrt{3^{2} + 4^{2}} = \\sqrt{9+16} = \\sqrt{25}$.", "marks": 1 },
+        { "point": "States the final result as 5 units.", "marks": 2 }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 4,
+      "explanationAnswer": "Distance = $\\sqrt{(6-3)^{2} + (8-4)^{2}} = \\sqrt{3^{2} + 4^{2}} = 5$.",
+      "explanationQuestion": "This tests the application of the distance formula to specific coordinates.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "10%"
+  }
+}

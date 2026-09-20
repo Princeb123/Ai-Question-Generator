@@ -1,0 +1,1 @@
+A triangle plotted on a Cartesian coordinate plane with labeled vertices.

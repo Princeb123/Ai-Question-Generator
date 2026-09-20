@@ -1,0 +1,960 @@
+{
+  "subject": "Artificial Intelligence",
+  "grade": 10,
+  "chapterName": "Cartisan and Coordination ",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C005",
+      "id": "A1.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "What is the name given to the plane formed by the intersection of two perpendicular coordinate axes?",
+      "options": [
+        {
+          "optionText": "Cartesian plane",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Euclidean space",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Linear plane",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Origin plane",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The summary explicitly states that the plane in which the axes are situated is called the Cartesian plane, the coordinate plane, or the xy-plane.",
+      "explanationQuestion": "The question asks for the terminology used to describe the 2D surface defined by coordinate axes.",
+      "correctAnswer": "Cartesian plane",
+      "set": "A"
+    },
+    {
+      "conceptId": "C006",
+      "id": "A1.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "The point of intersection of the x-axis and y-axis is called the origin, and its coordinates are $(0, 0)$.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The chapter summary defines the point of intersection of the axes as the origin, with coordinates $(0, 0)$.",
+      "explanationQuestion": "The question tests the definition of the origin in a coordinate system.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A1.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "The coordinate axes divide the plane into four parts called ______, and the coordinates of a point in the first quadrant are of the form (______, ______).",
+      "blanks": [
+        "quadrants",
+        "+",
+        "+"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The summary states that the axes divide the plane into four quadrants, and the first quadrant has coordinates of the form (+, +).",
+      "explanationQuestion": "The question requires recalling the division of the plane and the sign convention for the first quadrant.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A1.007",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "multi",
+      "sourceType": "TB-Extra",
+      "category": "Analysis",
+      "difficulty": "medium",
+      "questionText": "Which of the following sign conventions for quadrants are correctly identified in the summary?",
+      "options": [
+        {
+          "optionText": "First quadrant: (+, +)"
+        },
+        {
+          "optionText": "Second quadrant: (-, +)"
+        },
+        {
+          "optionText": "Third quadrant: (+, -)"
+        },
+        {
+          "optionText": "Fourth quadrant: (+, -)"
+        }
+      ],
+      "multi": [
+        "First quadrant: (+, +)",
+        "Second quadrant: (-, +)",
+        "Fourth quadrant: (+, -)"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The summary identifies: First (+, +), Second (-, +), Third (-, -), and Fourth (+, -). Option 3 is incorrect as the third quadrant is (-, -).",
+      "explanationQuestion": "The question tests the knowledge of sign conventions in the four quadrants.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C005",
+      "id": "S001.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "Define the Cartesian plane and identify the names of the two perpendicular lines that form it.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/textbook.php?iemh1=0-15",
+      "pageNumber": 14,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Defines the Cartesian plane as the plane in which axes are situated.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies the two perpendicular lines as the x-axis and the y-axis.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The Cartesian plane (also called the coordinate plane or xy-plane) is the plane in which the coordinate axes are situated. It is formed by two perpendicular lines: the horizontal line called the x-axis and the vertical line called the y-axis.",
+      "explanationQuestion": "This question tests the student's ability to recall basic definitions provided in the Chapter Summary on page 14.",
+      "correctAnswer": "The Cartesian plane is the plane in which the coordinate axes are situated. It is formed by the x-axis (horizontal) and the y-axis (vertical).",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "S001.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Analysis",
+      "difficulty": "medium",
+      "questionText": "Explain how the coordinate axes divide the plane and describe the sign conventions for the coordinates $(x, y)$ in each of the four quadrants.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/textbook.php?iemh1=0-15",
+      "pageNumber": 15,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "States that the axes divide the plane into four parts called quadrants.",
+          "marks": 1
+        },
+        {
+          "point": "Lists the sign convention for Quadrant I as (+, +).",
+          "marks": 0.75
+        },
+        {
+          "point": "Lists the sign convention for Quadrant II as (-, +).",
+          "marks": 0.75
+        },
+        {
+          "point": "Lists the sign convention for Quadrant III as (-, -).",
+          "marks": 0.75
+        },
+        {
+          "point": "Lists the sign convention for Quadrant IV as (+, -).",
+          "marks": 0.75
+        }
+      ],
+      "explanationAnswer": "The coordinate axes divide the plane into four parts called quadrants. The sign conventions are: Quadrant I: (+, +), Quadrant II: (-, +), Quadrant III: (-, -), and Quadrant IV: (+, -).",
+      "explanationQuestion": "This question requires the student to synthesize information from the summary regarding quadrants and sign conventions.",
+      "correctAnswer": "The axes divide the plane into four quadrants. The signs are: Q1 (+, +), Q2 (-, +), Q3 (-, -), Q4 (+, -).",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C001",
+      "id": "M9.1.002",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "truefalse",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "easy",
+      "questionText": "A coordinate system acts as a structured framework that enables us to use numbers to describe the exact physical locations of points or objects.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "This statement is true as it directly matches the definition of a coordinate system provided in the text.",
+      "explanationQuestion": "The statement tests the basic definition of a coordinate system.",
+      "correctAnswer": true,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C001",
+      "id": "M9.1.003",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "A system of coordinates is a structured framework that enables us to use ______ to describe the exact physical ______ of points or objects.",
+      "options": null,
+      "multi": null,
+      "blanks": [
+        "numbers",
+        "locations"
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The definition states that a coordinate system enables us to use 'numbers' to describe the exact physical 'locations' of points or objects.",
+      "explanationQuestion": "Fill in the missing key terms from the definition of a coordinate system.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "M9.1.007",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "In the Sindhu-Sarasvatī Civilisation, city streets were constructed with striking precision in ______ and ______ directions at uniform distances of about $10\\text{ metres}$ apart.",
+      "options": null,
+      "multi": null,
+      "blanks": [
+        "North-South",
+        "East-West"
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text specifies that the streets were constructed in 'North-South' and 'East-West' directions.",
+      "explanationQuestion": "Fill in the directions in which the streets of the Sindhu-Sarasvatī Civilisation were aligned.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C003",
+      "id": "M9.1.010",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "truefalse",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "Ptolemy's work on describing latitudes and longitudes built upon earlier works, including that of Hipparchus.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "This is true. The text explicitly mentions that Ptolemy built on earlier works, 'including that of Hipparchus'.",
+      "explanationQuestion": "Determine if Ptolemy's work was built upon Hipparchus's earlier contributions.",
+      "correctAnswer": true,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C003",
+      "id": "M9.1.011",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "The Greek mathematician ______ (c. $150\\text{ BCE}$) described the ______ and ______ of thousands of locations, including 'Ozine'.",
+      "options": null,
+      "multi": null,
+      "blanks": [
+        "Ptolemy",
+        "latitudes",
+        "longitudes"
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text states that 'Ptolemy' described the 'latitudes' and 'longitudes' of thousands of locations.",
+      "explanationQuestion": "Fill in the name of the mathematician and the coordinate terms he described.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C003",
+      "id": "M9.1.012",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "mcq",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "Which ancient location, later identified as Ujjayinī, had its latitude and longitude described by Ptolemy?",
+      "options": [
+        {
+          "optionText": "'Ozine'",
+          "isCorrect": true
+        },
+        {
+          "optionText": "'Arin'",
+          "isCorrect": false
+        },
+        {
+          "optionText": "'Sindhind'",
+          "isCorrect": false
+        },
+        {
+          "optionText": "'Siddhānta'",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text states that Ptolemy described the latitudes and longitudes of thousands of locations, 'including 'Ozine' (Ujjayinī)'.",
+      "explanationQuestion": "Identify the ancient name used by Ptolemy for Ujjayinī.",
+      "correctAnswer": "'Ozine'",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "M9.1.014",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "truefalse",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "Without Brahmagupta's formalisation of zero and negative numbers, the four-quadrant Cartesian plane would still have been easily developed.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "This statement is false. The text explicitly states: 'Without Brahmagupta's work, the four-quadrant Cartesian plane, as we will study in this chapter, would be impossible.'",
+      "explanationQuestion": "Evaluate the necessity of Brahmagupta's work to the development of the Cartesian plane.",
+      "correctAnswer": false,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "M9.1.015",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "Brahmagupta (c. $628\\text{ CE}$) formalised the notion and use of ______ and the ______ numbers as algebraic entities.",
+      "options": null,
+      "multi": null,
+      "blanks": [
+        "zero",
+        "negative"
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text states that Brahmagupta formalised the notion and use of 'zero' and 'negative' numbers.",
+      "explanationQuestion": "Fill in the mathematical concepts formalised by Brahmagupta.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C001",
+      "id": "S001.001",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "easy",
+      "questionText": "Define a coordinate system and explain its primary purpose in representing physical locations.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Defines coordinate system as a structured framework.",
+          "marks": 1
+        },
+        {
+          "point": "Explains its purpose as using numbers to describe exact physical locations or points.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "A coordinate system is a structured framework (like grid lines on a map or graph paper) that enables us to use numbers to describe the exact physical locations of points or objects.",
+      "explanationQuestion": "This question tests the student's understanding of the basic definition provided in the introduction of the chapter.",
+      "correctAnswer": "A coordinate system is a structured framework that uses numbers to describe the exact physical locations of points or objects.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "S001.002",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "Describe the historical significance of the Sindhu-Sarasvati Civilisation regarding the concept of 'grid-based thinking'.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Mentions the Sindhu-Sarasvati Civilisation.",
+          "marks": 1
+        },
+        {
+          "point": "Notes the construction of city streets with precision in North-South and East-West directions at uniform distances.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The Sindhu-Sarasvati Civilisation represents one of the earliest systematic uses of grids. City streets were constructed with striking precision in North-South and East-West directions at uniform distances of about 10 metres apart, functioning as a coordinate system in practice.",
+      "explanationQuestion": "This question assesses the student's knowledge of the historical context of coordinate geometry as introduced in the text.",
+      "correctAnswer": "The Sindhu-Sarasvati Civilisation used grid-based thinking to construct city streets with precision in North-South and East-West directions at uniform distances.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "Shalini decided to use what she had learnt in Coordinate Geometry to guide Reiaan.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 2,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text states: 'Shalini has just completed Grade 9 and this time, she decided to put to use what she has learnt in Coordinate Geometry in Mathematics to guide Reiaan.'",
+      "explanationQuestion": "The question tests the reader's understanding of the character's motivation and application of knowledge.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "Shalini used a scale of ______ cm : ______ foot to mark the points in the room sketch.",
+      "blanks": [
+        "1",
+        "1"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "Page 3 states: 'Shalini was using a scale of 1 cm : 1 foot.'",
+      "explanationQuestion": "The question asks for the specific scale factor used in the room layout sketch.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "S001.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Competency-Based",
+      "difficulty": "easy",
+      "questionText": "In the story of 'Settling In', why does Shalini choose to use a coordinate system to help Reiaan navigate his new room?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 2,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Mentions that Reiaan has difficulty seeing and needs a reliable way to navigate.",
+          "marks": 1
+        },
+        {
+          "point": "States that coordinates provide a precise and structured method to locate objects.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "Shalini uses a coordinate system because it provides a precise, structured framework that allows Reiaan to identify the exact location of furniture and obstacles in the room, making it easier for him to navigate independently.",
+      "explanationQuestion": "The question asks for the motivation behind the character's choice to use coordinate geometry in a real-life scenario.",
+      "correctAnswer": "Shalini uses it to provide a structured and precise way for Reiaan to locate objects and navigate the room independently despite his visual impairment.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C006",
+      "id": "A1.001",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "What are the coordinates of the origin in a 2-D Cartesian coordinate system?",
+      "options": [
+        {
+          "optionText": "(1, 1)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(0, 0)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(0, 1)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(1, 0)",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The origin is defined as the point of intersection of the x-axis and y-axis, which is (0, 0).",
+      "explanationQuestion": "The question asks for the standard coordinate representation of the origin.",
+      "correctAnswer": "(0, 0)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C011",
+      "id": "A1.003",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "For any point located on the y-axis, the ______ coordinate must be equal to 0.",
+      "blanks": [
+        "x"
+      ],
+      "options": null,
+      "multi": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 4,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "Points on the y-axis have no horizontal displacement from the origin, meaning their x-coordinate is 0.",
+      "explanationQuestion": "The question asks to identify the coordinate that is zero for points on the y-axis.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C005",
+      "id": "S001.001",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "easy",
+      "questionText": "Define the Cartesian plane and explain the role of the two perpendicular axes in forming this system.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 3,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Defines the Cartesian plane as a 2-D coordinate system.",
+          "marks": 1
+        },
+        {
+          "point": "Explains that it uses two perpendicular lines (axes) to mark points in 2-D space.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The Cartesian plane is a two-dimensional coordinate system defined by two perpendicular lines, known as the x-axis (horizontal) and the y-axis (vertical). These axes intersect at a point called the origin, providing a structured framework to describe the exact location of any point in a 2-D space using numerical coordinates.",
+      "explanationQuestion": "This question tests the student's understanding of the fundamental definition of the 2-D Cartesian coordinate system as presented on page 3.",
+      "correctAnswer": "The Cartesian plane is a 2-D system using two perpendicular axes (x-axis and y-axis) to define locations.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C009",
+      "id": "S001.002",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "Given a point $P(x, y)$, explain what the values $x$ and $y$ represent in terms of distances from the axes.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 4,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "States that x represents the perpendicular distance from the y-axis.",
+          "marks": 1
+        },
+        {
+          "point": "States that y represents the perpendicular distance from the x-axis.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "For a point $P(x, y)$, the value $x$ (the x-coordinate) represents the perpendicular distance of the point from the y-axis, and the value $y$ (the y-coordinate) represents the perpendicular distance of the point from the x-axis.",
+      "explanationQuestion": "This question requires interpreting the meaning of coordinates as defined on page 4.",
+      "correctAnswer": "x is the distance from the y-axis, and y is the distance from the x-axis.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C005",
+      "id": "A1.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "The plane in which the coordinate axes are situated is called the ______.",
+      "options": [
+        {
+          "optionText": "Number line",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Cartesian plane",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Linear plane",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Coordinate line",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "The text explicitly defines the plane containing the axes as the Cartesian plane, coordinate plane, or xy-plane.",
+      "explanationQuestion": "The question asks for the terminology used to describe the 2-D space defined by two perpendicular axes.",
+      "correctAnswer": "Cartesian plane",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A1.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "multi",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "Which of the following statements correctly describe the sign conventions for quadrants in the Cartesian plane?",
+      "options": [
+        {
+          "optionText": "Quadrant I: both x- and y-coordinates positive"
+        },
+        {
+          "optionText": "Quadrant II: negative x-coordinate and positive y-coordinate"
+        },
+        {
+          "optionText": "Quadrant III: both x- and y-coordinates positive"
+        },
+        {
+          "optionText": "Quadrant IV: positive x-coordinate and negative y-coordinate"
+        }
+      ],
+      "multi": [
+        "Quadrant I: both x- and y-coordinates positive",
+        "Quadrant II: negative x-coordinate and positive y-coordinate",
+        "Quadrant IV: positive x-coordinate and negative y-coordinate"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 2,
+      "explanationAnswer": "Quadrant I is (+, +), Quadrant II is (-, +), Quadrant III is (-, -), and Quadrant IV is (+, -). Option 3 is incorrect because Quadrant III has both negative.",
+      "explanationQuestion": "The question tests the understanding of coordinate signs in different quadrants.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C009",
+      "id": "A1.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "fillblanks",
+      "questionText": "In the coordinate pair $(x, y)$, $x$ represents the perpendicular distance from the ______ and $y$ represents the perpendicular distance from the ______.",
+      "blanks": [
+        "y-axis",
+        "x-axis"
+      ],
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "The x-coordinate is the distance measured along the x-axis from the y-axis, and the y-coordinate is the distance measured along the y-axis from the x-axis.",
+      "explanationQuestion": "The question tests the definition of coordinates as distances from the axes.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "S001.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Analysis",
+      "difficulty": "medium",
+      "questionText": "Explain the sign conventions for the coordinates $(x, y)$ in each of the four quadrants of the Cartesian plane.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://generativelanguage.googleapis.com/v1beta/files/q9g1pmb0jmx5",
+      "pageNumber": 6,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly states that Quadrant I has both x and y coordinates positive (+, +).",
+          "marks": 1
+        },
+        {
+          "point": "Correctly states that Quadrant II has a negative x-coordinate and a positive y-coordinate (-, +).",
+          "marks": 1
+        },
+        {
+          "point": "Correctly states that Quadrant III has both x and y coordinates negative (-, -).",
+          "marks": 1
+        },
+        {
+          "point": "Correctly states that Quadrant IV has a positive x-coordinate and a negative y-coordinate (+, -).",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The Cartesian plane is divided into four quadrants by the x and y axes. In Quadrant I, both x and y are positive. In Quadrant II, x is negative and y is positive. In Quadrant III, both x and y are negative. In Quadrant IV, x is positive and y is negative.",
+      "explanationQuestion": "The question asks for the classification of points based on their signs in the four quadrants as described on page 6.",
+      "correctAnswer": "Quadrant I: (+, +); Quadrant II: (-, +); Quadrant III: (-, -); Quadrant IV: (+, -).",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C009",
+      "id": "S001.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Application",
+      "difficulty": "medium",
+      "questionText": "If a point $P$ is represented as $(x, y)$, what do the values $x$ and $y$ represent in terms of perpendicular distances from the axes?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://generativelanguage.googleapis.com/v1beta/files/q9g1pmb0jmx5",
+      "pageNumber": 6,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies that x represents the perpendicular distance from the y-axis.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies that y represents the perpendicular distance from the x-axis.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "For any point $P(x, y)$, $x$ is the perpendicular distance of the point from the y-axis, and $y$ is the perpendicular distance of the point from the x-axis.",
+      "explanationQuestion": "The question tests the understanding of the definition of coordinates as distances from the axes, as explained on page 6.",
+      "correctAnswer": "x is the perpendicular distance from the y-axis, and y is the perpendicular distance from the x-axis.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Data-Interpretation",
+      "difficulty": "medium",
+      "questionText": "Based on the provided table, which row correctly identifies that point $M$ is the midpoint of segment $ST$?",
+      "options": [
+        {
+          "optionText": "Row 1: $S(-3, 0), M(0, 0), T(3, 0)$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Row 2: $S(2, 3), M(3, 4), T(4, 5)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Row 3: $S(0, 0), M(0, 5), T(0, -10)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Row 4: $S(-8, 7), M(0, -2), T(6, -3)$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "table_1.jpg",
+      "imageUrl": null,
+      "imageCaption": "Table for evaluating if point M is the midpoint of segment ST",
+      "explanationAnswer": "The midpoint formula is $(\\frac{x_{1}+x_{2}}{2}, \\frac{y_{1}+y_{2}}{2})$. For Row 1: $(\\frac{-3+3}{2}, \\frac{0+0}{2}) = (0, 0)$, which matches $M$.",
+      "explanationQuestion": "Identify the coordinates of $S$ and $T$ from each row and apply the midpoint formula to check if the result matches the given coordinates of $M$.",
+      "correctAnswer": "Row 1: $S(-3, 0), M(0, 0), T(3, 0)$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "truefalse",
+      "sourceType": "TB-Full",
+      "category": "Data-Interpretation",
+      "difficulty": "easy",
+      "questionText": "In the third row of the table, where $S(0, 0)$ and $T(0, -10)$, is the point $M(0, 5)$ the midpoint of segment $ST$?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "table_1.jpg",
+      "imageUrl": null,
+      "imageCaption": "Table for evaluating if point M is the midpoint of segment ST",
+      "explanationAnswer": "The midpoint of $(0, 0)$ and $(0, -10)$ is $(\\frac{0+0}{2}, \\frac{0-10}{2}) = (0, -5)$. Since the table lists $M$ as $(0, 5)$, the statement is false.",
+      "explanationQuestion": "Calculate the midpoint of the segment defined by $S(0, 0)$ and $T(0, -10)$ using the formula and compare it with the value provided in the table.",
+      "correctAnswer": false,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Data-Interpretation",
+      "difficulty": "hard",
+      "questionText": "For the fourth row of the table, $S(-8, 7)$ and $T(6, -3)$, determine if $M(0, -2)$ is the midpoint. Show your calculation and provide the correct midpoint if $M$ is incorrect.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly applies the midpoint formula: $x = \\frac{-8+6}{2} = -1$ and $y = \\frac{7-3}{2} = 2$.",
+          "marks": 1
+        },
+        {
+          "point": "Concludes that $M(0, -2)$ is not the midpoint and states the correct midpoint is $(-1, 2)$.",
+          "marks": 1
+        }
+      ],
+      "imageName": "table_1.jpg",
+      "imageUrl": null,
+      "imageCaption": "Table for evaluating if point M is the midpoint of segment ST",
+      "explanationAnswer": "Using the midpoint formula: $x = \\frac{-8+6}{2} = -1$ and $y = \\frac{7-3}{2} = 2$. The calculated midpoint is $(-1, 2)$, which is not equal to $(0, -2)$.",
+      "explanationQuestion": "Apply the midpoint formula $(\\frac{x_{1}+x_{2}}{2}, \\frac{y_{1}+y_{2}}{2})$ to the coordinates of $S$ and $T$ provided in the fourth row.",
+      "correctAnswer": "No, $M$ is not the midpoint. The correct midpoint is $(-1, 2)$.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ]
+}

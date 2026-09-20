@@ -1,0 +1,99 @@
+{
+  "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+  "batch": "Batch_4_Applied_Data_Practical",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C019",
+      "id": "A2.001",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Based on the reflection of $\\Delta ADM$ across the y-axis, which of the following properties is preserved in the transformed triangle $\\Delta A'D'M'$?",
+      "options": [
+        { "optionText": "The coordinates of the vertices remain unchanged.", "isCorrect": false },
+        { "optionText": "The lengths of the sides of the triangle are preserved.", "isCorrect": true },
+        { "optionText": "The orientation of the triangle remains clockwise.", "isCorrect": false },
+        { "optionText": "The x-coordinates of the vertices remain unchanged.", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT Class 9 Mathematics",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflection across an axis is an isometry, meaning it preserves distances between points. Therefore, the lengths of the sides of the triangle remain invariant.",
+      "explanationQuestion": "This question tests the understanding of geometric reflections in the Cartesian plane as discussed on page 11.",
+      "correctAnswer": "The lengths of the sides of the triangle are preserved.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.002",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Given the points $A(3, 4)$ and $D(7, 1)$, calculate the length of the segment $AD$ using the Baudhayana-Pythagoras Theorem as derived in the text. Show your steps.",
+      "subjective_evaluation_points": [
+        { "point": "Identifies the change in x-coordinates: $\\Delta x = 7 - 3 = 4$.", "marks": 1 },
+        { "point": "Identifies the change in y-coordinates: $\\Delta y = 1 - 4 = -3$.", "marks": 1 },
+        { "point": "Applies the theorem: $AD = \\sqrt{4^{2} + (-3)^{2}}$.", "marks": 1 },
+        { "point": "Calculates final result: $AD = \\sqrt{16 + 9} = \\sqrt{25} = 5$ units.", "marks": 1 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is calculated by finding the horizontal and vertical components of the line segment and applying the Pythagorean theorem, resulting in 5 units.",
+      "explanationQuestion": "This question requires application of the distance formula derivation shown on page 9.",
+      "correctAnswer": "5 units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In the room layout activity (Fig 1.1), if the scale is $1$ cm : $1$ foot, and a wall segment measures $5$ cm on the map, the actual length of the wall in the room is $5$ feet.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "The scale $1$ cm : $1$ foot implies a direct mapping where every unit of distance on the diagram corresponds to the same unit in feet in reality.",
+      "explanationQuestion": "This tests the practical application of scale interpretation mentioned in the chapter.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.004",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If Reiaan places his study table such that its feet are at $(8, 9)$, $(11, 9)$, and $(11, 7)$, the fourth foot of the rectangular table must be located at coordinate (______, ______).",
+      "blanks": [
+        "8",
+        "7"
+      ],
+      "marks": 1,
+      "explanationAnswer": "For a rectangle with sides parallel to the axes, the fourth vertex $(x, y)$ must share an x-coordinate with one adjacent vertex and a y-coordinate with the other. Here, $(8, 7)$ completes the rectangle defined by the other three points.",
+      "explanationQuestion": "This tests the practical geometric reasoning required to place objects on a coordinate grid.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 4,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "10%"
+  }
+}

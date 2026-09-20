@@ -1,0 +1,191 @@
+{
+  "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+  "batch": "Batch_1_Foundational_Core",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "What is the general formula for the distance $d$ between two points $(x_1, y_1)$ and $(x_2, y_2)$ in a 2-D Cartesian plane?",
+      "options": [
+        { "optionText": "$d = \\sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}$", "isCorrect": false },
+        { "optionText": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$", "isCorrect": true },
+        { "optionText": "$d = (x_2 - x_1)^2 + (y_2 - y_1)^2$", "isCorrect": false },
+        { "optionText": "$d = \\sqrt{|x_2 - x_1| + |y_2 - y_1|}$", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "The distance formula derived from the Baudhayana-Pythagoras theorem is $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$.",
+      "explanationQuestion": "Requires recall of the coordinate geometry distance formula.",
+      "correctAnswer": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "When a triangle is reflected across the y-axis, the lengths of its sides change compared to the original triangle.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflection is an isometry, meaning it preserves distances (side lengths) between points.",
+      "explanationQuestion": "Requires recall of properties of geometric transformations.",
+      "correctAnswer": false,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C017",
+      "id": "A2.003",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Diagram",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "In the triangle ADM (Fig 1.6), to find the distance AD, we calculate the horizontal distance as the difference in ______ coordinates and the vertical distance as the difference in ______ coordinates.",
+      "blanks": [
+        "x",
+        "y"
+      ],
+      "options": null,
+      "multi": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 9,
+      "marks": 1,
+      "explanationAnswer": "The horizontal shift is $\\Delta x$ and the vertical shift is $\\Delta y$.",
+      "explanationQuestion": "Requires understanding how to decompose 2D distance into components.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C016",
+      "id": "A2.004",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "multi",
+      "sourceType": "Definition",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "Which of the following conditions allow for the simple calculation of distance using absolute differences $|x_2 - x_1|$ or $|y_2 - y_1|$?",
+      "options": [
+        { "optionText": "When the line segment is parallel to the x-axis" },
+        { "optionText": "When the line segment is parallel to the y-axis" },
+        { "optionText": "When the points are at the origin" },
+        { "optionText": "When the line segment is diagonal" }
+      ],
+      "multi": [
+        "When the line segment is parallel to the x-axis",
+        "When the line segment is parallel to the y-axis"
+      ],
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 8,
+      "marks": 1,
+      "explanationAnswer": "Distance is calculated as the absolute difference of the varying coordinate if the other coordinate remains constant.",
+      "explanationQuestion": "Requires comprehension of the distance formula's simplified cases.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C022",
+      "id": "A2.005",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given points $A(3, 4)$ and $M(9, 6)$, calculate the length of side $AM$ using the distance formula and show your steps.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify coordinates: $(x_1, y_1) = (3, 4)$ and $(x_2, y_2) = (9, 6)$.",
+          "marks": 1
+        },
+        {
+          "point": "Apply formula: $\\sqrt{(9-3)^2 + (6-4)^2} = \\sqrt{6^2 + 2^2}$.",
+          "marks": 1
+        },
+        {
+          "point": "Simplify to $\\sqrt{36 + 4} = \\sqrt{40}$.",
+          "marks": 1
+        },
+        {
+          "point": "State final answer: $2\\sqrt{10}$ units.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is $\\sqrt{(9-3)^2 + (6-4)^2} = \\sqrt{36+4} = \\sqrt{40} = 2\\sqrt{10}$.",
+      "explanationQuestion": "Application of the distance formula.",
+      "correctAnswer": "2\\sqrt{10} units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.006",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "If a circle has its center at the origin $(0, 0)$ and passes through point $P(-3, 4)$, what is the radius of the circle?",
+      "subjective_evaluation_points": [
+        {
+          "point": "Understand that the radius is the distance from the center $(0,0)$ to any point on the circumference.",
+          "marks": 1
+        },
+        {
+          "point": "Apply distance formula: $r = \\sqrt{(-3 - 0)^2 + (4 - 0)^2}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculate: $r = \\sqrt{9 + 16} = \\sqrt{25}$.",
+          "marks": 1
+        },
+        {
+          "point": "Final result: $r = 5$ units.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The radius is the distance from $(0,0)$ to $(-3,4)$, which is $\\sqrt{(-3)^2 + 4^2} = 5$.",
+      "explanationQuestion": "Application of distance formula to circle geometry.",
+      "correctAnswer": "5 units",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+  "batch": "Batch_3_Contextual_Logic",
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Consider a computer graphics program defining a coordinate plane. If a point $A$ is at $(3, 4)$ and a point $D$ is at $(7, 1)$, what is the distance $AD$ calculated using the Baudhayana-Pythagoras theorem?",
+      "options": [
+        { "optionText": "$3$ units", "isCorrect": false },
+        { "optionText": "$4$ units", "isCorrect": false },
+        { "optionText": "$5$ units", "isCorrect": true },
+        { "optionText": "$7$ units", "isCorrect": false }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 9,
+      "marks": 1,
+      "explanationAnswer": "The distance is $\\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16+9} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "The question tests the application of the distance formula derived from the Baudhayana-Pythagoras theorem in a coordinate plane.",
+      "correctAnswer": "$5$ units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C017",
+      "id": "A2.002",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "If point $M$ is at $(9, 6)$ and point $D$ is at $(7, 1)$, what is the length of segment $DM$?",
+      "options": [
+        { "optionText": "$\\sqrt{29}$ units", "isCorrect": true },
+        { "optionText": "$\\sqrt{20}$ units", "isCorrect": false },
+        { "optionText": "$\\sqrt{40}$ units", "isCorrect": false },
+        { "optionText": "$5$ units", "isCorrect": false }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "$DM = \\sqrt{(9-7)^{2} + (6-1)^{2}} = \\sqrt{2^{2} + 5^{2}} = \\sqrt{4+25} = \\sqrt{29}$.",
+      "explanationQuestion": "Applying the distance formula to find the length of a segment between two specific points in the Cartesian plane.",
+      "correctAnswer": "$\\sqrt{29}$ units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.003",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: When a triangle is reflected across an axis in the coordinate plane, the lengths of its sides change because the coordinates are transformed.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflection is an isometry; it preserves lengths. The side lengths of a triangle remain invariant under reflection.",
+      "explanationQuestion": "Tests the understanding of geometric properties of reflection in a coordinate plane.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: For any two distinct points $P(x_{1}, y_{1})$ and $Q(x_{2}, y_{2})$, the distance $PQ$ is always equal to the distance $QP$.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "The distance formula $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$ is symmetric because the square of the difference is independent of the order of subtraction.",
+      "explanationQuestion": "Tests the symmetric property of the distance function in Euclidean space.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.005",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Given points $A(1, -8)$, $B(-4, 7)$, and $C(-7, -4)$, prove that these points lie on a circle centered at the origin $(0,0)$ and find the radius of this circle.",
+      "subjective_evaluation_points": [
+        { "point": "Calculate the distance of each point from the origin $(0,0)$ using the formula $d = \\sqrt{x^{2} + y^{2}}$.", "marks": 2 },
+        { "point": "Show $OA = \\sqrt{1^{2} + (-8)^{2}} = \\sqrt{65}$, $OB = \\sqrt{(-4)^{2} + 7^{2}} = \\sqrt{65}$, and $OC = \\sqrt{(-7)^{2} + (-4)^{2}} = \\sqrt{65}$.", "marks": 1 },
+        { "point": "Conclude that since all distances are equal, they lie on a circle with radius $\\sqrt{65}$.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 13,
+      "marks": 4,
+      "explanationAnswer": "The distance from the origin is constant at $\\sqrt{65}$.",
+      "explanationQuestion": "Application of distance formula to identify points on a circle.",
+      "correctAnswer": "Radius is $\\sqrt{65}$",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.006",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Plot points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$ on the Cartesian plane. Explain why $ABCD$ forms a square using coordinate distance calculations.",
+      "subjective_evaluation_points": [
+        { "point": "Calculate the lengths of all four sides $AB$, $BC$, $CD$, and $DA$ using the distance formula.", "marks": 2 },
+        { "point": "Show that $AB = BC = CD = DA = \\sqrt{10}$.", "marks": 1 },
+        { "point": "Verify that diagonals $AC$ and $BD$ are equal in length, confirming it is a square.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 4,
+      "explanationAnswer": "The sides are all equal to $\\sqrt{10}$ and diagonals are equal.",
+      "explanationQuestion": "Using coordinate geometry to prove properties of a square.",
+      "correctAnswer": "It is a square because all sides are equal and diagonals are equal.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

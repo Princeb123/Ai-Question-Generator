@@ -1,0 +1,126 @@
+{
+  "subject": "Artificial Intelligence",
+  "grade": 10,
+  "chapterName": "Cartisan and Coordination ",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Data-Interpretation",
+      "difficulty": "medium",
+      "questionText": "Based on the provided table, which row correctly identifies that point $M$ is the midpoint of segment $ST$?",
+      "options": [
+        {
+          "optionText": "Row 1: $S(-3, 0), M(0, 0), T(3, 0)$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Row 2: $S(2, 3), M(3, 4), T(4, 5)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Row 3: $S(0, 0), M(0, 5), T(0, -10)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Row 4: $S(-8, 7), M(0, -2), T(6, -3)$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "table_1.jpg",
+      "imageUrl": null,
+      "imageCaption": "Table for evaluating if point M is the midpoint of segment ST",
+      "explanationAnswer": "The midpoint formula is $(\\frac{x_{1}+x_{2}}{2}, \\frac{y_{1}+y_{2}}{2})$. For Row 1: $(\\frac{-3+3}{2}, \\frac{0+0}{2}) = (0, 0)$, which matches $M$.",
+      "explanationQuestion": "Identify the coordinates of $S$ and $T$ from each row and apply the midpoint formula to check if the result matches the given coordinates of $M$.",
+      "correctAnswer": "Row 1: $S(-3, 0), M(0, 0), T(3, 0)$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "truefalse",
+      "sourceType": "TB-Full",
+      "category": "Data-Interpretation",
+      "difficulty": "easy",
+      "questionText": "In the third row of the table, where $S(0, 0)$ and $T(0, -10)$, is the point $M(0, 5)$ the midpoint of segment $ST$?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "table_1.jpg",
+      "imageUrl": null,
+      "imageCaption": "Table for evaluating if point M is the midpoint of segment ST",
+      "explanationAnswer": "The midpoint of $(0, 0)$ and $(0, -10)$ is $(\\frac{0+0}{2}, \\frac{0-10}{2}) = (0, -5)$. Since the table lists $M$ as $(0, 5)$, the statement is false.",
+      "explanationQuestion": "Calculate the midpoint of the segment defined by $S(0, 0)$ and $T(0, -10)$ using the formula and compare it with the value provided in the table.",
+      "correctAnswer": false,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Data-Interpretation",
+      "difficulty": "hard",
+      "questionText": "For the fourth row of the table, $S(-8, 7)$ and $T(6, -3)$, determine if $M(0, -2)$ is the midpoint. Show your calculation and provide the correct midpoint if $M$ is incorrect.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly applies the midpoint formula: $x = \\frac{-8+6}{2} = -1$ and $y = \\frac{7-3}{2} = 2$.",
+          "marks": 1
+        },
+        {
+          "point": "Concludes that $M(0, -2)$ is not the midpoint and states the correct midpoint is $(-1, 2)$.",
+          "marks": 1
+        }
+      ],
+      "imageName": "table_1.jpg",
+      "imageUrl": null,
+      "imageCaption": "Table for evaluating if point M is the midpoint of segment ST",
+      "explanationAnswer": "Using the midpoint formula: $x = \\frac{-8+6}{2} = -1$ and $y = \\frac{7-3}{2} = 2$. The calculated midpoint is $(-1, 2)$, which is not equal to $(0, -2)$.",
+      "explanationQuestion": "Apply the midpoint formula $(\\frac{x_{1}+x_{2}}{2}, \\frac{y_{1}+y_{2}}{2})$ to the coordinates of $S$ and $T$ provided in the fourth row.",
+      "correctAnswer": "No, $M$ is not the midpoint. The correct midpoint is $(-1, 2)$.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 3,
+    "passed": 3,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

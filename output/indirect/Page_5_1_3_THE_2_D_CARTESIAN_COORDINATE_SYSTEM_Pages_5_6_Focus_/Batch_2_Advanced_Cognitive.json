@@ -1,0 +1,172 @@
+{
+  "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+  "batch": "Batch_2_Advanced_Cognitive",
+  "subject": "Artificial Intelligence",
+  "grade": 10,
+  "chapterName": "Cartisan and Coordination ",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C012",
+      "id": "A2.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "If a point $P(x, y)$ is located such that $x < 0$ and $y > 0$, in which quadrant does it lie and what is the sign of its coordinates?",
+      "options": [
+        { "optionText": "Quadrant I; (+, +)", "isCorrect": false },
+        { "optionText": "Quadrant II; (-, +)", "isCorrect": true },
+        { "optionText": "Quadrant III; (-, -)", "isCorrect": false },
+        { "optionText": "Quadrant IV; (+, -)", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "By definition, Quadrant II is where the x-axis is negative and the y-axis is positive, corresponding to coordinates $(-, +)$.",
+      "explanationQuestion": "The question tests the ability to map coordinate signs to specific Cartesian quadrants.",
+      "correctAnswer": "Quadrant II; (-, +)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Given that point $A(x, y)$ is not on the axes and $x \\neq y$, which of the following statements is mathematically true regarding the transformation of $A$ to $A'(y, x)$?",
+      "options": [
+        { "optionText": "The points $A$ and $A'$ are always identical.", "isCorrect": false },
+        { "optionText": "The points $A$ and $A'$ are distinct locations on the Cartesian plane.", "isCorrect": true },
+        { "optionText": "The point $A'$ lies on the x-axis.", "isCorrect": false },
+        { "optionText": "The point $A'$ lies on the y-axis.", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 7,
+      "marks": 1,
+      "explanationAnswer": "Since $x \\neq y$, swapping the coordinates results in a unique point $(y, x)$ that is distinct from $(x, y)$ unless the point lies on the line $y=x$.",
+      "explanationQuestion": "This tests the property of ordered pairs in a coordinate system.",
+      "correctAnswer": "The points $A$ and $A'$ are distinct locations on the Cartesian plane.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "If a triangle $ADM$ with vertices $A(3, 4)$, $D(7, 1)$, and $M(9, 6)$ is reflected across the y-axis, justify whether the distance $AD$ changes after reflection.",
+      "subjective_evaluation_points": [
+        { "point": "Identify the coordinates of the reflected points: $A'(-3, 4)$, $D'(-7, 1)$, $M'(-9, 6)$.", "marks": 1 },
+        { "point": "Apply the distance formula to calculate the length of $AD$ and $A'D'$.", "marks": 1 },
+        { "point": "Conclude that reflection preserves distance/side lengths, hence $AD = A'D'$.", "marks": 2 }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 11,
+      "marks": 4,
+      "explanationAnswer": "Reflection is an isometry; it preserves the distance between points. Therefore, the distance $AD$ remains invariant.",
+      "explanationQuestion": "Tests the understanding of geometric transformations in the coordinate plane.",
+      "correctAnswer": "The distance remains unchanged because reflection is an isometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Given points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$, evaluate whether $ABCD$ forms a square by calculating the side lengths.",
+      "subjective_evaluation_points": [
+        { "point": "Calculate lengths of $AB$, $BC$, $CD$, and $DA$ using the distance formula.", "marks": 2 },
+        { "point": "Show that all four sides are equal to $\\sqrt{10}$.", "marks": 1 },
+        { "point": "Conclude that since all sides are equal and it is a closed polygon, it forms a square.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 4,
+      "explanationAnswer": "By calculating the distance between consecutive points, we find $AB=BC=CD=DA=\\sqrt{10}$. This confirms the shape is a square.",
+      "explanationQuestion": "Tests the application of the distance formula to classify geometric shapes.",
+      "correctAnswer": "Yes, $ABCD$ is a square as all side lengths are equal.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "A circle $K$ is centered at the origin $(0, 0)$ with a radius of $9$. Which of the following points lie strictly ON the circle?",
+      "options": [
+        { "optionText": "(9, 0)" },
+        { "optionText": "(0, -9)" },
+        { "optionText": "(6, 6)" },
+        { "optionText": "(-5, 7)" }
+      ],
+      "multi": [
+        "(9, 0)",
+        "(0, -9)"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 13,
+      "marks": 1,
+      "explanationAnswer": "A point $(x, y)$ lies on a circle of radius $r$ centered at origin if $x^{2} + y^{2} = r^{2}$. Here $r^{2} = 81$. $(9)^{2} + 0^{2} = 81$ and $0^{2} + (-9)^{2} = 81$.",
+      "explanationQuestion": "Tests the application of the distance formula in the context of circle equations.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.006",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200m$ apart, intersections are denoted by $(x, y)$. If a person is at $(2, 5)$, which of the following intersection coordinates are exactly $400m$ away from their current position?",
+      "options": [
+        { "optionText": "(2, 7)" },
+        { "optionText": "(0, 5)" },
+        { "optionText": "(4, 5)" },
+        { "optionText": "(2, 2)" }
+      ],
+      "multi": [
+        "(2, 7)",
+        "(0, 5)",
+        "(4, 5)"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "Distance between $(x_1, y_1)$ and $(x_2, y_2)$ is $\\sqrt{(x_2-x_1)^{2} + (y_2-y_1)^{2}}$. Since units are $200m$, a distance of $400m$ is $2$ units. Points at distance $2$ from $(2, 5)$ are $(2 \\pm 2, 5)$ and $(2, 5 \\pm 2)$, which are $(4, 5), (0, 5), (2, 7), (2, 3)$.",
+      "explanationQuestion": "Tests the application of coordinate geometry to real-world navigation problems.",
+      "correctAnswer": null,
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

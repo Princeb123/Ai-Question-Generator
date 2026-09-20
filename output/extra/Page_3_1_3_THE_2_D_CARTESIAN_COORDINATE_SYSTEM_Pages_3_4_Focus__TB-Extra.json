@@ -1,0 +1,92 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 5,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 5,
+    "coveragePercentage": "12.5%"
+  },
+  "validationMeta": {
+    "totalInput": 2,
+    "passed": 2,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "questions": [
+    {
+      "conceptId": "C006",
+      "id": "A1.001",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "What are the coordinates of the origin in a 2-D Cartesian coordinate system?",
+      "options": [
+        {
+          "optionText": "(1, 1)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(0, 0)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(0, 1)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(1, 0)",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The origin is defined as the point of intersection of the x-axis and y-axis, which is (0, 0).",
+      "explanationQuestion": "The question asks for the standard coordinate representation of the origin.",
+      "correctAnswer": "(0, 0)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C011",
+      "id": "A1.003",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "For any point located on the y-axis, the ______ coordinate must be equal to 0.",
+      "blanks": [
+        "x"
+      ],
+      "options": null,
+      "multi": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 4,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "Points on the y-axis have no horizontal displacement from the origin, meaning their x-coordinate is 0.",
+      "explanationQuestion": "The question asks to identify the coordinate that is zero for points on the y-axis.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ]
+}

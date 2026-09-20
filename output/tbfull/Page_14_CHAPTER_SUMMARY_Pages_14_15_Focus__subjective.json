@@ -1,0 +1,136 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 3,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 3,
+    "coveragePercentage": "7.5%"
+  },
+  "questions": [
+    {
+      "conceptId": "C005",
+      "id": "S001.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "Define the Cartesian plane and identify the names of the two perpendicular lines that form it.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/textbook.php?iemh1=0-15",
+      "pageNumber": 14,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Defines the Cartesian plane as the plane in which axes are situated.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies the two perpendicular lines as the x-axis and the y-axis.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The Cartesian plane (also called the coordinate plane or xy-plane) is the plane in which the coordinate axes are situated. It is formed by two perpendicular lines: the horizontal line called the x-axis and the vertical line called the y-axis.",
+      "explanationQuestion": "This question tests the student's ability to recall basic definitions provided in the Chapter Summary on page 14.",
+      "correctAnswer": "The Cartesian plane is the plane in which the coordinate axes are situated. It is formed by the x-axis (horizontal) and the y-axis (vertical).",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "S001.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Analysis",
+      "difficulty": "medium",
+      "questionText": "Explain how the coordinate axes divide the plane and describe the sign conventions for the coordinates $(x, y)$ in each of the four quadrants.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/textbook.php?iemh1=0-15",
+      "pageNumber": 15,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "States that the axes divide the plane into four parts called quadrants.",
+          "marks": 1
+        },
+        {
+          "point": "Lists the sign convention for Quadrant I as (+, +).",
+          "marks": 0.75
+        },
+        {
+          "point": "Lists the sign convention for Quadrant II as (-, +).",
+          "marks": 0.75
+        },
+        {
+          "point": "Lists the sign convention for Quadrant III as (-, -).",
+          "marks": 0.75
+        },
+        {
+          "point": "Lists the sign convention for Quadrant IV as (+, -).",
+          "marks": 0.75
+        }
+      ],
+      "explanationAnswer": "The coordinate axes divide the plane into four parts called quadrants. The sign conventions are: Quadrant I: (+, +), Quadrant II: (-, +), Quadrant III: (-, -), and Quadrant IV: (+, -).",
+      "explanationQuestion": "This question requires the student to synthesize information from the summary regarding quadrants and sign conventions.",
+      "correctAnswer": "The axes divide the plane into four quadrants. The signs are: Q1 (+, +), Q2 (-, +), Q3 (-, -), Q4 (+, -).",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "S001.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Using the distance formula provided in the chapter summary, calculate the distance between two points $P(x_1, y_1)$ and $Q(x_2, y_2)$ and explain the role of the Baudhayana-Pythagoras Theorem in its derivation.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/textbook.php?iemh1=0-15",
+      "pageNumber": 15,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "States the distance formula: $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$.",
+          "marks": 2
+        },
+        {
+          "point": "Explains that the theorem is used to find the hypotenuse of a right-angled triangle formed by the horizontal and vertical differences between the points.",
+          "marks": 2
+        }
+      ],
+      "explanationAnswer": "The distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ is given by $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. This formula is derived using the Baudhayana-Pythagoras Theorem, where the horizontal distance $|x_2 - x_1|$ and vertical distance $|y_2 - y_1|$ act as the two legs of a right-angled triangle, and the distance between the points is the hypotenuse.",
+      "explanationQuestion": "This question tests the application of the distance formula and the understanding of its geometric derivation as summarized on page 15.",
+      "correctAnswer": "Distance = $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. It is derived from the Baudhayana-Pythagoras Theorem.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 3,
+    "passed": 3,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

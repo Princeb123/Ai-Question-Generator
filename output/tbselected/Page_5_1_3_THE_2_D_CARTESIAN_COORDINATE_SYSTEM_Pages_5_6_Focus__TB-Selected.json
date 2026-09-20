@@ -1,0 +1,99 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 5,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "10%"
+  },
+  "validationMeta": {
+    "totalInput": 2,
+    "passed": 2,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "selectionSummary": {
+    "initialCount": 5,
+    "selectedCount": 2,
+    "removedCount": 3,
+    "removalReasons": {
+      "duplicates": 1,
+      "nonStandardCategory": 0,
+      "categoryOverRepresentation": 1,
+      "lowQuality": 1
+    }
+  },
+  "questions": [
+    {
+      "conceptId": "C010",
+      "id": "A1.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "TB-Selected",
+      "category": "Application",
+      "difficulty": "easy",
+      "questionText": "Any point lying on the x-axis must have a y-coordinate equal to 0.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 4,
+      "marks": 1,
+      "explanationAnswer": "By definition, the x-axis is the line where the vertical distance from the origin (y-coordinate) is zero.",
+      "explanationQuestion": "The question asks for the property of points on the x-axis.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A1.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "matchfollowing",
+      "leftItems": [
+        "Quadrant I",
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "rightItems": [
+        "(+, -)",
+        "(+, +)",
+        "(-, +)",
+        "(-, -)"
+      ],
+      "correctMappings": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 1
+        },
+        {
+          "leftIndex": 1,
+          "rightIndex": 2
+        },
+        {
+          "leftIndex": 2,
+          "rightIndex": 3
+        },
+        {
+          "leftIndex": 3,
+          "rightIndex": 0
+        }
+      ],
+      "sourceType": "TB-Selected",
+      "category": "Analysis",
+      "difficulty": "medium",
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 2,
+      "explanationAnswer": "Quadrant I is (+, +), II is (-, +), III is (-, -), and IV is (+, -).",
+      "explanationQuestion": "Match the quadrant with its corresponding sign convention.",
+      "set": "A",
+      "questionText": "Match the quadrants in a 2-D Cartesian coordinate system with their corresponding sign conventions for the coordinates (x, y)."
+    }
+  ]
+}

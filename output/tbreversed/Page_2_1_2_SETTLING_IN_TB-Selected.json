@@ -1,0 +1,102 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "reversalSummary": {
+    "inputCount": 2,
+    "reversedCount": 2,
+    "skippedCount": 0,
+    "coveragePercent": 100.0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [
+    {
+      "conceptId": "C038",
+      "id": "REV-A2.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "A student wants to create a tactile model to help a visually impaired person understand the spatial layout of a room. Based on the method used by Shalini for Reiaan, which of the following setups would be most effective for this purpose?",
+      "options": [
+        {
+          "optionText": "A flat paper map with ink-drawn lines",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A rectangular grid structure using pins to mark points and threads to connect them",
+          "isCorrect": true
+        },
+        {
+          "optionText": "A series of verbal instructions recorded on a digital device",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A set of standard measuring tapes placed on the floor",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "A rectangular grid structure using pins to mark points and threads to connect them",
+      "explanationAnswer": "The method of using pins and threads creates a tactile, physical representation of a coordinate system that can be felt, which is the specific technique Shalini employed to help Reiaan navigate his room.",
+      "explanationQuestion": "The question asks to identify the practical application of the tactile coordinate system described in the text.",
+      "marks": 1,
+      "pageNumber": 2,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "REV-A2.004",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "sourceType": "TB-Reversed",
+      "questionType": "multi",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Shalini designed a tactile coordinate system for Reiaan. If you were to replicate the functional purpose of her design, which specific materials would you select to ensure the user can physically perceive the 'points' and 'lines' of the layout?",
+      "options": [
+        {
+          "optionText": "Pins"
+        },
+        {
+          "optionText": "Thick wool"
+        },
+        {
+          "optionText": "Digital screen"
+        },
+        {
+          "optionText": "Paint"
+        }
+      ],
+      "multi": [
+        "Pins",
+        "Thick wool"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "Pins are used to represent fixed points in the coordinate grid, while thick wool acts as the tactile lines connecting these points, allowing the user to feel the spatial relationships.",
+      "explanationQuestion": "The question requires identifying the specific components of the tactile model that serve the functions of points and lines.",
+      "correctAnswer": null,
+      "set": "A"
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 2,
+    "passed": 2,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

@@ -1,0 +1,1 @@
+Geometric derivation of the Euclidean distance formula between two points.

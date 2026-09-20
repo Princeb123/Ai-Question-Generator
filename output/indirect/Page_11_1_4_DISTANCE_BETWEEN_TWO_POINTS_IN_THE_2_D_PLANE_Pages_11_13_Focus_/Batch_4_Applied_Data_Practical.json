@@ -1,0 +1,99 @@
+{
+  "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+  "batch": "Batch_4_Applied_Data_Practical",
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Given a triangle with vertices $A(3, 4)$, $D(7, 1)$, and $M(9, 6)$, what is the length of side $DM$ calculated using the distance formula $\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$?",
+      "options": [
+        { "optionText": "$\\sqrt{20}$ units", "isCorrect": false },
+        { "optionText": "$\\sqrt{29}$ units", "isCorrect": true },
+        { "optionText": "$\\sqrt{35}$ units", "isCorrect": false },
+        { "optionText": "$\\sqrt{40}$ units", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "Using $D(7, 1)$ and $M(9, 6)$, the distance $DM = \\sqrt{(9 - 7)^{2} + (6 - 1)^{2}} = \\sqrt{2^{2} + 5^{2}} = \\sqrt{4 + 25} = \\sqrt{29}$.",
+      "explanationQuestion": "The question asks for the distance between two specific points $D$ and $M$ identified in the textbook diagrams.",
+      "correctAnswer": "$\\sqrt{29}$ units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "When triangle $ADM$ is reflected across the $y$-axis to form $A'D'M'$, the length of side $D'M'$ is equal to the length of side $DM$.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "As stated in the text, reflection preserves the lengths of the sides of the geometric figure.",
+      "explanationQuestion": "This tests the concept of geometric transformations (reflection) and its effect on distance properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If a student maps a rectangular room on a coordinate grid where the bottom-left corner is $(0,0)$ and the top-right corner is $(12, 10)$, calculate the diagonal distance of the room floor using the distance formula. Show your steps.",
+      "subjective_evaluation_points": [
+        { "point": "Identifies the two opposite corner coordinates as $(0,0)$ and $(12,10)$.", "marks": 1 },
+        { "point": "Correctly applies the distance formula $d = \\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.", "marks": 1 },
+        { "point": "Substitutes values: $\\sqrt{(12-0)^{2} + (10-0)^{2}}$.", "marks": 1 },
+        { "point": "Final calculation: $\\sqrt{144 + 100} = \\sqrt{244} \\approx 15.62$ units.", "marks": 1 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is $\\sqrt{12^{2} + 10^{2}} = \\sqrt{144 + 100} = \\sqrt{244} \\approx 15.62$ units.",
+      "explanationQuestion": "Practical application of coordinate geometry to measure physical space.",
+      "correctAnswer": "$\\sqrt{244}$ or approximately 15.62 units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C027",
+      "id": "A2.004",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200$ m apart, if a person moves from intersection $(2, 5)$ to $(4, 3)$, the distance covered in the $x$-direction is ______ units and the distance covered in the $y$-direction is ______ units.",
+      "blanks": [
+        "2",
+        "2"
+      ],
+      "marks": 1,
+      "explanationAnswer": "Change in $x = 4 - 2 = 2$. Change in $y = 3 - 5 = -2$. The absolute distance (magnitude) is 2.",
+      "explanationQuestion": "Tests the ability to interpret grid-based coordinate movements.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 4,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "10%"
+  }
+}

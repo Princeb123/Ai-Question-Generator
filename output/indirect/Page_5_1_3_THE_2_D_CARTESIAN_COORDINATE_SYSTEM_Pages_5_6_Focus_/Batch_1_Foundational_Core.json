@@ -1,0 +1,140 @@
+{
+  "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+  "batch": "Batch_1_Foundational_Core",
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C012",
+      "id": "A2.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "In the Cartesian coordinate system, which quadrant contains points with a negative x-coordinate and a positive y-coordinate?",
+      "options": [
+        { "optionText": "Quadrant I", "isCorrect": false },
+        { "optionText": "Quadrant II", "isCorrect": true },
+        { "optionText": "Quadrant III", "isCorrect": false },
+        { "optionText": "Quadrant IV", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "By definition, Quadrant II is where x is negative and y is positive.",
+      "explanationQuestion": "This tests the recall of sign conventions for quadrants in the Cartesian plane.",
+      "correctAnswer": "Quadrant II",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C006",
+      "id": "A2.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "What are the coordinates of the point where the x-axis and y-axis intersect?",
+      "options": [
+        { "optionText": "(1, 1)", "isCorrect": false },
+        { "optionText": "(0, 1)", "isCorrect": false },
+        { "optionText": "(0, 0)", "isCorrect": true },
+        { "optionText": "(1, 0)", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "The intersection of the x-axis and y-axis is defined as the origin, represented by (0, 0).",
+      "explanationQuestion": "This tests the recall of the definition of the origin.",
+      "correctAnswer": "(0, 0)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A2.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "For any point lying on the x-axis, the value of its y-coordinate must be zero.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "Points on the x-axis have no vertical displacement from the origin, therefore y = 0.",
+      "explanationQuestion": "This tests the comprehension of coordinate properties on axes.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "The coordinates $(x, y)$ and $(y, x)$ always represent the same location on the Cartesian plane regardless of the values of $x$ and $y$.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The order of coordinates matters; $(x, y) = (y, x)$ only if $x = y$.",
+      "explanationQuestion": "This tests the comprehension of the ordered nature of coordinate pairs.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given a room layout where the origin is at the bottom-left corner, if a piece of furniture has its corners at $(2, 3)$ and $(6, 3)$, calculate the length of the side connecting these two points and explain your reasoning.",
+      "subjective_evaluation_points": [
+        { "point": "Identifies that the y-coordinates are identical (y=3), implying a horizontal line segment.", "marks": 1 },
+        { "point": "Calculates the length as the absolute difference of x-coordinates: $|6 - 2| = 4$ units.", "marks": 1 }
+      ],
+      "marks": 2,
+      "explanationAnswer": "Since the y-coordinates are the same, the distance is the difference in x-coordinates, which is 4 units.",
+      "explanationQuestion": "This tests the application of coordinate geometry to find distances between points with a common axis coordinate.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.006",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Definition",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Explain how the distance formula $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ is derived using the Baudhayana-Pythagoras Theorem.",
+      "subjective_evaluation_points": [
+        { "point": "States that a right-angled triangle is formed between two points $(x_1, y_1)$ and $(x_2, y_2)$.", "marks": 1 },
+        { "point": "Identifies the base as $|x_2 - x_1|$ and the height as $|y_2 - y_1|$.", "marks": 1 },
+        { "point": "Applies the theorem $a^2 + b^2 = c^2$ to show the distance $c = \\sqrt{base^2 + height^2}$.", "marks": 2 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The formula represents the hypotenuse of a right-angled triangle where the legs are the differences in x and y coordinates respectively.",
+      "explanationQuestion": "This tests the application and understanding of the geometric derivation of the distance formula.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "reversalSummary": {
+    "inputCount": 3,
+    "reversedCount": 3,
+    "skippedCount": 0,
+    "coveragePercent": 100.0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "REV-A1.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "A student calculates the distance between two points $(2, 3)$ and $(5, 7)$ using the expression $\\sqrt{(5-2)^2 + (7-3)^2}$. Which geometric principle justifies the validity of this specific algebraic structure for finding the length of the segment connecting these points?",
+      "options": [
+        {
+          "optionText": "The Midpoint Theorem",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The Baudhayana-Pythagoras Theorem",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The Slope-Intercept Form",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The Law of Cosines",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "The Baudhayana-Pythagoras Theorem",
+      "explanationAnswer": "The distance formula is derived by constructing a right-angled triangle where the horizontal leg is the difference in x-coordinates and the vertical leg is the difference in y-coordinates, applying the Baudhayana-Pythagoras Theorem.",
+      "explanationQuestion": "Identify the underlying theorem that allows the conversion of coordinate differences into a straight-line distance.",
+      "marks": 1,
+      "pageNumber": 15,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "REV-A1.005",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Consider two distinct points $P(a, b)$ and $Q(b, a)$ where $a \\neq b$. If these points are plotted on a Cartesian plane, which of the following statements is mathematically accurate regarding their positions?",
+      "options": [
+        {
+          "optionText": "The points are identical because the set of coordinates is the same.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The points are reflections of each other across the line y = x.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The points must lie on the same axis.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The distance between the points is zero.",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "The points are reflections of each other across the line y = x.",
+      "explanationAnswer": "Since the order of coordinates defines the position, swapping x and y results in a different point. Specifically, $(a, b)$ and $(b, a)$ are symmetric with respect to the line $y=x$.",
+      "explanationQuestion": "Analyze the effect of swapping coordinates on the location of a point in the Cartesian plane.",
+      "marks": 1,
+      "pageNumber": 15,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "REV-A1.006",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "A point $P$ has coordinates $(x, y)$. If it is known that $x > 0$ and $y = 0$, where is point $P$ located in the Cartesian plane?",
+      "options": [
+        {
+          "optionText": "On the y-axis",
+          "isCorrect": false
+        },
+        {
+          "optionText": "At the origin",
+          "isCorrect": false
+        },
+        {
+          "optionText": "In the first quadrant",
+          "isCorrect": false
+        },
+        {
+          "optionText": "On the positive x-axis",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswer": "On the positive x-axis",
+      "explanationAnswer": "Any point with a y-coordinate of 0 lies on the x-axis. Since x is positive, it lies specifically on the positive side of the x-axis.",
+      "explanationQuestion": "Determine the location of a point based on the constraints of its coordinate values.",
+      "marks": 1,
+      "pageNumber": 15,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 3,
+    "passed": 3,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

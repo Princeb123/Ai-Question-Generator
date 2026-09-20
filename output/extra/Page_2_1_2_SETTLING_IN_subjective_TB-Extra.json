@@ -1,0 +1,58 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 2,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 1,
+    "coveragePercentage": "2.5%"
+  },
+  "validationMeta": {
+    "totalInput": 1,
+    "passed": 1,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "questions": [
+    {
+      "conceptId": "C038",
+      "id": "S001.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Competency-Based",
+      "difficulty": "easy",
+      "questionText": "In the story of 'Settling In', why does Shalini choose to use a coordinate system to help Reiaan navigate his new room?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 2,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Mentions that Reiaan has difficulty seeing and needs a reliable way to navigate.",
+          "marks": 1
+        },
+        {
+          "point": "States that coordinates provide a precise and structured method to locate objects.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "Shalini uses a coordinate system because it provides a precise, structured framework that allows Reiaan to identify the exact location of furniture and obstacles in the room, making it easier for him to navigate independently.",
+      "explanationQuestion": "The question asks for the motivation behind the character's choice to use coordinate geometry in a real-life scenario.",
+      "correctAnswer": "Shalini uses it to provide a structured and precise way for Reiaan to locate objects and navigate the room independently despite his visual impairment.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ]
+}

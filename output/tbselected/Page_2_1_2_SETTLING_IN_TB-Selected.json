@@ -1,0 +1,113 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 4,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 1,
+    "coveragePercentage": "100%"
+  },
+  "validationMeta": {
+    "totalInput": 2,
+    "passed": 2,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "selectionSummary": {
+    "initialCount": 4,
+    "selectedCount": 2,
+    "removedCount": 2,
+    "removalReasons": {
+      "duplicates": 0,
+      "nonStandardCategory": 0,
+      "categoryOverRepresentation": 0,
+      "lowQuality": 2
+    }
+  },
+  "questions": [
+    {
+      "conceptId": "C038",
+      "id": "A2.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "TB-Selected",
+      "category": "Comprehension",
+      "difficulty": "easy",
+      "questionText": "In the story of Reiaan and Shalini, what method did Shalini use to help Reiaan feel the directions in his new room?",
+      "options": [
+        {
+          "optionText": "Drawing a map on paper",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Using a rectangular grid with fixed pins and threads",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Using a digital GPS device",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Measuring with a standard ruler",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 2,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text explicitly states that Shalini used a rectangular grid with fixed pins and threads to help Reiaan feel the directions.",
+      "explanationQuestion": "The question asks about the specific practical method used by the character Shalini to assist her brother Reiaan.",
+      "correctAnswer": "Using a rectangular grid with fixed pins and threads",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.004",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "multi",
+      "sourceType": "TB-Selected",
+      "category": "Analysis",
+      "difficulty": "medium",
+      "questionText": "Which of the following physical items were used by Shalini to represent the room layout for Reiaan?",
+      "options": [
+        {
+          "optionText": "Pins"
+        },
+        {
+          "optionText": "Thick wool"
+        },
+        {
+          "optionText": "Digital screen"
+        },
+        {
+          "optionText": "Paint"
+        }
+      ],
+      "multi": [
+        "Pins",
+        "Thick wool"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text mentions: 'Points in the sketch were marked using pins... objects were connected with thick wool so that Reiaan could feel their positions with his fingers.'",
+      "explanationQuestion": "The question identifies the materials used to create the tactile coordinate model.",
+      "correctAnswer": null,
+      "set": "A"
+    }
+  ]
+}

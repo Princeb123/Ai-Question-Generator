@@ -1,0 +1,1 @@
+A floor plan illustrating object placement using a coordinate system.

@@ -1,0 +1,106 @@
+{
+  "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+  "batch": "Batch_4_Applied_Data_Practical",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C039",
+      "id": "A2.001",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "In the context of the room layout provided in Fig 1.1 and the coordinate system discussed, if a point is marked at the intersection of the left wall and the bottom wall of the room, and we define this as the origin $(0,0)$, what does the coordinate $(x, y)$ represent in terms of physical measurement if the scale is $1 \\text{ cm} : 1 \\text{ foot}$?",
+      "options": [
+        { "optionText": "A point at $x$ feet from the left wall and $y$ feet from the bottom wall.", "isCorrect": true },
+        { "optionText": "A point at $x$ cm from the origin and $y$ cm from the origin.", "isCorrect": false },
+        { "optionText": "A point at $x$ feet from the origin along the $y$-axis and $y$ feet along the $x$-axis.", "isCorrect": false },
+        { "optionText": "A point representing the area of the room as $x \\times y$ square feet.", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "According to the coordinate system definition, the $x$-coordinate represents the distance from the $y$-axis (the left wall) and the $y$-coordinate represents the distance from the $x$-axis (the bottom wall). Given the scale $1 \\text{ cm} : 1 \\text{ foot}$, the units map directly to feet.",
+      "explanationQuestion": "This question tests the understanding of coordinate mapping to physical dimensions using the provided scale.",
+      "correctAnswer": "A point at $x$ feet from the left wall and $y$ feet from the bottom wall.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.002",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Referring to Fig 1.2, if a point $P$ is placed at $(-3, 4)$, calculate the exact distance of $P$ from the origin $O(0, 0)$ using the Baudhayana-Pythagoras theorem as discussed in the chapter. Show your steps.",
+      "subjective_evaluation_points": [
+        { "point": "Identifies the coordinates as $x_1=0, y_1=0$ and $x_2=-3, y_2=4$.", "marks": 1 },
+        { "point": "Applies the distance formula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.", "marks": 1 },
+        { "point": "Calculates $\\sqrt{(-3-0)^2 + (4-0)^2} = \\sqrt{9 + 16} = \\sqrt{25}$.", "marks": 1 },
+        { "point": "States the final distance as $5$ units.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 4,
+      "marks": 4,
+      "explanationAnswer": "The distance $d$ from the origin $(0,0)$ to $(x,y)$ is $\\sqrt{x^2 + y^2}$. Substituting $x=-3$ and $y=4$, $d = \\sqrt{(-3)^2 + 4^2} = \\sqrt{9+16} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "The question requires applying the distance formula derived from the Baudhayana-Pythagoras theorem to a specific point in the Cartesian plane.",
+      "correctAnswer": "5 units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In the experiment of marking a room with pins and threads, if a student uses a scale of $1 \\text{ cm} : 1 \\text{ foot}$ and marks two pins at $(2, 3)$ and $(2, 8)$, the length of the thread connecting these two points represents a physical distance of $5 \\text{ feet}$.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Since the $x$-coordinates are the same, the distance is the absolute difference in $y$-coordinates: $|8 - 3| = 5$ units. With a scale of $1 \\text{ cm} : 1 \\text{ foot}$, this corresponds to $5 \\text{ feet}$.",
+      "explanationQuestion": "This tests the application of coordinate geometry to practical room measurement.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C040",
+      "id": "A2.004",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If Reiaan places a pin at $(1, 2)$ and another at $(4, 6)$ on his grid, the horizontal distance covered is ______ units and the vertical distance covered is ______ units, which corresponds to a total straight-line distance of ______ feet.",
+      "blanks": [
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Horizontal distance = $|4 - 1| = 3$. Vertical distance = $|6 - 2| = 4$. Straight-line distance = $\\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "Tests the ability to decompose movement into $x$ and $y$ components and apply the distance formula in a practical scenario.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 4,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "10%"
+  }
+}

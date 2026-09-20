@@ -1,0 +1,178 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 5,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "10%"
+  },
+  "questions": [
+    {
+      "conceptId": "C005",
+      "id": "A1.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "The plane in which the coordinate axes are situated is called the ______.",
+      "options": [
+        {
+          "optionText": "Number line",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Cartesian plane",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Linear plane",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Coordinate line",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "The text explicitly defines the plane containing the axes as the Cartesian plane, coordinate plane, or xy-plane.",
+      "explanationQuestion": "The question asks for the terminology used to describe the 2-D space defined by two perpendicular axes.",
+      "correctAnswer": "Cartesian plane",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A1.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "multi",
+      "sourceType": "TB-Full",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "Which of the following statements correctly describe the sign conventions for quadrants in the Cartesian plane?",
+      "options": [
+        {
+          "optionText": "Quadrant I: both x- and y-coordinates positive"
+        },
+        {
+          "optionText": "Quadrant II: negative x-coordinate and positive y-coordinate"
+        },
+        {
+          "optionText": "Quadrant III: both x- and y-coordinates positive"
+        },
+        {
+          "optionText": "Quadrant IV: positive x-coordinate and negative y-coordinate"
+        }
+      ],
+      "multi": [
+        "Quadrant I: both x- and y-coordinates positive",
+        "Quadrant II: negative x-coordinate and positive y-coordinate",
+        "Quadrant IV: positive x-coordinate and negative y-coordinate"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 2,
+      "explanationAnswer": "Quadrant I is (+, +), Quadrant II is (-, +), Quadrant III is (-, -), and Quadrant IV is (+, -). Option 3 is incorrect because Quadrant III has both negative.",
+      "explanationQuestion": "The question tests the understanding of coordinate signs in different quadrants.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A1.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "TB-Full",
+      "category": "Application",
+      "difficulty": "easy",
+      "questionText": "Any point lying on the x-axis must have a y-coordinate equal to 0.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 4,
+      "marks": 1,
+      "explanationAnswer": "By definition, the x-axis is the line where the vertical distance from the origin (y-coordinate) is zero.",
+      "explanationQuestion": "The question asks for the property of points on the x-axis.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C009",
+      "id": "A1.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "fillblanks",
+      "questionText": "In the coordinate pair $(x, y)$, $x$ represents the perpendicular distance from the ______ and $y$ represents the perpendicular distance from the ______.",
+      "blanks": [
+        "y-axis",
+        "x-axis"
+      ],
+      "sourceType": "TB-Full",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "The x-coordinate is the distance measured along the x-axis from the y-axis, and the y-coordinate is the distance measured along the y-axis from the x-axis.",
+      "explanationQuestion": "The question tests the definition of coordinates as distances from the axes.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A1.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "matchfollowing",
+      "leftItems": [
+        "Quadrant I",
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "rightItems": [
+        "(+, -)",
+        "(+, +)",
+        "(-, +)",
+        "(-, -)"
+      ],
+      "correctMappings": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 1
+        },
+        {
+          "leftIndex": 1,
+          "rightIndex": 2
+        },
+        {
+          "leftIndex": 2,
+          "rightIndex": 3
+        },
+        {
+          "leftIndex": 3,
+          "rightIndex": 0
+        }
+      ],
+      "sourceType": "TB-Full",
+      "category": "Analysis",
+      "difficulty": "medium",
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 2,
+      "explanationAnswer": "Quadrant I is (+, +), II is (-, +), III is (-, -), and IV is (+, -).",
+      "explanationQuestion": "Match the quadrant with its corresponding sign convention.",
+      "set": "A",
+      "questionText": "Match the quadrants in a 2-D Cartesian coordinate system with their corresponding sign conventions for the coordinates (x, y)."
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 5,
+    "passed": 5,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+  "batch": "Batch_1_Foundational_Core",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "What is the general formula to calculate the distance between two points $P_{1}(x_{1}, y_{1})$ and $P_{2}(x_{2}, y_{2})$ in a 2-D Cartesian plane?",
+      "options": [
+        { "optionText": "$\\sqrt{(x_{2} + x_{1})^{2} + (y_{2} + y_{1})^{2}}$", "isCorrect": false },
+        { "optionText": "$\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$", "isCorrect": true },
+        { "optionText": "$(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}$", "isCorrect": false },
+        { "optionText": "$\\sqrt{(x_{2} - y_{2})^{2} + (x_{1} - y_{1})^{2}}$", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "The distance formula derived from the Baudhayana-Pythagoras theorem is the square root of the sum of the squares of the differences of the x and y coordinates.",
+      "explanationQuestion": "This question tests the recall of the fundamental distance formula used in 2D coordinate geometry.",
+      "correctAnswer": "$\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "When a geometric figure like a triangle is reflected across an axis in the Cartesian plane, the lengths of its sides change due to the shift in coordinates.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "Reflection is an isometry; it preserves the distance between points and thus the lengths of the sides of the figure remain unchanged.",
+      "explanationQuestion": "This question tests the understanding of geometric properties under reflection as discussed in the text.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.003",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "If a point $P$ has a negative x-coordinate and a positive y-coordinate, in which quadrant does it lie?",
+      "options": [
+        { "optionText": "Quadrant I", "isCorrect": false },
+        { "optionText": "Quadrant II", "isCorrect": true },
+        { "optionText": "Quadrant III", "isCorrect": false },
+        { "optionText": "Quadrant IV", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "In the Cartesian plane, Quadrant II is defined by negative x-values and positive y-values.",
+      "explanationQuestion": "Tests the comprehension of quadrant sign conventions.",
+      "correctAnswer": "Quadrant II",
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A2.004",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "For any point lying on the x-axis, its ______ coordinate is always zero, and for any point on the y-axis, its ______ coordinate is always zero.",
+      "blanks": [
+        "y",
+        "x"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 4,
+      "marks": 1,
+      "explanationAnswer": "The x-axis is defined by y=0, and the y-axis is defined by x=0.",
+      "explanationQuestion": "Tests comprehension of axis definitions.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.005",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Calculate the distance between points $A(3, 4)$ and $D(7, 1)$ using the distance formula.",
+      "subjective_evaluation_points": [
+        { "point": "Identify $x_{1}=3, y_{1}=4, x_{2}=7, y_{2}=1$.", "marks": 1 },
+        { "point": "Substitute into formula: $\\sqrt{(7-3)^{2} + (1-4)^{2}}$", "marks": 1 },
+        { "point": "Calculate squares: $\\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16+9}$", "marks": 1 },
+        { "point": "Final result: $\\sqrt{25} = 5$ units.", "marks": 1 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is $\\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "Tests the application of the distance formula.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.006",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given points $A(1, -8)$, $B(-4, 7)$, and $C(-7, -4)$, show that they are equidistant from the origin $O(0, 0)$. What is the radius of the circle passing through these points?",
+      "subjective_evaluation_points": [
+        { "point": "Calculate $OA = \\sqrt{1^{2} + (-8)^{2}} = \\sqrt{65}$.", "marks": 1 },
+        { "point": "Calculate $OB = \\sqrt{(-4)^{2} + 7^{2}} = \\sqrt{16+49} = \\sqrt{65}$.", "marks": 1 },
+        { "point": "Calculate $OC = \\sqrt{(-7)^{2} + (-4)^{2}} = \\sqrt{49+16} = \\sqrt{65}$.", "marks": 1 },
+        { "point": "Since all distances equal $\\sqrt{65}$, the radius is $\\sqrt{65}$.", "marks": 1 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "All points are at a distance of $\\sqrt{65}$ from the origin, satisfying the condition for a circle with radius $\\sqrt{65}$.",
+      "explanationQuestion": "Tests application of distance formula to verify points on a circle.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

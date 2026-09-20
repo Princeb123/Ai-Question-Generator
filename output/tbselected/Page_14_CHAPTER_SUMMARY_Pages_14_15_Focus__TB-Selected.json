@@ -1,0 +1,134 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 7,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  },
+  "validationMeta": {
+    "totalInput": 3,
+    "passed": 3,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "selectionSummary": {
+    "initialCount": 7,
+    "selectedCount": 3,
+    "removedCount": 4,
+    "removalReasons": {
+      "duplicates": 2,
+      "nonStandardCategory": 0,
+      "categoryOverRepresentation": 2,
+      "lowQuality": 0
+    }
+  },
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "A1.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "TB-Selected",
+      "category": "Application",
+      "difficulty": "medium",
+      "questionText": "According to the Baudhayana-Pythagoras Theorem, the distance between two points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is given by:",
+      "options": [
+        {
+          "optionText": "$\\sqrt{(x_{2} - x_{1}) + (y_{2} - y_{1})}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{(x_{2} + x_{1})^{2} + (y_{2} + y_{1})^{2}}$",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The distance formula derived from the Baudhayana-Pythagoras Theorem is $\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$.",
+      "explanationQuestion": "The question asks for the standard distance formula provided in the chapter summary.",
+      "correctAnswer": "$\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A1.005",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "TB-Selected",
+      "category": "Analysis",
+      "difficulty": "medium",
+      "questionText": "If $x \\neq y$, then the coordinate pair $(x, y)$ is equal to $(y, x)$.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The summary states that if $x \\neq y$, then $(x, y) \\neq (y, x)$. Order matters in coordinate pairs.",
+      "explanationQuestion": "The question tests the understanding of ordered pairs in a coordinate system.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A1.006",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "matchfollowing",
+      "sourceType": "TB-Selected",
+      "category": "Recall",
+      "difficulty": "easy",
+      "leftItems": [
+        "Point on x-axis",
+        "Point on y-axis",
+        "Origin",
+        "First Quadrant"
+      ],
+      "rightItems": [
+        "$(0, 0)$",
+        "$(+, +)$",
+        "$(x, 0)$",
+        "$(0, y)$"
+      ],
+      "correctMappings": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 2
+        },
+        {
+          "leftIndex": 1,
+          "rightIndex": 3
+        },
+        {
+          "leftIndex": 2,
+          "rightIndex": 0
+        },
+        {
+          "leftIndex": 3,
+          "rightIndex": 1
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "Points on the x-axis have $y=0$ $(x, 0)$, points on the y-axis have $x=0$ $(0, y)$, the origin is $(0, 0)$, and the first quadrant has positive coordinates $(+, +)$.",
+      "explanationQuestion": "The question matches coordinate properties with their definitions.",
+      "set": "A",
+      "questionText": "Match the following geometric points or regions in the Cartesian plane with their standard coordinate representation:"
+    }
+  ]
+}

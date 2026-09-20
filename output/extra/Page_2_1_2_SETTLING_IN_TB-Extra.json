@@ -1,0 +1,65 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 4,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 1,
+    "coveragePercentage": "100%"
+  },
+  "validationMeta": {
+    "totalInput": 2,
+    "passed": 2,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "questions": [
+    {
+      "conceptId": "C038",
+      "id": "A2.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "TB-Extra",
+      "category": "Recall",
+      "difficulty": "easy",
+      "questionText": "Shalini decided to use what she had learnt in Coordinate Geometry to guide Reiaan.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 2,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "The text states: 'Shalini has just completed Grade 9 and this time, she decided to put to use what she has learnt in Coordinate Geometry in Mathematics to guide Reiaan.'",
+      "explanationQuestion": "The question tests the reader's understanding of the character's motivation and application of knowledge.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "Shalini used a scale of ______ cm : ______ foot to mark the points in the room sketch.",
+      "blanks": [
+        "1",
+        "1"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "Page 3 states: 'Shalini was using a scale of 1 cm : 1 foot.'",
+      "explanationQuestion": "The question asks for the specific scale factor used in the room layout sketch.",
+      "correctAnswer": null,
+      "set": "A"
+    }
+  ]
+}

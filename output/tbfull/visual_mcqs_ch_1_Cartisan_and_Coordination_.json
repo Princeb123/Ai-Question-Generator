@@ -1,0 +1,1012 @@
+{
+  "subject": "Artificial Intelligence",
+  "grade": 10,
+  "chapterName": "Cartisan and Coordination ",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "validationMeta": {
+    "totalInput": 27,
+    "passed": 27,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "questions": [
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Spatial Reasoning",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "Based on the provided floor plan, what is the total area of the bedroom excluding the wardrobe?",
+      "options": [
+        {
+          "optionText": "$120\\text{ ft}^{2}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$112\\text{ ft}^{2}$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$128\\text{ ft}^{2}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$116\\text{ ft}^{2}$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_1.jpg",
+      "imageUrl": null,
+      "imageCaption": "Floor plan showing key points and dimensions of room features.",
+      "explanationAnswer": "The bedroom dimensions are $12\\text{ ft} \\times 10\\text{ ft}$, giving a total area of $120\\text{ ft}^{2}$. The wardrobe dimensions are $4\\text{ ft} \\times 2\\text{ ft}$, giving an area of $8\\text{ ft}^{2}$. Subtracting the wardrobe area from the bedroom area: $120 - 8 = 112\\text{ ft}^{2}$.",
+      "explanationQuestion": "Identify the dimensions of the bedroom and the wardrobe from the diagram, calculate their respective areas, and subtract the wardrobe area from the total bedroom area.",
+      "correctAnswer": "$112\\text{ ft}^{2}$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Spatial Reasoning",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "The bathroom has a width of ______ ft and a length of ______ ft, resulting in a total area of ______ $\\text{ft}^{2}$.",
+      "blanks": [
+        "6",
+        "9",
+        "54"
+      ],
+      "options": null,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_1.jpg",
+      "imageUrl": null,
+      "imageCaption": "Floor plan showing key points and dimensions of room features.",
+      "explanationAnswer": "The diagram explicitly labels the bathroom as $6\\text{ ft} \\times 9\\text{ ft}$. Multiplying these dimensions gives $6 \\times 9 = 54\\text{ ft}^{2}$.",
+      "explanationQuestion": "Locate the 'Bathroom' label in the diagram and read the dimensions provided underneath it.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Spatial Reasoning",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "Analyze the floor plan and describe the relative positioning of the bathroom and the bedroom. How does the placement of the doors influence the flow between these two spaces?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly identifies the bathroom is adjacent to the left wall of the bedroom.",
+          "marks": 1
+        },
+        {
+          "point": "Notes that the door connects the bathroom to the bedroom area.",
+          "marks": 1
+        },
+        {
+          "point": "Explains that the door swing (indicated by dashed arcs) suggests a specific entry path into the bedroom.",
+          "marks": 1
+        },
+        {
+          "point": "Concludes that the layout creates a private suite configuration where the bathroom is accessed directly from the bedroom.",
+          "marks": 1
+        }
+      ],
+      "imageName": "figure_1.jpg",
+      "imageUrl": null,
+      "imageCaption": "Floor plan showing key points and dimensions of room features.",
+      "explanationAnswer": "The bathroom is located to the left of the bedroom. The door placement and the dashed arc indicating the door swing show that the bathroom is accessed from the bedroom, implying a private en-suite layout.",
+      "explanationQuestion": "Examine the shared wall between the bathroom and bedroom, the placement of the door, and the dashed lines indicating the door's range of motion.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "Based on the provided Cartesian coordinate plane, what are the coordinates of point $H$?",
+      "options": [
+        {
+          "optionText": "$(0, 4)$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$(4, 0)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$(0, -4)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$(4, 4)$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_2.jpg",
+      "imageUrl": null,
+      "imageCaption": "Cartesian coordinate plane showing points plotted on x and y axes.",
+      "explanationAnswer": "Point $H$ lies on the y-axis, meaning its x-coordinate is $0$. Looking at the grid, it is positioned at $4$ units above the origin on the y-axis, resulting in coordinates $(0, 4)$.",
+      "explanationQuestion": "Identify the y-axis and locate point $H$. Observe its horizontal position relative to the origin ($x=0$) and its vertical position on the grid ($y=4$).",
+      "correctAnswer": "$(0, 4)$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "In the given plane, point $E$ is located at (______, ______) and point $G$ is located at (______, ______), confirming that $E$ lies on the x-axis and $G$ lies on the y-axis.",
+      "options": null,
+      "multi": null,
+      "blanks": [
+        "-2.9",
+        "0",
+        "0",
+        "-4.5"
+      ],
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_2.jpg",
+      "imageUrl": null,
+      "imageCaption": "Cartesian coordinate plane showing points plotted on x and y axes.",
+      "explanationAnswer": "Point $E$ is on the horizontal axis at $-2.9$, so its coordinates are $(-2.9, 0)$. Point $G$ is on the vertical axis at $-4.5$, so its coordinates are $(0, -4.5)$.",
+      "explanationQuestion": "Locate point $E$ on the horizontal axis and read its x-value. Locate point $G$ on the vertical axis and read its y-value.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "Explain the geometric significance of the points $E$, $H$, and $G$ in relation to the axes of the coordinate plane shown in the figure.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies that point $E$ lies on the x-axis because its y-coordinate is $0$.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies that points $H$ and $G$ lie on the y-axis because their x-coordinates are $0$.",
+          "marks": 1
+        }
+      ],
+      "imageName": "figure_2.jpg",
+      "imageUrl": null,
+      "imageCaption": "Cartesian coordinate plane showing points plotted on x and y axes.",
+      "explanationAnswer": "Points lying on the x-axis have a y-coordinate of $0$ (e.g., $E(-2.9, 0)$). Points lying on the y-axis have an x-coordinate of $0$ (e.g., $H(0, 4)$ and $G(0, -4.5)$).",
+      "explanationQuestion": "Examine the coordinates of each point and determine which axis they intersect based on whether the x or y value is zero.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "Based on the provided floor plan, what are the coordinates of the corner $S_{1}$ of the bed?",
+      "options": [
+        {
+          "optionText": "(0, 5)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(5, 0)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(0, 8)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(8, 5)",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_3.jpg",
+      "imageUrl": null,
+      "imageCaption": "A floor plan illustrating object placement using a coordinate system.",
+      "explanationAnswer": "By observing the y-axis, the corner $S_{1}$ aligns with the value 5, and since it lies on the left wall (y-axis), its x-coordinate is 0. Thus, the coordinates are (0, 5).",
+      "explanationQuestion": "Identify the position of point $S_{1}$ on the grid. Look at the x-axis value directly below it and the y-axis value directly to its left.",
+      "correctAnswer": "(0, 5)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "The wardrobe is positioned such that its left edge $W_{1}$ is at x-coordinate ______ and its right edge $W_{2}$ is at x-coordinate ______.",
+      "blanks": [
+        "3",
+        "7"
+      ],
+      "options": null,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_3.jpg",
+      "imageUrl": null,
+      "imageCaption": "A floor plan illustrating object placement using a coordinate system.",
+      "explanationAnswer": "Looking at the x-axis scale at the bottom of the floor plan, the vertical line for $W_{1}$ aligns with 3, and the vertical line for $W_{2}$ aligns with 7.",
+      "explanationQuestion": "Locate the labels $W_{1}$ and $W_{2}$ on the x-axis and read the corresponding numerical values on the grid.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "Calculate the area occupied by the bed in the room, given that each grid unit represents 1 meter. Show your steps.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies the length of the bed by subtracting x-coordinates of $S_{2}$ and $S_{1}$ (or $S_{3}$ and $S_{4}$), which is $7 - 0 = 7$ units.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies the width of the bed by subtracting y-coordinates of $S_{3}$ and $S_{2}$ (or $S_{4}$ and $S_{1}$), which is $8 - 5 = 3$ units, and calculates area as $7 \times 3 = 21$ square meters.",
+          "marks": 1
+        }
+      ],
+      "imageName": "figure_3.jpg",
+      "imageUrl": null,
+      "imageCaption": "A floor plan illustrating object placement using a coordinate system.",
+      "explanationAnswer": "The length of the bed is the distance between $S_{1}(0, 5)$ and $S_{2}(7, 5)$, which is 7 units. The width is the distance between $S_{2}(7, 5)$ and $S_{3}(7, 8)$, which is 3 units. Area = $7 \times 3 = 21$ square meters.",
+      "explanationQuestion": "Determine the dimensions of the rectangular bed by finding the difference in coordinates between its vertices.",
+      "correctAnswer": "21 square meters",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.000",
+      "id": "S6.000",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "Based on the provided Cartesian coordinate system, what are the signs of the coordinates $(x, y)$ for point $S$ located in Quadrant IV?",
+      "options": [
+        {
+          "optionText": "$x > 0, y > 0$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$x < 0, y > 0$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$x < 0, y < 0$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$x > 0, y < 0$",
+          "isCorrect": true
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_4.jpg",
+      "imageUrl": null,
+      "imageCaption": "Cartesian coordinate system showing quadrants and plotted points Q and S.",
+      "explanationAnswer": "In the Cartesian plane, Quadrant IV is defined by positive x-values and negative y-values. Point $S(3, -5)$ confirms this as $3 > 0$ and $-5 < 0$.",
+      "explanationQuestion": "Identify the quadrant where point $S$ is plotted and observe the signs of its coordinates on the x-axis and y-axis.",
+      "correctAnswer": "$x > 0, y < 0$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "In the given graph, point $Q$ is located at coordinates (______, ______) and lies in the ______ quadrant.",
+      "options": null,
+      "multi": null,
+      "blanks": [
+        "-5",
+        "3",
+        "II"
+      ],
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_4.jpg",
+      "imageUrl": null,
+      "imageCaption": "Cartesian coordinate system showing quadrants and plotted points Q and S.",
+      "explanationAnswer": "By observing the grid, point $Q$ aligns with $-5$ on the x-axis and $3$ on the y-axis, placing it in the upper-left section, which is Quadrant II.",
+      "explanationQuestion": "Locate point $Q$ on the grid and trace its perpendicular distance to both the x-axis and y-axis to determine its coordinates and quadrant.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "Calculate the perpendicular distance of point $Q(-5, 3)$ from the x-axis and point $S(3, -5)$ from the y-axis. Explain your reasoning.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies that the perpendicular distance of a point $(x, y)$ from the x-axis is $|y|$.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies that the perpendicular distance of a point $(x, y)$ from the y-axis is $|x|$, resulting in distances of 3 units and 3 units respectively.",
+          "marks": 1
+        }
+      ],
+      "imageName": "figure_4.jpg",
+      "imageUrl": null,
+      "imageCaption": "Cartesian coordinate system showing quadrants and plotted points Q and S.",
+      "explanationAnswer": "The distance of a point from the x-axis is the absolute value of its y-coordinate. For $Q(-5, 3)$, distance = $|3| = 3$. The distance of a point from the y-axis is the absolute value of its x-coordinate. For $S(3, -5)$, distance = $|3| = 3$.",
+      "explanationQuestion": "Recall the geometric definition of coordinates as distances from the axes and apply it to the given points.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "Based on the provided Cartesian coordinate system, what are the coordinates of the corner point labeled $S_{1}$ on the bed?",
+      "options": [
+        {
+          "optionText": "(0, 5)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(5, 0)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(1, 5)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(0, 4)",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_5.jpg",
+      "imageUrl": null,
+      "imageCaption": "Floor plan of a room mapped onto a Cartesian coordinate system.",
+      "explanationAnswer": "By observing the y-axis, the point $S_{1}$ aligns horizontally with the value +5 and vertically lies on the y-axis itself, where the x-coordinate is 0. Thus, the coordinates are (0, 5).",
+      "explanationQuestion": "Locate the bed in the diagram and identify the point $S_{1}$ at the bottom-left corner of the bed. Trace its position to the x-axis and y-axis to determine its coordinates.",
+      "correctAnswer": "(0, 5)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "The wardrobe is positioned such that its left edge $W_{1}$ is at x = ______ and its right edge $W_{2}$ is at x = ______.",
+      "blanks": [
+        "3",
+        "7"
+      ],
+      "options": null,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_5.jpg",
+      "imageUrl": null,
+      "imageCaption": "Floor plan of a room mapped onto a Cartesian coordinate system.",
+      "explanationAnswer": "Looking at the x-axis along the bottom of the room, the vertical line segment representing the left side of the wardrobe starts at the mark labeled 3, and the right side ends at the mark labeled 7.",
+      "explanationQuestion": "Identify the 'Wardrobe' rectangle in the bottom right quadrant. Follow the vertical lines defining its width down to the x-axis to read the corresponding coordinate values.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "Calculate the length of the bed using the coordinates of points $S_{1}$ and $S_{2}$ as shown in the floor plan.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly identifies coordinates of $S_{1}$ as (0, 5) and $S_{2}$ as (8, 5).",
+          "marks": 1
+        },
+        {
+          "point": "Applies the distance formula or observes the horizontal difference to conclude the length is 8 units.",
+          "marks": 1
+        }
+      ],
+      "imageName": "figure_5.jpg",
+      "imageUrl": null,
+      "imageCaption": "Floor plan of a room mapped onto a Cartesian coordinate system.",
+      "explanationAnswer": "Point $S_{1}$ is at (0, 5) and $S_{2}$ is at (8, 5). Since the y-coordinates are the same, the length is the difference in x-coordinates: $8 - 0 = 8$ units.",
+      "explanationQuestion": "Identify the coordinates of the two points $S_{1}$ and $S_{2}$ on the bed. Use the horizontal distance between these two points to find the length of the bed.",
+      "correctAnswer": "8 units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "Based on the Cartesian coordinate plane provided, what are the coordinates of vertex $M$?",
+      "options": [
+        {
+          "optionText": "(6, 9)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(9, 6)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(7, 1)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(3, 4)",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_6.jpg",
+      "imageUrl": null,
+      "imageCaption": "A triangle plotted on a Cartesian coordinate plane with labeled vertices.",
+      "explanationAnswer": "By observing the point $M$ on the grid, the x-coordinate aligns with 9 on the horizontal axis and the y-coordinate aligns with 6 on the vertical axis, giving the coordinates $(9, 6)$.",
+      "explanationQuestion": "Locate point $M$ in the first quadrant of the Cartesian plane. Trace vertically down to the x-axis to find the x-coordinate and horizontally left to the y-axis to find the y-coordinate.",
+      "correctAnswer": "(9, 6)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "The length of the side $AD$ can be calculated using the distance formula $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$. Using the coordinates $A(3, 4)$ and $D(7, 1)$, the distance $AD$ is equal to ______ units.",
+      "options": null,
+      "multi": null,
+      "blanks": [
+        "5"
+      ],
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_6.jpg",
+      "imageUrl": null,
+      "imageCaption": "A triangle plotted on a Cartesian coordinate plane with labeled vertices.",
+      "explanationAnswer": "Using the distance formula: $d = \\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16 + 9} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "Identify the coordinates of points $A$ and $D$ from the graph. Apply the distance formula between these two points to calculate the length.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "Calculate the area of the triangle $ADM$ shown in the figure using the coordinate geometry formula: $\\text{Area} = \\frac{1}{2} |x_{1}(y_{2}-y_{3}) + x_{2}(y_{3}-y_{1}) + x_{3}(y_{1}-y_{2})|$. Show your steps.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Correct identification of coordinates: $A(3, 4)$, $D(7, 1)$, $M(9, 6)$.",
+          "marks": 1
+        },
+        {
+          "point": "Correct substitution into the area formula and final calculation resulting in 8.5 square units.",
+          "marks": 1
+        }
+      ],
+      "imageName": "figure_6.jpg",
+      "imageUrl": null,
+      "imageCaption": "A triangle plotted on a Cartesian coordinate plane with labeled vertices.",
+      "explanationAnswer": "Using coordinates $(3, 4), (7, 1), (9, 6)$: $\\text{Area} = \\frac{1}{2} |3(1-6) + 7(6-4) + 9(4-1)| = \\frac{1}{2} |3(-5) + 7(2) + 9(3)| = \\frac{1}{2} |-15 + 14 + 27| = \\frac{1}{2} |26| = 13$. (Correction: Calculation is $0.5 * | -15 + 14 + 27 | = 0.5 * 26 = 13$)",
+      "explanationQuestion": "Extract the coordinates for vertices $A, D,$ and $M$ from the graph and apply the area of a triangle formula for coordinates.",
+      "correctAnswer": "13 square units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "Based on the provided Cartesian plane, what are the coordinates of the vertex labeled $D$?",
+      "options": [
+        {
+          "optionText": "$(7, 1)$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$(1, 7)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$(3, 4)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$(9, 6)$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_7.jpg",
+      "imageUrl": null,
+      "imageCaption": "A triangle plotted on a Cartesian coordinate plane with labeled vertices.",
+      "explanationAnswer": "By observing the grid, point $D$ aligns with $7$ on the $x$-axis and $1$ on the $y$-axis, giving the coordinates $(7, 1)$.",
+      "explanationQuestion": "Locate point $D$ on the graph and trace its perpendicular distance to both the $x$-axis and $y$-axis to determine the $(x, y)$ coordinate pair.",
+      "correctAnswer": "$(7, 1)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "The horizontal distance between vertex $A$ and vertex $D$ is calculated by finding the difference in their $x$-coordinates, which is $7 - ______ = ______$ units.",
+      "blanks": [
+        "3",
+        "4"
+      ],
+      "options": null,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_7.jpg",
+      "imageUrl": null,
+      "imageCaption": "A triangle plotted on a Cartesian coordinate plane with labeled vertices.",
+      "explanationAnswer": "The $x$-coordinate of $D$ is $7$ and the $x$-coordinate of $A$ is $3$. The horizontal distance is $7 - 3 = 4$.",
+      "explanationQuestion": "Identify the $x$-coordinates of points $A$ and $D$ from the graph and subtract the smaller value from the larger value.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "Calculate the length of the line segment $AD$ using the distance formula: $d = \\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$. Show your steps.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly identifies coordinates $A(3, 4)$ and $D(7, 1)$.",
+          "marks": 1
+        },
+        {
+          "point": "Correctly applies the distance formula to get $\\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16+9} = 5$ units.",
+          "marks": 1
+        }
+      ],
+      "imageName": "figure_7.jpg",
+      "imageUrl": null,
+      "imageCaption": "A triangle plotted on a Cartesian coordinate plane with labeled vertices.",
+      "explanationAnswer": "Using $A(3, 4)$ and $D(7, 1)$, $d = \\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16+9} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "Extract the coordinates of $A$ and $D$ from the graph and substitute them into the distance formula.",
+      "correctAnswer": "5 units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "Based on the provided geometric derivation, what does the horizontal segment length $x_{2} - x_{1}$ represent in the right-angled triangle formed?",
+      "options": [
+        {
+          "optionText": "The vertical distance between point A and point D",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The horizontal distance between point F and point D",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The hypotenuse of the triangle",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The distance between point A and point F",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_8.jpg",
+      "imageUrl": null,
+      "imageCaption": "Geometric derivation of the Euclidean distance formula between two points.",
+      "explanationAnswer": "In the diagram, the horizontal line segment connects point F $(x_{1}, y_{2})$ and point D $(x_{2}, y_{2})$. The difference in their x-coordinates is $x_{2} - x_{1}$, representing the base of the right-angled triangle.",
+      "explanationQuestion": "Identify the horizontal base of the triangle in the grid and observe the coordinates of the endpoints F and D.",
+      "correctAnswer": "The horizontal distance between point F and point D",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "In the given diagram, the length of the vertical side is represented by ______ and the length of the horizontal side is represented by ______.",
+      "options": null,
+      "multi": null,
+      "blanks": [
+        "$y_{2} - y_{1}$",
+        "$x_{2} - x_{1}$"
+      ],
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_8.jpg",
+      "imageUrl": null,
+      "imageCaption": "Geometric derivation of the Euclidean distance formula between two points.",
+      "explanationAnswer": "The vertical side corresponds to the difference in y-coordinates between A and F ($y_{2} - y_{1}$), and the horizontal side corresponds to the difference in x-coordinates between F and D ($x_{2} - x_{1}$).",
+      "explanationQuestion": "Look at the labels on the vertical dashed line and the horizontal dashed line in the image.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "Explain how the Pythagorean theorem is applied to the triangle shown in the image to derive the distance formula between points A and D.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        "Identifies the triangle as a right-angled triangle with vertices A, F, and D.",
+        "States that the hypotenuse is the segment AD.",
+        "Identifies the legs of the triangle as having lengths $(x_{2} - x_{1})$ and $(y_{2} - y_{1})$.",
+        "Applies the Pythagorean theorem $a^{2} + b^{2} = c^{2}$ to show that $AD = \\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$."
+      ],
+      "imageName": "figure_8.jpg",
+      "imageUrl": null,
+      "imageCaption": "Geometric derivation of the Euclidean distance formula between two points.",
+      "explanationAnswer": "The triangle AFD is a right-angled triangle at F. By the Pythagorean theorem, the square of the hypotenuse (AD) equals the sum of the squares of the other two sides (AF and FD). Thus, $AD^{2} = (x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}$, leading to the distance formula.",
+      "explanationQuestion": "Observe the right angle at vertex F and relate the side lengths to the hypotenuse AD using the Pythagorean theorem.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "S6.001",
+      "topic": "Coordinate Geometry",
+      "questionType": "mcq",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "easy",
+      "questionText": "Based on the provided Cartesian plane, what is the coordinate transformation rule applied to point $A(3, 4)$ to obtain its reflection $A'(-3, 4)$?",
+      "options": [
+        {
+          "optionText": "$(x, y) \\rightarrow (-x, y)$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$(x, y) \\rightarrow (x, -y)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$(x, y) \\rightarrow (-x, -y)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$(x, y) \\rightarrow (y, x)$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_9.jpg",
+      "imageUrl": null,
+      "imageCaption": "Cartesian coordinate plane showing a triangle and its y-axis reflection.",
+      "explanationAnswer": "The image shows a reflection across the y-axis. In a y-axis reflection, the y-coordinate remains the same while the x-coordinate changes sign. Thus, $(3, 4)$ becomes $(-3, 4)$, which corresponds to the rule $(x, y) \\rightarrow (-x, y)$.",
+      "explanationQuestion": "Identify the coordinates of point A and its reflected image A'. Observe how the x-coordinate changes sign while the y-coordinate remains constant, indicating a reflection across the vertical y-axis.",
+      "correctAnswer": "$(x, y) \\rightarrow (-x, y)$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "S6.002",
+      "topic": "Coordinate Geometry",
+      "questionType": "fillblanks",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "In the given figure, the distance between point $C(3, 1)$ and $D(7, 1)$ is ______ units, and the distance between their reflected counterparts $C'(-3, 1)$ and $D'(-7, 1)$ is ______ units.",
+      "options": null,
+      "multi": null,
+      "blanks": [
+        "4",
+        "4"
+      ],
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "imageName": "figure_9.jpg",
+      "imageUrl": null,
+      "imageCaption": "Cartesian coordinate plane showing a triangle and its y-axis reflection.",
+      "explanationAnswer": "The distance between two points with the same y-coordinate is the absolute difference of their x-coordinates. For $C$ and $D$, $|7 - 3| = 4$. For $C'$ and $D'$, $|-7 - (-3)| = |-4| = 4$. Reflection preserves distance.",
+      "explanationQuestion": "Locate points C, D, C', and D' on the grid. Calculate the horizontal distance for each pair by subtracting the x-coordinates.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "S6.003",
+      "topic": "Coordinate Geometry",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "Explain why the triangle $M'A'D'$ is considered a congruent reflection of triangle $MAD$ based on the coordinate data provided in the image.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "pageNumber": null,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        "Identifies that reflection across the y-axis maps $(x, y)$ to $(-x, y)$.",
+        "Verifies that all vertices $M(9, 6), A(3, 4), D(7, 1)$ map to $M'(-9, 6), A'(-3, 4), D'(-7, 1)$ respectively.",
+        "States that reflection is an isometry (rigid transformation) which preserves side lengths and angles.",
+        "Concludes that since all corresponding sides are equal in length, the triangles are congruent."
+      ],
+      "imageName": "figure_9.jpg",
+      "imageUrl": null,
+      "imageCaption": "Cartesian coordinate plane showing a triangle and its y-axis reflection.",
+      "explanationAnswer": "The transformation is a reflection across the y-axis, which maps $(x, y)$ to $(-x, y)$. By checking the coordinates, $M(9, 6) \\rightarrow M'(-9, 6)$, $A(3, 4) \\rightarrow A'(-3, 4)$, and $D(7, 1) \\rightarrow D'(-7, 1)$. Since reflection is a rigid transformation, it preserves the distance between points, ensuring the triangles are congruent.",
+      "explanationQuestion": "Compare the coordinates of the vertices of both triangles. Analyze the transformation rule and apply the property of rigid transformations.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+  "batch": "Batch_3_Contextual_Logic",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "In a coordinate geometry simulation, a robot moves from point $A(3, 4)$ to point $D(7, 1)$. If the robot then reflects its path across the $y$-axis to reach new coordinates $A'(-3, 4)$ and $D'(-7, 1)$, what is the distance $D'M'$ where $M'$ is the reflected image of $M(9, 6)$?",
+      "options": [
+        { "optionText": "$\\sqrt{29}$ units", "isCorrect": true },
+        { "optionText": "$\\sqrt{40}$ units", "isCorrect": false },
+        { "optionText": "$\\sqrt{5}$ units", "isCorrect": false },
+        { "optionText": "$\\sqrt{13}$ units", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "The distance formula is $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$. For $D'(-7, 1)$ and $M'(-9, 6)$, distance = $\\sqrt{(-9 - (-7))^{2} + (6 - 1)^{2}} = \\sqrt{(-2)^{2} + 5^{2}} = \\sqrt{4 + 25} = \\sqrt{29}$.",
+      "explanationQuestion": "The question tests the application of the distance formula after a geometric reflection across the y-axis.",
+      "correctAnswer": "$\\sqrt{29}$ units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Consider triangle $ADM$ with vertices $A(3, 4)$, $D(7, 1)$, and $M(9, 6)$. If this triangle is reflected across the $x$-axis, explain why the side lengths remain preserved and calculate the new length of side $AM$ after reflection.",
+      "subjective_evaluation_points": [
+        { "point": "Explains that reflection is an isometry (rigid transformation) which preserves distance between points.", "marks": 1 },
+        { "point": "Calculates the original length of $AM = \\sqrt{(9-3)^{2} + (6-4)^{2}} = \\sqrt{6^{2} + 2^{2}} = \\sqrt{40}$.", "marks": 1 },
+        { "point": "States that the reflected length is identical to the original length, $\\sqrt{40}$ units.", "marks": 1 }
+      ],
+      "marks": 2,
+      "explanationAnswer": "Reflection is a rigid transformation that preserves distances. The original length $AM = \\sqrt{(9-3)^{2} + (6-4)^{2}} = \\sqrt{36+4} = \\sqrt{40}$. After reflection, the new coordinates are $A(3, -4)$ and $M(9, -6)$, and the distance remains $\\sqrt{(9-3)^{2} + (-6 - (-4))^{2}} = \\sqrt{6^{2} + (-2)^{2}} = \\sqrt{40}$.",
+      "explanationQuestion": "This question requires understanding the properties of geometric reflections in the Cartesian plane.",
+      "correctAnswer": "The side length remains $\\sqrt{40}$ units because reflection preserves distance.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.003",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: For any two distinct points $P(x_{1}, y_{1})$ and $Q(x_{2}, y_{2})$, the distance $PQ$ is calculated as $\\sqrt{(x_{1}-x_{2})^{2} + (y_{1}-y_{2})^{2}}$. Reason: The distance formula is invariant to the order of subtraction of coordinates because the square of a negative number is positive.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "The distance formula is derived from the Pythagorean theorem, and since $(a-b)^{2} = (b-a)^{2}$, the order of subtraction does not change the result.",
+      "explanationQuestion": "Tests the fundamental properties of the distance formula.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The point $(x, y)$ always coincides with $(y, x)$ on the Cartesian plane. Reason: The coordinate system is symmetric about the line $y = x$.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The point $(x, y)$ only coincides with $(y, x)$ if $x = y$. For any other case, the points are reflections of each other across the line $y = x$.",
+      "explanationQuestion": "Tests the understanding of coordinate order and the line of symmetry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.005",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "A circle $K$ is centered at the origin $(0, 0)$. If point $A(1, -8)$ lies on the circle, what is the radius of the circle, and does point $P(-5, 6)$ lie inside, outside, or on the circle?",
+      "options": [
+        { "optionText": "Radius $\\sqrt{65}$, Point $P$ is inside", "isCorrect": true },
+        { "optionText": "Radius $\\sqrt{65}$, Point $P$ is outside", "isCorrect": false },
+        { "optionText": "Radius $9$, Point $P$ is on the circle", "isCorrect": false },
+        { "optionText": "Radius $8$, Point $P$ is inside", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 13,
+      "marks": 1,
+      "explanationAnswer": "Radius $r = \\sqrt{1^{2} + (-8)^{2}} = \\sqrt{1+64} = \\sqrt{65}$. For $P(-5, 6)$, distance from origin = $\\sqrt{(-5)^{2} + 6^{2}} = \\sqrt{25+36} = \\sqrt{61}$. Since $\\sqrt{61} < \\sqrt{65}$, the point lies inside.",
+      "explanationQuestion": "Tests the ability to determine distances from the origin and compare them to a radius.",
+      "correctAnswer": "Radius $\\sqrt{65}$, Point $P$ is inside",
+      "set": "A"
+    },
+    {
+      "conceptId": "C024",
+      "id": "A2.006",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Given $M(-7, 1)$ is the midpoint of segment $AB$, where $A$ is $(3, -4)$, determine the coordinates of point $B(x, y)$.",
+      "subjective_evaluation_points": [
+        { "point": "Uses the midpoint formula: $x_{m} = (x_{1} + x_{2}) / 2$ and $y_{m} = (y_{1} + y_{2}) / 2$.", "marks": 1 },
+        { "point": "Sets up equations: $-7 = (3 + x) / 2$ and $1 = (-4 + y) / 2$.", "marks": 1 },
+        { "point": "Solves for $x$: $3 + x = -14 \\implies x = -17$.", "marks": 1 },
+        { "point": "Solves for $y$: $-4 + y = 2 \\implies y = 6$. Coordinates are $(-17, 6)$.", "marks": 1 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "Using the midpoint formula $M = (\\frac{x_{1}+x_{2}}{2}, \\frac{y_{1}+y_{2}}{2})$, we get $-7 = \\frac{3+x}{2} \\implies x = -17$ and $1 = \\frac{-4+y}{2} \\implies y = 6$. The point is $(-17, 6)$.",
+      "explanationQuestion": "Tests the ability to perform inverse calculations using the midpoint formula.",
+      "correctAnswer": "B is $(-17, 6)$",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

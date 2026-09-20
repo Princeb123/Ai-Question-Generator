@@ -1,0 +1,59 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "reversalSummary": {
+    "inputCount": 1,
+    "reversedCount": 1,
+    "skippedCount": 0,
+    "coveragePercent": 100.0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [
+    {
+      "conceptId": "C004",
+      "id": "REV-S001.003",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "In the modern Cartesian coordinate system, the existence of the origin and the four-quadrant structure relies fundamentally on the mathematical formalization of zero and negative numbers as distinct algebraic entities. Which historical mathematician's work provided the essential foundation for these concepts, and how did it enable the development of the Cartesian plane?",
+      "options": null,
+      "correctAnswer": "Brahmagupta; his formalization of zero and negative numbers allowed for the definition of the origin and negative axes, which are prerequisites for the four-quadrant Cartesian plane.",
+      "explanationAnswer": "Brahmagupta's work (c. 628 CE) provided the algebraic framework for zero and negative numbers. Without these, the coordinate system would be restricted to positive values (first quadrant only), as there would be no mathematical basis for the origin (0,0) or the negative directions on the x and y axes.",
+      "explanationQuestion": "The student must identify the historical figure whose specific mathematical contributions (zero and negative numbers) are the logical prerequisites for the geometric structure of the Cartesian plane.",
+      "marks": 4,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identification of Brahmagupta as the mathematician.",
+          "marks": 2
+        },
+        {
+          "point": "Explanation of how zero and negative numbers enable the origin and four-quadrant structure.",
+          "marks": 2
+        }
+      ]
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 1,
+    "passed": 1,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

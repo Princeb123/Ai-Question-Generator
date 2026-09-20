@@ -1,0 +1,106 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "reversalSummary": {
+    "inputCount": 2,
+    "reversedCount": 2,
+    "skippedCount": 0,
+    "coveragePercent": 100.0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [
+    {
+      "conceptId": "C010",
+      "id": "REV-A1.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Application",
+      "difficulty": "medium",
+      "questionText": "A point P(a, b) is plotted on a Cartesian plane such that its vertical distance from the origin is zero. Which of the following must be true regarding the coordinates of P?",
+      "options": [
+        {
+          "optionText": "The value of 'a' must be 0.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The value of 'b' must be 0.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Both 'a' and 'b' must be 0.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The value of 'a' must be equal to 'b'.",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "The value of 'b' must be 0.",
+      "explanationAnswer": "The vertical distance from the origin in a Cartesian plane is represented by the y-coordinate. If this distance is zero, the point must lie on the x-axis, meaning its y-coordinate (b) is 0.",
+      "explanationQuestion": "Identify the coordinate property corresponding to a zero vertical distance from the origin.",
+      "marks": 1,
+      "pageNumber": 4,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "REV-A1.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "A point Q has coordinates (-5, 8). In which quadrant of the Cartesian plane does this point lie?",
+      "options": [
+        {
+          "optionText": "Quadrant I",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Quadrant III",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant IV",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "Quadrant II",
+      "explanationAnswer": "In the Cartesian coordinate system, Quadrant II is defined by a negative x-coordinate and a positive y-coordinate (-, +). Since -5 is negative and 8 is positive, the point lies in Quadrant II.",
+      "explanationQuestion": "Analyze the signs of the given coordinates (-5, 8) to determine their quadrant location.",
+      "marks": 2,
+      "pageNumber": 6,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 2,
+    "passed": 2,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

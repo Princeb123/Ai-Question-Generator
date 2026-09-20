@@ -1,0 +1,161 @@
+{
+  "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+  "batch": "Batch_2_Advanced_Cognitive",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Cartesian and Coordinate Geometry",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "If the distance between points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is denoted by $d$, which of the following expressions correctly represents the square of the distance derived from the Baudhayana-Pythagoras theorem?",
+      "options": [
+        { "optionText": "$d^{2} = (x_{2} - x_{1}) + (y_{2} - y_{1})$", "isCorrect": false },
+        { "optionText": "$d^{2} = (x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}$", "isCorrect": true },
+        { "optionText": "$d^{2} = (x_{1} - x_{2})^{2} - (y_{1} - y_{2})^{2}$", "isCorrect": false },
+        { "optionText": "$d^{2} = \sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The distance formula is derived from the Pythagorean theorem where $d = \sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$. Squaring both sides yields $d^{2} = (x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}$.",
+      "explanationQuestion": "The question tests the conceptual understanding of the distance formula derivation.",
+      "correctAnswer": "$d^{2} = (x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Fact",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Given that for a point $(x, y)$, the order of coordinates matters, which of the following statements is mathematically true for any two distinct points $(x, y)$ and $(a, b)$?",
+      "options": [
+        { "optionText": "If $x = b$ and $y = a$, then $(x, y) = (a, b)$ is always true.", "isCorrect": false },
+        { "optionText": "$(x, y) = (a, b)$ if and only if $x = a$ and $y = b$.", "isCorrect": true },
+        { "optionText": "$(x, y) = (a, b)$ is independent of the values of $x, y, a, b$.", "isCorrect": false },
+        { "optionText": "The coordinates $(x, y)$ are equivalent to $(y, x)$ for all points.", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "In a Cartesian coordinate system, a point is defined as an ordered pair. Equality of two ordered pairs requires that their corresponding components are equal.",
+      "explanationQuestion": "This tests the fundamental definition of ordered pairs in coordinate geometry.",
+      "correctAnswer": "$(x, y) = (a, b)$ if and only if $x = a$ and $y = b$.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Definition",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Explain why the sign conventions for the four quadrants are necessary for uniquely locating a point in a 2-D plane. Provide an example for a point in Quadrant III.",
+      "subjective_evaluation_points": [
+        { "point": "Explains that signs indicate the direction relative to the origin along the axes.", "marks": 1 },
+        { "point": "States that Quadrant III is defined by both x and y being negative.", "marks": 1 },
+        { "point": "Provides a valid example point like $(-2, -3)$ and correctly identifies its location.", "marks": 2 }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 4,
+      "explanationAnswer": "Sign conventions are essential because they distinguish between the four regions created by the intersection of the two axes. In Quadrant III, both the x-coordinate (distance from y-axis to the left) and the y-coordinate (distance from x-axis downwards) are negative. Example: $(-2, -3)$.",
+      "explanationQuestion": "This tests the conceptual understanding of quadrant sign conventions.",
+      "correctAnswer": "Sign conventions are necessary to specify the relative position of a point in the 2-D plane. Quadrant III has negative x and y coordinates, e.g., $(-2, -3)$.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Fact",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "If a triangle is reflected across the y-axis, what happens to the lengths of its sides and the coordinates of its vertices? Justify your answer using the concept of distance preservation.",
+      "subjective_evaluation_points": [
+        { "point": "States that side lengths remain invariant (preserved).", "marks": 1 },
+        { "point": "Explains that the x-coordinate of each vertex changes sign ($x$ becomes $-x$), while the y-coordinate remains the same.", "marks": 1 },
+        { "point": "Justifies by noting that the distance formula involves squared differences, making the sign change irrelevant to the final distance calculation.", "marks": 2 }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 11,
+      "marks": 4,
+      "explanationAnswer": "Reflection across the y-axis transforms $(x, y)$ to $(-x, y)$. Since the distance formula depends on $(x_{2}-x_{1})^{2}$, changing the sign of both x-coordinates does not change the squared difference, thus preserving length.",
+      "explanationQuestion": "This evaluates the understanding of geometric transformation effects on coordinate properties.",
+      "correctAnswer": "Side lengths are preserved. Vertices $(x, y)$ transform to $(-x, y)$.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C029",
+      "id": "A2.005",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "multi",
+      "sourceType": "Exercise",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "Which of the following conditions must be met for two circles with radii $r_{1}$ and $r_{2}$ centered at $C_{1}(x_{1}, y_{1})$ and $C_{2}(x_{2}, y_{2})$ to intersect on a 2-D plane?",
+      "options": [
+        { "optionText": "Distance between centers $d > r_{1} + r_{2}$" },
+        { "optionText": "Distance between centers $d \le r_{1} + r_{2}$" },
+        { "optionText": "Distance between centers $d \ge |r_{1} - r_{2}|$" },
+        { "optionText": "Distance between centers $d = 0$" }
+      ],
+      "multi": [
+        "Distance between centers $d \le r_{1} + r_{2}$",
+        "Distance between centers $d \ge |r_{1} - r_{2}|$"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "For two circles to intersect, the distance between their centers must be less than or equal to the sum of their radii, and greater than or equal to the absolute difference of their radii.",
+      "explanationQuestion": "This tests the application of coordinate geometry to geometric intersection problems.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.006",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Exercise",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "To prove that a quadrilateral with vertices at $(0,0), (a,0), (a,a),$ and $(0,a)$ is a square, it is sufficient to calculate the lengths of all four sides and show they are equal.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "Calculating only the side lengths is insufficient, as this only proves the shape is a rhombus. One must also prove that the diagonals are equal in length or that adjacent sides are perpendicular to confirm it is a square.",
+      "explanationQuestion": "This tests the higher-order reasoning required for geometric proofs using coordinates.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

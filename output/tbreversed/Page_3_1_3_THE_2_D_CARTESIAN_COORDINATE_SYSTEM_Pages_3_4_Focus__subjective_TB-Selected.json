@@ -1,0 +1,67 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "reversalSummary": {
+    "inputCount": 1,
+    "reversedCount": 1,
+    "skippedCount": 0,
+    "coveragePercent": 100.0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [
+    {
+      "conceptId": "C014",
+      "id": "REV-S001.003",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "A student claims that for any two points (a, b) and (b, a), the location on the Cartesian plane remains identical regardless of the values of a and b. Provide a mathematical counter-argument to disprove this claim, specifically addressing the relationship between coordinate order and axis distance.",
+      "options": null,
+      "correctAnswer": "The claim is false; (a, b) and (b, a) represent the same point only if a = b. Otherwise, they represent different distances from the x and y axes.",
+      "explanationAnswer": "The claim is incorrect because the Cartesian coordinate system is an ordered pair system. The first coordinate (x) measures distance from the y-axis, and the second coordinate (y) measures distance from the x-axis. If a is not equal to b, the point (a, b) will have a different horizontal and vertical displacement compared to (b, a), placing them at different locations in the plane.",
+      "explanationQuestion": "To disprove the claim, one must demonstrate that the order of coordinates is non-commutative. By defining the x and y components as distinct distances from the axes, it becomes clear that swapping them changes the geometric position unless the values are identical.",
+      "marks": 4,
+      "pageNumber": 4,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly identifying that Cartesian coordinates are ordered pairs.",
+          "marks": 1
+        },
+        {
+          "point": "Explaining that the first coordinate corresponds to the distance from the y-axis and the second to the x-axis.",
+          "marks": 1
+        },
+        {
+          "point": "Providing the condition a = b for points to be identical.",
+          "marks": 1
+        },
+        {
+          "point": "Concluding clearly that swapping coordinates changes the geometric position when a is not equal to b.",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 1,
+    "passed": 1,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

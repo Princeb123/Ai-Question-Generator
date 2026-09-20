@@ -1,0 +1,150 @@
+{
+  "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+  "batch": "Batch_2_Advanced_Cognitive",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C014",
+      "id": "A2.001",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "If a point $P(x, y)$ is defined such that $x \\neq y$, which of the following statements regarding the coordinates $(x, y)$ and $(y, x)$ is mathematically true?",
+      "options": [
+        { "optionText": "$(x, y) = (y, x)$", "isCorrect": false },
+        { "optionText": "$(x, y) \\neq (y, x)$", "isCorrect": true },
+        { "optionText": "The distance from the origin is different for both points", "isCorrect": false },
+        { "optionText": "Both points always lie in the same quadrant", "isCorrect": false }
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 7,
+      "marks": 1,
+      "explanationAnswer": "In a Cartesian coordinate system, the order of coordinates in the ordered pair $(x, y)$ is significant. If $x \\neq y$, then the point $(x, y)$ represents a unique location distinct from $(y, x)$.",
+      "explanationQuestion": "This question tests the understanding of coordinate order significance in the Cartesian plane.",
+      "correctAnswer": "$(x, y) \\neq (y, x)$",
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.002",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "The point $(a, b)$ coincides with the point $(b, a)$ if and only if $a = b$.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 7,
+      "marks": 1,
+      "explanationAnswer": "For two points $(x_1, y_1)$ and $(x_2, y_2)$ to coincide, $x_1$ must equal $x_2$ and $y_1$ must equal $y_2$. Thus, $a=b$ and $b=a$, which implies $a=b$.",
+      "explanationQuestion": "This question evaluates the logical condition for coordinate coincidence.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.003",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Explain why reflecting a triangle $\\Delta ADM$ across the y-axis preserves the lengths of its sides, even though the coordinates of its vertices change.",
+      "subjective_evaluation_points": [
+        { "point": "Mentions that reflection is an isometry (rigid transformation).", "marks": 1 },
+        { "point": "Explains that the distance formula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$ remains invariant because the squares of the differences in coordinates are preserved under reflection.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 11,
+      "marks": 2,
+      "explanationAnswer": "Reflection across the y-axis maps $(x, y)$ to $(-x, y)$. The distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ after reflection becomes $\\sqrt{((-x_2)-(-x_1))^2 + (y_2-y_1)^2} = \\sqrt{(x_1-x_2)^2 + (y_2-y_1)^2}$, which is the original distance.",
+      "explanationQuestion": "This question requires evaluating the geometric properties of reflections in the coordinate plane.",
+      "correctAnswer": "Reflection is an isometry that preserves distances between points.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.004",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Given a circle $K$ centered at the origin $(0, 0)$ with radius $r = 10$, which of the following points lies exactly on the circle?",
+      "options": [
+        { "optionText": "$(6, 7)$", "isCorrect": false },
+        { "optionText": "$(6, 8)$", "isCorrect": true },
+        { "optionText": "$(5, 5)$", "isCorrect": false },
+        { "optionText": "$(0, 11)$", "isCorrect": false }
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 13,
+      "marks": 1,
+      "explanationAnswer": "A point $(x, y)$ lies on a circle $x^2 + y^2 = r^2$. Here $r^2 = 100$. For $(6, 8)$, $6^2 + 8^2 = 36 + 64 = 100$.",
+      "explanationQuestion": "This tests the application of the distance formula to verify points on a circle.",
+      "correctAnswer": "$(6, 8)$",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "If the vertices of a quadrilateral are $A(2, 1)$, $B(5, 1)$, $C(5, 4)$, and $D(2, 4)$, prove that it is a square using the distance formula.",
+      "subjective_evaluation_points": [
+        { "point": "Calculates lengths of all four sides $AB, BC, CD, DA$ using the distance formula and shows they are all equal to 3 units.", "marks": 2 },
+        { "point": "Calculates lengths of diagonals $AC$ and $BD$ and shows they are equal to $\\sqrt{3^2 + 3^2} = 3\\sqrt{2}$, confirming it is a square.", "marks": 2 }
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 14,
+      "marks": 4,
+      "explanationAnswer": "Side lengths: $AB = \\sqrt{(5-2)^2 + (1-1)^2} = 3$, $BC = \\sqrt{(5-5)^2 + (4-1)^2} = 3$, $CD = \\sqrt{(2-5)^2 + (4-4)^2} = 3$, $DA = \\sqrt{(2-2)^2 + (1-4)^2} = 3$. Diagonals: $AC = \\sqrt{(5-2)^2 + (4-1)^2} = \\sqrt{18} = 3\\sqrt{2}$, $BD = \\sqrt{(2-5)^2 + (4-1)^2} = \\sqrt{18} = 3\\sqrt{2}$. Since all sides are equal and diagonals are equal, it is a square.",
+      "explanationQuestion": "This question requires synthesis of coordinate geometry concepts to prove a geometric property.",
+      "correctAnswer": "The quadrilateral is a square because all sides are 3 units and diagonals are equal.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.006",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are 200m apart, if an intersection is marked as $(2, 5)$, which of the following intersection coordinates are possible if we are looking for intersections that are exactly 3 units apart in total grid distance (sum of absolute differences of coordinates)?",
+      "options": [
+        { "optionText": "$(3, 7)$" },
+        { "optionText": "$(4, 6)$" },
+        { "optionText": "$(1, 3)$" },
+        { "optionText": "$(0, 4)$" }
+      ],
+      "multi": [
+        "$(4, 6)$",
+        "$(1, 3)$",
+        "$(0, 4)$"
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The total grid distance is $|x - 2| + |y - 5| = 3$. For $(4, 6)$: $|4-2| + |6-5| = 2 + 1 = 3$. For $(1, 3)$: $|1-2| + |3-5| = 1 + 2 = 3$. For $(0, 4)$: $|0-2| + |4-5| = 2 + 1 = 3$.",
+      "explanationQuestion": "This tests the ability to apply coordinate-based distance logic in a real-world grid scenario.",
+      "correctAnswer": null,
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

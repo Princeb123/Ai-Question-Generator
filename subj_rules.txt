@@ -1,0 +1,23 @@
+Overall rules:
+sourceType is a required field
+questionType is a required field
+category is a required field and must be among valid categories
+difficulty is a required field
+questionText is a required field
+subjective_evaluation_points is a required field
+
+
+subjective
+
+
+Required fields
+-subjective_evaluation_points
+
+Example:
+
+"subjective_evaluation_points": [
+        {
+          "point": "States a clear and definite stance — either social media has more positive OR more negative effects on reading habits",
+          "marks": 1
+        }
+]

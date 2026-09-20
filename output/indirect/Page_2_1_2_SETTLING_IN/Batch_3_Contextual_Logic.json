@@ -1,0 +1,136 @@
+{
+  "topic": "Page 2: 1.2 SETTLING IN",
+  "batch": "Batch_3_Contextual_Logic",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Cartesian and Coordination",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C038",
+      "id": "A2.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Activity",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Reiaan uses a grid with pins and threads to represent his room. If he represents the room using a scale of $1 \\text{ cm} : 1 \\text{ foot}$, and the room floor is $12 \\text{ ft} \\times 10 \\text{ ft}$, what are the dimensions of the grid on the map?",
+      "options": [
+        { "optionText": "$12 \\text{ cm} \\times 10 \\text{ cm}$", "isCorrect": true },
+        { "optionText": "$120 \\text{ cm} \\times 100 \\text{ cm}$", "isCorrect": false },
+        { "optionText": "$1.2 \\text{ cm} \\times 1.0 \\text{ cm}$", "isCorrect": false },
+        { "optionText": "$144 \\text{ cm} \\times 100 \\text{ cm}$", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Given the scale $1 \\text{ cm} = 1 \\text{ foot}$, a room of $12 \\text{ ft} \\times 10 \\text{ ft}$ maps directly to $12 \\text{ cm} \\times 10 \\text{ cm}$.",
+      "explanationQuestion": "The question tests the application of scale conversion in a geometric grid layout.",
+      "correctAnswer": "$12 \\text{ cm} \\times 10 \\text{ cm}$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C039",
+      "id": "A2.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Diagram",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Refer to Fig 1.1. If Reiaan wants to place a new item at coordinates $(5, 5)$ on his grid, explain why the position of windows cannot be marked on this floor map.",
+      "subjective_evaluation_points": [
+        { "point": "Explains that the map is a 2D representation of the floor surface only.", "marks": 1 },
+        { "point": "States that windows are typically located on vertical walls, which have a height dimension not captured by a floor-only coordinate system.", "marks": 1 }
+      ],
+      "marks": 2,
+      "explanationAnswer": "The map provides a top-down view (floor plan). Windows are on the walls (vertical plane). Since the coordinates $(x, y)$ only describe the floor surface, the vertical placement of windows cannot be represented.",
+      "explanationQuestion": "This tests the understanding of limitations of 2D floor mapping.",
+      "correctAnswer": "The map is a 2D floor plan and does not account for the vertical height of walls where windows are placed.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "A2.003",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "Definition",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: Brahmagupta's formalization of negative numbers was essential for the development of the four-quadrant Cartesian plane. Reason: Without negative coordinates, we cannot represent points to the left of the y-axis or below the x-axis.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "Brahmagupta's work on zero and negative integers provided the algebraic basis for extending the number line into a plane where directions are represented by signs.",
+      "explanationQuestion": "Evaluates the historical significance of negative numbers in coordinate geometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The point $(3, 5)$ is the same as $(5, 3)$ in a Cartesian coordinate system. Reason: The coordinates are interchangeable because addition is commutative.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "In a Cartesian system, order matters. $(x, y)$ defines a unique distance from the axes. $(3, 5) \\neq (5, 3)$.",
+      "explanationQuestion": "Tests the understanding of ordered pairs in coordinate geometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.005",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "multi",
+      "sourceType": "Exercise",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "In the context of Reiaan's room (Fig 1.3), which of the following statements correctly describe the placement of objects?",
+      "options": [
+        { "optionText": "The origin $(0,0)$ is at the corner of the room." },
+        { "optionText": "Points on the y-axis represent the left wall of the room." },
+        { "optionText": "The wardrobe width is measured along the y-axis." },
+        { "optionText": "The bed position spans multiple x and y values." }
+      ],
+      "multi": [
+        "The origin $(0,0)$ is at the corner of the room.",
+        "Points on the y-axis represent the left wall of the room.",
+        "The bed position spans multiple x and y values."
+      ],
+      "marks": 1,
+      "explanationAnswer": "Based on Fig 1.3, the origin is a corner, the y-axis aligns with the left wall, and the bed is an area object. The wardrobe width is aligned with the x-axis, not the y-axis.",
+      "explanationQuestion": "Tests the ability to interpret a physical layout mapped to a coordinate grid.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.006",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "fillblanks",
+      "sourceType": "Exercise",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200 \\text{ m}$ apart, if the intersection of the $2^{nd}$ street (North-South) and $5^{th}$ street (East-West) is denoted as $(2, 5)$, then the intersection of the $4^{th}$ N-S street and $3^{rd}$ E-W street is denoted as ______.",
+      "blanks": [
+        "(4, 3)"
+      ],
+      "marks": 1,
+      "explanationAnswer": "The convention provided is (N-S street, E-W street). Thus, 4th N-S and 3rd E-W corresponds to $(4, 3)$.",
+      "explanationQuestion": "Tests the application of coordinate conventions to real-world grid systems.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

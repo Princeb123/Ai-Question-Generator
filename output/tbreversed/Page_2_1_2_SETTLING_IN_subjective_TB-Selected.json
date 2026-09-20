@@ -1,0 +1,67 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "reversalSummary": {
+    "inputCount": 1,
+    "reversedCount": 1,
+    "skippedCount": 0,
+    "coveragePercent": 100.0,
+    "targetCoveragePercent": 95.0
+  },
+  "questions": [
+    {
+      "conceptId": "C038",
+      "id": "REV-S001.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "A teacher wants to teach a visually impaired student the concept of a coordinate system. If the teacher decides to use a tactile grid with pins and threads, what specific pedagogical challenges must be addressed to ensure the student successfully maps physical spatial relationships to abstract coordinate geometry?",
+      "options": null,
+      "correctAnswer": "The teacher must ensure the student understands that pins represent discrete points (ordered pairs) and threads represent the continuous nature of axes or lines, while also ensuring the student can consistently relate the tactile distance between pins to the numerical units of the coordinate system.",
+      "explanationAnswer": "To bridge the gap between physical space and abstract geometry, the student must learn to interpret the tactile grid as a formal system. This involves mapping the physical 'feel' of a pin's location to the abstract concept of (x, y) coordinates and understanding that the threads define the reference axes, which are essential for defining any point in a plane.",
+      "explanationQuestion": "The question asks for the pedagogical requirements and challenges involved in using a tactile grid to teach coordinate geometry, reversing the focus from the 'why' of the activity to the 'how' and the conceptual requirements for success.",
+      "marks": 4,
+      "pageNumber": 2,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Defining tactile representation of coordinate points (x, y) using pins.",
+          "marks": 1
+        },
+        {
+          "point": "Establishing the relationship between threads and the continuous nature of axis lines.",
+          "marks": 1
+        },
+        {
+          "point": "Translating physical distance between pins into consistent numerical units.",
+          "marks": 1
+        },
+        {
+          "point": "Addressing spatial-to-abstract cognitive mapping challenges for the student.",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 1,
+    "passed": 1,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

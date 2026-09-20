@@ -1,0 +1,141 @@
+{
+  "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+  "batch": "Batch_1_Foundational_Core",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C031",
+      "id": "A2.001",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Reflection Question",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "What is the x-coordinate of any point lying on the y-axis in a Cartesian coordinate system?",
+      "options": [
+        { "optionText": "1", "isCorrect": false },
+        { "optionText": "0", "isCorrect": true },
+        { "optionText": "y", "isCorrect": false },
+        { "optionText": "undefined", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 7,
+      "marks": 1,
+      "explanationAnswer": "By definition, the y-axis consists of all points where the horizontal distance from the y-axis is zero. Therefore, the x-coordinate is always 0.",
+      "explanationQuestion": "This question tests the fundamental property of the Cartesian plane regarding points on the axes.",
+      "correctAnswer": "0",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.002",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "For any two distinct real numbers $x$ and $y$, the point $(x, y)$ is the same as the point $(y, x)$.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The statement is false because the order of coordinates in a pair $(x, y)$ is significant. $(x, y) = (y, x)$ only holds true if $x = y$.",
+      "explanationQuestion": "This tests the understanding of coordinate ordering.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.003",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "If a point $P(x, y)$ is located in the third quadrant, which of the following conditions must be true?",
+      "options": [
+        { "optionText": "$x > 0, y > 0$", "isCorrect": false },
+        { "optionText": "$x < 0, y > 0$", "isCorrect": false },
+        { "optionText": "$x < 0, y < 0$", "isCorrect": true },
+        { "optionText": "$x > 0, y < 0$", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "In the third quadrant, both the x-axis and y-axis values are negative, so $x < 0$ and $y < 0$.",
+      "explanationQuestion": "This tests the comprehension of quadrant sign conventions.",
+      "correctAnswer": "$x < 0, y < 0$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.004",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "When a geometric figure like a triangle is reflected across the y-axis, the lengths of its sides change.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "Reflection is an isometry, meaning it preserves distances and side lengths of the geometric figure.",
+      "explanationQuestion": "This tests the understanding of geometric properties under reflection.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C024",
+      "id": "A2.005",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given points $S(-8, 7)$ and $T(6, -3)$, calculate the midpoint $M$ of the segment $ST$. Show your steps.",
+      "subjective_evaluation_points": [
+        { "point": "Identify the midpoint formula as $(\\frac{x1 + x2}{2}, \\frac{y1 + y2}{2})$.", "marks": 1 },
+        { "point": "Substitute correct values: $(\\frac{-8 + 6}{2}, \\frac{7 - 3}{2})$.", "marks": 1 },
+        { "point": "Calculate the final result as $(-1, 2)$.", "marks": 2 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The midpoint is $(\\frac{-8+6}{2}, \\frac{7-3}{2}) = (\\frac{-2}{2}, \\frac{4}{2}) = (-1, 2)$.",
+      "explanationQuestion": "This requires applying the midpoint formula to specific coordinate points.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C022",
+      "id": "A2.006",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Using the distance formula, find the distance between point $A(3, 4)$ and point $D(7, 1)$.",
+      "subjective_evaluation_points": [
+        { "point": "State the distance formula $\\sqrt{(x2 - x1)^{2} + (y2 - y1)^{2}}$.", "marks": 1 },
+        { "point": "Substitute the values correctly: $\\sqrt{(7 - 3)^{2} + (1 - 4)^{2}}$.", "marks": 1 },
+        { "point": "Calculate correctly: $\\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16 + 9} = \\sqrt{25} = 5$.", "marks": 2 }
+      ],
+      "marks": 4,
+      "explanationAnswer": "Distance = $\\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{16+9} = 5$ units.",
+      "explanationQuestion": "This tests the application of the distance formula derived from the Baudhayana-Pythagoras Theorem.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

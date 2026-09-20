@@ -1,0 +1,139 @@
+{
+  "topic": "Page 2: 1.2 SETTLING IN",
+  "batch": "Batch_1_Foundational_Core",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Cartesian and Coordination",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C038",
+      "id": "A2.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Activity",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "In the story of Reiaan and Shalini, what method did Shalini use to help Reiaan understand the spatial directions and layout of his new room?",
+      "options": [
+        { "optionText": "Using a digital GPS mapping device", "isCorrect": false },
+        { "optionText": "Using a rectangular grid with fixed pins and threads", "isCorrect": true },
+        { "optionText": "Drawing a 3D sketch on a whiteboard", "isCorrect": false },
+        { "optionText": "Using a compass and a protractor", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 2,
+      "marks": 1,
+      "explanationAnswer": "The text states that Shalini wanted Reiaan to feel the directions, so she used a rectangular grid on which she had fixed pins and threads.",
+      "explanationQuestion": "This question tests recall of the specific activity described in the introduction of the 'Settling In' section.",
+      "correctAnswer": "Using a rectangular grid with fixed pins and threads",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "A2.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "questionText": "Brahmagupta (c. 628 CE) was the first mathematician to formalise the notion of zero and negative numbers as algebraic entities, which was essential for the development of the four-quadrant Cartesian plane.",
+      "correctAnswer": true,
+      "sourceType": "Fact",
+      "category": "Recall",
+      "difficulty": "hard",
+      "marks": 1,
+      "explanationAnswer": "The text explicitly credits Brahmagupta with formalising zero and negative numbers as algebraic entities, noting that without this, the Cartesian plane would be impossible.",
+      "explanationQuestion": "This question tests recall of historical facts regarding the development of coordinate systems.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "fillblanks",
+      "questionText": "Shalini used a scale of ______ cm : ______ foot to mark out the various key points of the room in her sketch.",
+      "blanks": [
+        "1",
+        "1"
+      ],
+      "sourceType": "Activity",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "marks": 1,
+      "explanationAnswer": "The text states that Shalini was using a scale of 1 cm : 1 foot to mark out various key points of the room.",
+      "explanationQuestion": "This question tests the comprehension of the specific measurement scale used in the activity.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C039",
+      "id": "A2.004",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Diagram",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "Why did the author suggest that the position of windows cannot be marked on the floor map of Reiaan's room?",
+      "options": [
+        { "optionText": "Because windows are located on walls, not on the floor surface.", "isCorrect": true },
+        { "optionText": "Because the room is too small to accommodate window coordinates.", "isCorrect": false },
+        { "optionText": "Because the scale used was not precise enough to include windows.", "isCorrect": false },
+        { "optionText": "Because the coordinate system only supports two-dimensional objects.", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "The map depicts the layout of the floor; since windows are structural elements on walls, they cannot be represented on a 2D floor plan.",
+      "explanationQuestion": "This question requires comprehension of the limitations of a 2D floor plan layout as presented in Figure 1.1.",
+      "correctAnswer": "Because windows are located on walls, not on the floor surface.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.005",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "If the door of Reiaan's room is $D_{1}R_{1}$ on the floor map, explain why it is important to understand the coordinate system to determine if a wheelchair can enter the room easily.",
+      "subjective_evaluation_points": [
+        { "point": "Explains that coordinates allow for precise measurement of distance between points such as $D_{1}$ and $R_{1}$ representing the door width.", "marks": 1 },
+        { "point": "States that comparing the calculated width to a standard wheelchair width determines accessibility.", "marks": 1 }
+      ],
+      "marks": 2,
+      "explanationAnswer": "By using the coordinate system, one can calculate the exact width of the door using the distance between $D_{1}$ and $R_{1}$. Knowing this value allows for a practical assessment of whether a wheelchair can pass through.",
+      "explanationQuestion": "This question tests the application of coordinate geometry to solve a real-world problem regarding accessibility.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.006",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Describe the process you would follow to verify if a piece of furniture in the room, defined by four corner coordinates, forms a perfect square on the grid.",
+      "subjective_evaluation_points": [
+        { "point": "Mentions calculating the length of all four sides using the distance formula $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.", "marks": 1 },
+        { "point": "Mentions checking if all sides are equal and if the diagonals are equal or if adjacent sides are perpendicular.", "marks": 1 }
+      ],
+      "marks": 2,
+      "explanationAnswer": "To verify if a shape is a square, one must calculate the distance between consecutive vertices to ensure all sides are equal, and confirm the geometry (e.g., perpendicularity or equal diagonals).",
+      "explanationQuestion": "This question tests the application of distance formulas and geometric properties in a coordinate plane.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

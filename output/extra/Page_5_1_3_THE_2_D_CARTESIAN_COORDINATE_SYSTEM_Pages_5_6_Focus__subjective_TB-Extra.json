@@ -1,0 +1,99 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 3,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 3,
+    "coveragePercentage": "7.5%"
+  },
+  "validationMeta": {
+    "totalInput": 2,
+    "passed": 2,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "questions": [
+    {
+      "conceptId": "C012",
+      "id": "S001.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Analysis",
+      "difficulty": "medium",
+      "questionText": "Explain the sign conventions for the coordinates $(x, y)$ in each of the four quadrants of the Cartesian plane.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://generativelanguage.googleapis.com/v1beta/files/q9g1pmb0jmx5",
+      "pageNumber": 6,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly states that Quadrant I has both x and y coordinates positive (+, +).",
+          "marks": 1
+        },
+        {
+          "point": "Correctly states that Quadrant II has a negative x-coordinate and a positive y-coordinate (-, +).",
+          "marks": 1
+        },
+        {
+          "point": "Correctly states that Quadrant III has both x and y coordinates negative (-, -).",
+          "marks": 1
+        },
+        {
+          "point": "Correctly states that Quadrant IV has a positive x-coordinate and a negative y-coordinate (+, -).",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The Cartesian plane is divided into four quadrants by the x and y axes. In Quadrant I, both x and y are positive. In Quadrant II, x is negative and y is positive. In Quadrant III, both x and y are negative. In Quadrant IV, x is positive and y is negative.",
+      "explanationQuestion": "The question asks for the classification of points based on their signs in the four quadrants as described on page 6.",
+      "correctAnswer": "Quadrant I: (+, +); Quadrant II: (-, +); Quadrant III: (-, -); Quadrant IV: (+, -).",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C009",
+      "id": "S001.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Application",
+      "difficulty": "medium",
+      "questionText": "If a point $P$ is represented as $(x, y)$, what do the values $x$ and $y$ represent in terms of perpendicular distances from the axes?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://generativelanguage.googleapis.com/v1beta/files/q9g1pmb0jmx5",
+      "pageNumber": 6,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies that x represents the perpendicular distance from the y-axis.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies that y represents the perpendicular distance from the x-axis.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "For any point $P(x, y)$, $x$ is the perpendicular distance of the point from the y-axis, and $y$ is the perpendicular distance of the point from the x-axis.",
+      "explanationQuestion": "The question tests the understanding of the definition of coordinates as distances from the axes, as explained on page 6.",
+      "correctAnswer": "x is the perpendicular distance from the y-axis, and y is the perpendicular distance from the x-axis.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ]
+}

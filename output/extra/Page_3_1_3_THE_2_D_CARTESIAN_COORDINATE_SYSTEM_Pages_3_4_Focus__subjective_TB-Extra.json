@@ -1,0 +1,91 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 3,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 3,
+    "coveragePercentage": "7.5%"
+  },
+  "validationMeta": {
+    "totalInput": 2,
+    "passed": 2,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "questions": [
+    {
+      "conceptId": "C005",
+      "id": "S001.001",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Comprehension",
+      "difficulty": "easy",
+      "questionText": "Define the Cartesian plane and explain the role of the two perpendicular axes in forming this system.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 3,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Defines the Cartesian plane as a 2-D coordinate system.",
+          "marks": 1
+        },
+        {
+          "point": "Explains that it uses two perpendicular lines (axes) to mark points in 2-D space.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The Cartesian plane is a two-dimensional coordinate system defined by two perpendicular lines, known as the x-axis (horizontal) and the y-axis (vertical). These axes intersect at a point called the origin, providing a structured framework to describe the exact location of any point in a 2-D space using numerical coordinates.",
+      "explanationQuestion": "This question tests the student's understanding of the fundamental definition of the 2-D Cartesian coordinate system as presented on page 3.",
+      "correctAnswer": "The Cartesian plane is a 2-D system using two perpendicular axes (x-axis and y-axis) to define locations.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C009",
+      "id": "S001.002",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Extra",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "Given a point $P(x, y)$, explain what the values $x$ and $y$ represent in terms of distances from the axes.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 4,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "States that x represents the perpendicular distance from the y-axis.",
+          "marks": 1
+        },
+        {
+          "point": "States that y represents the perpendicular distance from the x-axis.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "For a point $P(x, y)$, the value $x$ (the x-coordinate) represents the perpendicular distance of the point from the y-axis, and the value $y$ (the y-coordinate) represents the perpendicular distance of the point from the x-axis.",
+      "explanationQuestion": "This question requires interpreting the meaning of coordinates as defined on page 4.",
+      "correctAnswer": "x is the distance from the y-axis, and y is the distance from the x-axis.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ]
+}

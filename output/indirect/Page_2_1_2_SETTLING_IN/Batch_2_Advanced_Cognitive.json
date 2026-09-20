@@ -1,0 +1,139 @@
+{
+  "topic": "Page 2: 1.2 SETTLING IN",
+  "batch": "Batch_2_Advanced_Cognitive",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Cartesian and Coordinate Geometry",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C038",
+      "id": "A2.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Activity",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "In the activity of setting up a room layout using a grid with pins and threads, if Shalini uses a scale of $1 \\text{ cm} : 1 \\text{ foot}$, and the room's length is marked as $12 \\text{ cm}$ on the grid, what is the actual length of the room in feet, and what does this represent in terms of 'grid-based thinking' for navigation?",
+      "options": [
+        { "optionText": "12 feet; it demonstrates how physical space can be abstractly represented as a coordinate grid.", "isCorrect": true },
+        { "optionText": "120 feet; it shows the inaccuracy of using grids for small spaces.", "isCorrect": false },
+        { "optionText": "1.2 feet; it represents the mathematical complexity of mapping.", "isCorrect": false },
+        { "optionText": "12 feet; it proves that coordinates are only useful for large-scale maps.", "isCorrect": false }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Using the scale $1 \\text{ cm} : 1 \\text{ foot}$, $12 \\text{ cm}$ corresponds to $12 \\text{ feet}$. This activity illustrates the foundational concept of mapping physical locations onto a structured grid system.",
+      "explanationQuestion": "The question asks to interpret scale and the purpose of coordinate grids in a practical setting.",
+      "correctAnswer": "12 feet; it demonstrates how physical space can be abstractly represented as a coordinate grid.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Activity",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "When Shalini uses pins to mark points on the floor grid of Reiaan's room, what is the primary geometric purpose of connecting these points with thick wool?",
+      "options": [
+        { "optionText": "To decorate the floor grid for aesthetic purposes.", "isCorrect": false },
+        { "optionText": "To create physical line segments representing boundaries, allowing tactile navigation.", "isCorrect": true },
+        { "optionText": "To calculate the area of the room using the total length of the wool.", "isCorrect": false },
+        { "optionText": "To mark the intersection of the x and y axes only.", "isCorrect": false }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Connecting points with wool creates tangible boundaries (line segments) that help a visually impaired person feel the spatial layout of the room, effectively mapping the coordinate points into a navigable physical structure.",
+      "explanationQuestion": "The question tests understanding of the practical application of coordinate geometry in the provided narrative.",
+      "correctAnswer": "To create physical line segments representing boundaries, allowing tactile navigation.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C001",
+      "id": "A2.003",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Definition",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Evaluate why the transition from using landmarks to using a 'coordinate system' is considered a significant advancement in human spatial cognition, referencing the historical context of the Sindhu-Sarasvati Civilisation.",
+      "subjective_evaluation_points": [
+        { "point": "Explains that coordinate systems provide a universal, structured framework independent of subjective landmarks.", "marks": 1 },
+        { "point": "Connects this to the Sindhu-Sarasvati Civilisation's precision in urban planning, where grid-based streets allowed for standardized navigation.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 2,
+      "explanationAnswer": "The advancement lies in moving from relative, landmark-based navigation to absolute, grid-based positioning. This was essential for the Sindhu-Sarasvati Civilisation, where precise urban layout at 10-meter intervals required a structured coordinate system for consistent construction and city management.",
+      "explanationQuestion": "The question requires synthesizing historical context with the definition of coordinate systems.",
+      "correctAnswer": "Coordinate systems allow for objective, reproducible location descriptions, as demonstrated by the grid-based city planning of the Sindhu-Sarasvati Civilisation.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "A2.004",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Definition",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Critically analyze the contribution of Brahmagupta to coordinate geometry. Why is his formalization of 'zero' and 'negative numbers' considered an indispensable foundation for the four-quadrant Cartesian plane?",
+      "subjective_evaluation_points": [
+        { "point": "Identifies that the Cartesian plane requires an origin (zero) to establish a reference point.", "marks": 1 },
+        { "point": "Explains that negative numbers are essential to define directions opposite to the positive axes, enabling the existence of the four quadrants.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 2,
+      "explanationAnswer": "Brahmagupta's work provided the mathematical entities (zero and negative integers) that allow the Cartesian plane to extend beyond simple positive measurements. Without these, we could not distinguish between directions (left/right, up/down) relative to an origin.",
+      "explanationQuestion": "This question requires evaluating the mathematical necessity of specific concepts for the existence of the coordinate system.",
+      "correctAnswer": "Brahmagupta's formalization of zero as an origin and negative numbers as directional opposites allowed for the creation of a coordinate system that spans all four quadrants.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.005",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "Activity",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "If Reiaan were to move his bed to a position where its corners are no longer aligned with the grid lines used by Shalini, the coordinate system would immediately become invalid for describing the room's layout.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "False. A coordinate system is a structured framework that can describe any point in space, regardless of whether the objects are aligned with the grid lines. The coordinates would simply be non-integer values or fractions, but the system remains valid.",
+      "explanationQuestion": "The question tests the conceptual understanding that coordinate systems are continuous and not limited to grid-aligned points.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.006",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "Activity",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "The use of a rectangular grid by Shalini effectively transforms the 3D space of the room into a 2D map, which is sufficient for locating objects on the floor but inherently incapable of representing the height of objects.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "True. The provided sketch (Fig 1.1) is a 2D map of the floor. It captures horizontal positions (x and y coordinates) but does not contain a z-axis to represent the height of objects, making it insufficient for 3D spatial representation.",
+      "explanationQuestion": "The question tests the ability to recognize the limitations of a 2D coordinate system when applied to 3D reality.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 3,
+    "coveragePercentage": "7.5%"
+  }
+}

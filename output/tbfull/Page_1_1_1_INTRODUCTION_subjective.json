@@ -1,0 +1,132 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 3,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 3,
+    "coveragePercentage": "7.5%"
+  },
+  "questions": [
+    {
+      "conceptId": "C001",
+      "id": "S001.001",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Comprehension",
+      "difficulty": "easy",
+      "questionText": "Define a coordinate system and explain its primary purpose in representing physical locations.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Defines coordinate system as a structured framework.",
+          "marks": 1
+        },
+        {
+          "point": "Explains its purpose as using numbers to describe exact physical locations or points.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "A coordinate system is a structured framework (like grid lines on a map or graph paper) that enables us to use numbers to describe the exact physical locations of points or objects.",
+      "explanationQuestion": "This question tests the student's understanding of the basic definition provided in the introduction of the chapter.",
+      "correctAnswer": "A coordinate system is a structured framework that uses numbers to describe the exact physical locations of points or objects.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "S001.002",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "Describe the historical significance of the Sindhu-Sarasvati Civilisation regarding the concept of 'grid-based thinking'.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Mentions the Sindhu-Sarasvati Civilisation.",
+          "marks": 1
+        },
+        {
+          "point": "Notes the construction of city streets with precision in North-South and East-West directions at uniform distances.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The Sindhu-Sarasvati Civilisation represents one of the earliest systematic uses of grids. City streets were constructed with striking precision in North-South and East-West directions at uniform distances of about 10 metres apart, functioning as a coordinate system in practice.",
+      "explanationQuestion": "This question assesses the student's knowledge of the historical context of coordinate geometry as introduced in the text.",
+      "correctAnswer": "The Sindhu-Sarasvati Civilisation used grid-based thinking to construct city streets with precision in North-South and East-West directions at uniform distances.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "S001.003",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "subjective",
+      "sourceType": "TB-Full",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "How did the work of Brahmagupta contribute to the development of the modern Cartesian plane?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies Brahmagupta's formalisation of zero.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies the formalisation of negative numbers as algebraic entities.",
+          "marks": 1
+        },
+        {
+          "point": "Explains that these concepts are essential for defining the origin and negative axes.",
+          "marks": 1
+        },
+        {
+          "point": "Concludes that without these, the four-quadrant Cartesian plane would be impossible.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "Brahmagupta (c. 628 CE) formalised the notion of zero and negative numbers as algebraic entities. In modern coordinate systems, the 'origin' is zero and the 'negative axes' represent values less than zero. Therefore, his work laid the necessary foundation for the four-quadrant Cartesian plane.",
+      "explanationQuestion": "This question requires the student to synthesize historical information to explain the mathematical necessity of specific concepts in coordinate geometry.",
+      "correctAnswer": "Brahmagupta formalised zero and negative numbers, which allowed for the creation of the origin and negative axes, making the four-quadrant Cartesian plane possible.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 3,
+    "passed": 3,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

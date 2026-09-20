@@ -1,0 +1,4347 @@
+{
+  "subject": "Artificial Intelligence",
+  "grade": 10,
+  "chapterName": "Cartisan and Coordination ",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C004",
+      "id": "A2.001",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "Which ancient mathematician is credited with formalising the notion of zero and negative numbers as algebraic entities, which is fundamental to the four-quadrant Cartesian system?",
+      "options": [
+        {
+          "optionText": "Hipparchus",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Brahmagupta",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Ptolemy",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Aryabhata",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "Brahmagupta (c. 628 CE) formalised the notion of zero and negative numbers, allowing for the representation of values less than zero on coordinate axes.",
+      "explanationQuestion": "The question asks for the historical figure associated with the algebraic formalisation of zero and negative numbers.",
+      "correctAnswer": "Brahmagupta",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "A2.002",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "The Sindhu-Sarasvati Civilisation is the earliest known historical instance of systematic grid-based urban planning using uniform distances for city streets.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "The text explicitly states that the first systematic use of grids occurred thousands of years ago in the Sindhu-Sarasvati Civilisation.",
+      "explanationQuestion": "The question tests knowledge of the historical origins of grid-based planning mentioned in the introduction.",
+      "correctAnswer": true,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.003",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "In a standard Cartesian plane, a point located in the third quadrant (Quadrant III) must satisfy which of the following sign conventions for its coordinates $(x, y)$?",
+      "options": [
+        {
+          "optionText": "$x > 0, y > 0$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$x < 0, y > 0$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$x < 0, y < 0$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$x > 0, y < 0$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "Quadrant III is defined by negative values on both the x-axis (to the left of origin) and the y-axis (below the origin).",
+      "explanationQuestion": "The question tests comprehension of quadrant sign conventions in the 2-D coordinate system.",
+      "correctAnswer": "$x < 0, y < 0$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "If $x \\neq y$, the coordinate pair $(x, y)$ is identical to the coordinate pair $(y, x)$ on a Cartesian plane.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 7,
+      "marks": 1,
+      "explanationAnswer": "The order of coordinates is significant; $(x, y)$ represents a unique point where $x$ is the horizontal distance and $y$ is the vertical distance. If $x \\neq y$, swapping them results in a different location.",
+      "explanationQuestion": "The question tests the comprehension of coordinate ordering.",
+      "correctAnswer": false,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.005",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Calculate the distance between point $A(3, 4)$ and $D(7, 1)$ using the Baudhayana-Pythagoras Theorem. Show your steps.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 9,
+      "marks": 4,
+      "explanationAnswer": "Step 1: Find the change in x-coordinates: $7 - 3 = 4$. Step 2: Find the change in y-coordinates: $4 - 1 = 3$. Step 3: Apply the theorem: $d = \\sqrt{4^{2} + 3^{2}}$. Step 4: Calculate: $\\sqrt{16 + 9} = \\sqrt{25} = 5$ units.",
+      "explanationQuestion": "The question requires applying the distance formula derived from the Baudhayana-Pythagoras Theorem.",
+      "correctAnswer": "5 units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies the difference in x-coordinates correctly (4).",
+          "marks": 1
+        },
+        {
+          "point": "Identifies the difference in y-coordinates correctly (3).",
+          "marks": 1
+        },
+        {
+          "point": "Correctly substitutes values into the distance formula $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.",
+          "marks": 1
+        },
+        {
+          "point": "Provides the final correct result of 5 units.",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "C020",
+      "id": "A2.006",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "If a rectangle has three vertices at $(8, 9)$, $(11, 9)$, and $(11, 7)$, determine the coordinates of the fourth vertex and justify your reasoning.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 8,
+      "marks": 2,
+      "explanationAnswer": "The rectangle sides are parallel to the axes. The vertex must share the x-coordinate of the first point (8) and the y-coordinate of the third point (7). Thus, the fourth vertex is $(8, 7)$.",
+      "explanationQuestion": "The question requires applying coordinate geometry properties to find a missing vertex of a rectangle.",
+      "correctAnswer": "(8, 7)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies that the sides must be parallel to the x and y axes.",
+          "marks": 1
+        },
+        {
+          "point": "Correctly deduces the fourth vertex as (8, 7) based on geometric properties.",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "C004",
+      "id": "A2.001",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Which mathematician is credited with formalising the notion of zero and negative numbers as algebraic entities, which is essential for the structure of the four-quadrant Cartesian plane?",
+      "options": [
+        {
+          "optionText": "Hipparchus",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Ptolemy",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Brahmagupta",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Aryabhata",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "Brahmagupta (c. 628 CE) formalised the use of zero and negative numbers, providing the algebraic foundation required for the coordinate system.",
+      "explanationQuestion": "The question asks for the historical figure who contributed the algebraic entities necessary for the modern Cartesian coordinate system.",
+      "correctAnswer": "Brahmagupta",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "A2.002",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "The earliest systematic use of grid-based city planning, which mirrors the concept of a coordinate system, is found in the Sindhu-Sarasvati Civilisation.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "The text explicitly states that the first systematic use of grids occurred thousands of years ago in the Sindhu-Sarasvati Civilisation for city street layouts.",
+      "explanationQuestion": "The question tests the understanding of the historical origins of grid-based thinking mentioned in the introduction.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.003",
+      "topic": "Page 6: Quadrants",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "If a point $P$ has a negative $x$-coordinate and a positive $y$-coordinate, in which quadrant must it lie?",
+      "options": [
+        {
+          "optionText": "Quadrant I",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Quadrant III",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant IV",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "By convention, Quadrant II is where $x < 0$ and $y > 0$.",
+      "explanationQuestion": "The question requires evaluating coordinate signs to identify the quadrant location.",
+      "correctAnswer": "Quadrant II",
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.004",
+      "topic": "Page 7: Reflection Questions",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "The point $(x, y)$ always coincides with the point $(y, x)$ regardless of the values of $x$ and $y$.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The point $(x, y)$ coincides with $(y, x)$ if and only if $x = y$. If $x \neq y$, then $(x, y) \neq (y, x)$.",
+      "explanationQuestion": "This tests the understanding of coordinate order and symmetry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 14: Exercises",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "Given points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$ on the Cartesian plane. Prove whether $ABCD$ is a square by calculating the lengths of its sides and diagonals.",
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculate the distance between consecutive points $AB, BC, CD, DA$ using the distance formula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.",
+          "marks": 2
+        },
+        {
+          "point": "Show that all four sides are equal in length ($\\sqrt{10}$ units).",
+          "marks": 1
+        },
+        {
+          "point": "Calculate lengths of diagonals $AC$ and $BD$ and show they are equal ($\\sqrt{20}$ units), confirming it is a square.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The sides are all $\\sqrt{10}$ and diagonals are $\\sqrt{20}$, satisfying the condition for a square.",
+      "explanationQuestion": "This requires applying the distance formula to verify geometric properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.006",
+      "topic": "Page 14: Exercises",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200\\text{ m}$ apart, if the city centre is $(0, 0)$, find the number of street intersections that can be described by the coordinate $(4, 3)$. Explain your reasoning.",
+      "marks": 2,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify that the coordinate $(4, 3)$ refers to a unique intersection point formed by the 4th street in the North-South direction and 3rd street in the East-West direction.",
+          "marks": 1
+        },
+        {
+          "point": "Conclude that there is only one such intersection.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "There is exactly one intersection at $(4, 3)$ because coordinates represent a unique location in a Cartesian system.",
+      "explanationQuestion": "This tests the application of coordinate systems to real-world grid layouts.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "In the story of Reiaan and Shalini, what method did Shalini use to help Reiaan understand the spatial directions and layout of his new room?",
+      "options": [
+        {
+          "optionText": "Using a digital GPS mapping device",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Using a rectangular grid with fixed pins and threads",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Drawing a 3D sketch on a whiteboard",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Using a compass and a protractor",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 2,
+      "marks": 1,
+      "explanationAnswer": "The text states that Shalini wanted Reiaan to feel the directions, so she used a rectangular grid on which she had fixed pins and threads.",
+      "explanationQuestion": "This question tests recall of the specific activity described in the introduction of the 'Settling In' section.",
+      "correctAnswer": "Using a rectangular grid with fixed pins and threads",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "A2.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "questionText": "Brahmagupta (c. 628 CE) was the first mathematician to formalise the notion of zero and negative numbers as algebraic entities, which was essential for the development of the four-quadrant Cartesian plane.",
+      "correctAnswer": true,
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "marks": 1,
+      "explanationAnswer": "The text explicitly credits Brahmagupta with formalising zero and negative numbers as algebraic entities, noting that without this, the Cartesian plane would be impossible.",
+      "explanationQuestion": "This question tests recall of historical facts regarding the development of coordinate systems.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "fillblanks",
+      "questionText": "Shalini used a scale of ______ cm : ______ foot to mark out the various key points of the room in her sketch.",
+      "blanks": [
+        "1",
+        "1"
+      ],
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "marks": 1,
+      "explanationAnswer": "The text states that Shalini was using a scale of 1 cm : 1 foot to mark out various key points of the room.",
+      "explanationQuestion": "This question tests the comprehension of the specific measurement scale used in the activity.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C039",
+      "id": "A2.004",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "Why did the author suggest that the position of windows cannot be marked on the floor map of Reiaan's room?",
+      "options": [
+        {
+          "optionText": "Because windows are located on walls, not on the floor surface.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Because the room is too small to accommodate window coordinates.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Because the scale used was not precise enough to include windows.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Because the coordinate system only supports two-dimensional objects.",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "The map depicts the layout of the floor; since windows are structural elements on walls, they cannot be represented on a 2D floor plan.",
+      "explanationQuestion": "This question requires comprehension of the limitations of a 2D floor plan layout as presented in Figure 1.1.",
+      "correctAnswer": "Because windows are located on walls, not on the floor surface.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.005",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "If the door of Reiaan's room is $D_{1}R_{1}$ on the floor map, explain why it is important to understand the coordinate system to determine if a wheelchair can enter the room easily.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Explains that coordinates allow for precise measurement of distance between points such as $D_{1}$ and $R_{1}$ representing the door width.",
+          "marks": 1
+        },
+        {
+          "point": "States that comparing the calculated width to a standard wheelchair width determines accessibility.",
+          "marks": 1
+        }
+      ],
+      "marks": 2,
+      "explanationAnswer": "By using the coordinate system, one can calculate the exact width of the door using the distance between $D_{1}$ and $R_{1}$. Knowing this value allows for a practical assessment of whether a wheelchair can pass through.",
+      "explanationQuestion": "This question tests the application of coordinate geometry to solve a real-world problem regarding accessibility.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.006",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Describe the process you would follow to verify if a piece of furniture in the room, defined by four corner coordinates, forms a perfect square on the grid.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Mentions calculating the length of all four sides using the distance formula $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.",
+          "marks": 1
+        },
+        {
+          "point": "Mentions checking if all sides are equal and if the diagonals are equal or if adjacent sides are perpendicular.",
+          "marks": 1
+        }
+      ],
+      "marks": 2,
+      "explanationAnswer": "To verify if a shape is a square, one must calculate the distance between consecutive vertices to ensure all sides are equal, and confirm the geometry (e.g., perpendicularity or equal diagonals).",
+      "explanationQuestion": "This question tests the application of distance formulas and geometric properties in a coordinate plane.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "In the activity of setting up a room layout using a grid with pins and threads, if Shalini uses a scale of $1 \\text{ cm} : 1 \\text{ foot}$, and the room's length is marked as $12 \\text{ cm}$ on the grid, what is the actual length of the room in feet, and what does this represent in terms of 'grid-based thinking' for navigation?",
+      "options": [
+        {
+          "optionText": "12 feet; it demonstrates how physical space can be abstractly represented as a coordinate grid.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "120 feet; it shows the inaccuracy of using grids for small spaces.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "1.2 feet; it represents the mathematical complexity of mapping.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "12 feet; it proves that coordinates are only useful for large-scale maps.",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Using the scale $1 \\text{ cm} : 1 \\text{ foot}$, $12 \\text{ cm}$ corresponds to $12 \\text{ feet}$. This activity illustrates the foundational concept of mapping physical locations onto a structured grid system.",
+      "explanationQuestion": "The question asks to interpret scale and the purpose of coordinate grids in a practical setting.",
+      "correctAnswer": "12 feet; it demonstrates how physical space can be abstractly represented as a coordinate grid.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "When Shalini uses pins to mark points on the floor grid of Reiaan's room, what is the primary geometric purpose of connecting these points with thick wool?",
+      "options": [
+        {
+          "optionText": "To decorate the floor grid for aesthetic purposes.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "To create physical line segments representing boundaries, allowing tactile navigation.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "To calculate the area of the room using the total length of the wool.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "To mark the intersection of the x and y axes only.",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Connecting points with wool creates tangible boundaries (line segments) that help a visually impaired person feel the spatial layout of the room, effectively mapping the coordinate points into a navigable physical structure.",
+      "explanationQuestion": "The question tests understanding of the practical application of coordinate geometry in the provided narrative.",
+      "correctAnswer": "To create physical line segments representing boundaries, allowing tactile navigation.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C001",
+      "id": "A2.003",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Evaluate why the transition from using landmarks to using a 'coordinate system' is considered a significant advancement in human spatial cognition, referencing the historical context of the Sindhu-Sarasvati Civilisation.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Explains that coordinate systems provide a universal, structured framework independent of subjective landmarks.",
+          "marks": 1
+        },
+        {
+          "point": "Connects this to the Sindhu-Sarasvati Civilisation's precision in urban planning, where grid-based streets allowed for standardized navigation.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 2,
+      "explanationAnswer": "The advancement lies in moving from relative, landmark-based navigation to absolute, grid-based positioning. This was essential for the Sindhu-Sarasvati Civilisation, where precise urban layout at 10-meter intervals required a structured coordinate system for consistent construction and city management.",
+      "explanationQuestion": "The question requires synthesizing historical context with the definition of coordinate systems.",
+      "correctAnswer": "Coordinate systems allow for objective, reproducible location descriptions, as demonstrated by the grid-based city planning of the Sindhu-Sarasvati Civilisation.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "A2.004",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Critically analyze the contribution of Brahmagupta to coordinate geometry. Why is his formalization of 'zero' and 'negative numbers' considered an indispensable foundation for the four-quadrant Cartesian plane?",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies that the Cartesian plane requires an origin (zero) to establish a reference point.",
+          "marks": 1
+        },
+        {
+          "point": "Explains that negative numbers are essential to define directions opposite to the positive axes, enabling the existence of the four quadrants.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 1,
+      "marks": 2,
+      "explanationAnswer": "Brahmagupta's work provided the mathematical entities (zero and negative integers) that allow the Cartesian plane to extend beyond simple positive measurements. Without these, we could not distinguish between directions (left/right, up/down) relative to an origin.",
+      "explanationQuestion": "This question requires evaluating the mathematical necessity of specific concepts for the existence of the coordinate system.",
+      "correctAnswer": "Brahmagupta's formalization of zero as an origin and negative numbers as directional opposites allowed for the creation of a coordinate system that spans all four quadrants.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.005",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "If Reiaan were to move his bed to a position where its corners are no longer aligned with the grid lines used by Shalini, the coordinate system would immediately become invalid for describing the room's layout.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "False. A coordinate system is a structured framework that can describe any point in space, regardless of whether the objects are aligned with the grid lines. The coordinates would simply be non-integer values or fractions, but the system remains valid.",
+      "explanationQuestion": "The question tests the conceptual understanding that coordinate systems are continuous and not limited to grid-aligned points.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.006",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "The use of a rectangular grid by Shalini effectively transforms the 3D space of the room into a 2D map, which is sufficient for locating objects on the floor but inherently incapable of representing the height of objects.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "True. The provided sketch (Fig 1.1) is a 2D map of the floor. It captures horizontal positions (x and y coordinates) but does not contain a z-axis to represent the height of objects, making it insufficient for 3D spatial representation.",
+      "explanationQuestion": "The question tests the ability to recognize the limitations of a 2D coordinate system when applied to 3D reality.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Reiaan uses a grid with pins and threads to represent his room. If he represents the room using a scale of $1 \\text{ cm} : 1 \\text{ foot}$, and the room floor is $12 \\text{ ft} \\times 10 \\text{ ft}$, what are the dimensions of the grid on the map?",
+      "options": [
+        {
+          "optionText": "$12 \\text{ cm} \\times 10 \\text{ cm}$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$120 \\text{ cm} \\times 100 \\text{ cm}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$1.2 \\text{ cm} \\times 1.0 \\text{ cm}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$144 \\text{ cm} \\times 100 \\text{ cm}$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Given the scale $1 \\text{ cm} = 1 \\text{ foot}$, a room of $12 \\text{ ft} \\times 10 \\text{ ft}$ maps directly to $12 \\text{ cm} \\times 10 \\text{ cm}$.",
+      "explanationQuestion": "The question tests the application of scale conversion in a geometric grid layout.",
+      "correctAnswer": "$12 \\text{ cm} \\times 10 \\text{ cm}$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C039",
+      "id": "A2.002",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Refer to Fig 1.1. If Reiaan wants to place a new item at coordinates $(5, 5)$ on his grid, explain why the position of windows cannot be marked on this floor map.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Explains that the map is a 2D representation of the floor surface only.",
+          "marks": 1
+        },
+        {
+          "point": "States that windows are typically located on vertical walls, which have a height dimension not captured by a floor-only coordinate system.",
+          "marks": 1
+        }
+      ],
+      "marks": 2,
+      "explanationAnswer": "The map provides a top-down view (floor plan). Windows are on the walls (vertical plane). Since the coordinates $(x, y)$ only describe the floor surface, the vertical placement of windows cannot be represented.",
+      "explanationQuestion": "This tests the understanding of limitations of 2D floor mapping.",
+      "correctAnswer": "The map is a 2D floor plan and does not account for the vertical height of walls where windows are placed.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "A2.003",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: Brahmagupta's formalization of negative numbers was essential for the development of the four-quadrant Cartesian plane. Reason: Without negative coordinates, we cannot represent points to the left of the y-axis or below the x-axis.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "Brahmagupta's work on zero and negative integers provided the algebraic basis for extending the number line into a plane where directions are represented by signs.",
+      "explanationQuestion": "Evaluates the historical significance of negative numbers in coordinate geometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The point $(3, 5)$ is the same as $(5, 3)$ in a Cartesian coordinate system. Reason: The coordinates are interchangeable because addition is commutative.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "In a Cartesian system, order matters. $(x, y)$ defines a unique distance from the axes. $(3, 5) \\neq (5, 3)$.",
+      "explanationQuestion": "Tests the understanding of ordered pairs in coordinate geometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.005",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "In the context of Reiaan's room (Fig 1.3), which of the following statements correctly describe the placement of objects?",
+      "options": [
+        {
+          "optionText": "The origin $(0,0)$ is at the corner of the room."
+        },
+        {
+          "optionText": "Points on the y-axis represent the left wall of the room."
+        },
+        {
+          "optionText": "The wardrobe width is measured along the y-axis."
+        },
+        {
+          "optionText": "The bed position spans multiple x and y values."
+        }
+      ],
+      "multi": [
+        "The origin $(0,0)$ is at the corner of the room.",
+        "Points on the y-axis represent the left wall of the room.",
+        "The bed position spans multiple x and y values."
+      ],
+      "marks": 1,
+      "explanationAnswer": "Based on Fig 1.3, the origin is a corner, the y-axis aligns with the left wall, and the bed is an area object. The wardrobe width is aligned with the x-axis, not the y-axis.",
+      "explanationQuestion": "Tests the ability to interpret a physical layout mapped to a coordinate grid.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.006",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200 \\text{ m}$ apart, if the intersection of the $2^{nd}$ street (North-South) and $5^{th}$ street (East-West) is denoted as $(2, 5)$, then the intersection of the $4^{th}$ N-S street and $3^{rd}$ E-W street is denoted as ______.",
+      "blanks": [
+        "(4, 3)"
+      ],
+      "marks": 1,
+      "explanationAnswer": "The convention provided is (N-S street, E-W street). Thus, 4th N-S and 3rd E-W corresponds to $(4, 3)$.",
+      "explanationQuestion": "Tests the application of coordinate conventions to real-world grid systems.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "A2.001",
+      "topic": "Introduction to Coordinates",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "In the historical development of coordinate systems described in the text, how did Brahmagupta's formalization of zero and negative numbers in the 7th century CE directly enable the modern four-quadrant Cartesian plane later formalized by René Descartes?",
+      "options": [
+        {
+          "optionText": "It allowed the 'origin' to be defined as a physical starting point on Earth, such as the Ujjayinī meridian, using positive integer steps.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "It established zero as the 'origin' and negative numbers as representing 'negative axes' (values less than zero), without which representing positions to the left of or below the origin would be algebraically impossible.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "It replaced the Greek 'chords' with 'sines', making it easier to calculate astronomical coordinates using decimal fractions.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "It introduced the 'astrolabe', which allowed sailors to determine their latitude by observing the stars relative to a zero-longitude reference.",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 2,
+      "marks": 1,
+      "explanationAnswer": "Brahmagupta (c. 628 CE) formalized zero and negative numbers as algebraic entities. In modern coordinate systems, the 'origin' is zero and 'negative axes' represent values less than zero. Without this, representing coordinates in the second, third, and fourth quadrants (which require negative values) would be mathematically impossible.",
+      "explanationQuestion": "The question asks for the direct connection between Brahmagupta's algebraic work on zero/negative numbers and the structure of the four-quadrant Cartesian plane.",
+      "correctAnswer": "It established zero as the 'origin' and negative numbers as representing 'negative axes' (values less than zero), without which representing positions to the left of or below the origin would be algebraically impossible.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.002",
+      "topic": "Introduction to Coordinates",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Based on the section '1.2 SETTLING IN', Shalini designs a tactile map for her visually impaired brother, Reiaan, using a scale of $1\\text{ cm} : 1\\text{ foot}$ with pins and thick wool. Explain how this physical representation functions as a coordinate system. If Shalini wants to represent a wardrobe of dimensions $4\\text{ ft} \\times 2\\text{ ft}$ placed at a distance of $3\\text{ ft}$ from the left wall (y-axis) and resting on the floor (x-axis), what would be the coordinates of its four corners on her grid, and what physical length of wool (in cm) would she need to outline this wardrobe?",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 2,
+      "marks": 4,
+      "explanationAnswer": "The left wall acts as the y-axis ($x = 0$) and the bottom wall/floor boundary acts as the x-axis ($y = 0$), with the intersection as the origin $(0,0)$. The wardrobe is $4\\text{ ft}$ wide and $2\\text{ ft}$ deep, starting $3\\text{ ft}$ from the left wall. Its bottom-left corner is at $(3, 0)$, bottom-right at $(3+4, 0) = (7, 0)$, top-left at $(3, 2)$, and top-right at $(7, 2)$. The perimeter of the wardrobe is $2 \\times (4 + 2) = 12\\text{ ft}$. Since $1\\text{ ft} = 1\\text{ cm}$ on the scale, she needs $12\\text{ cm}$ of wool.",
+      "explanationQuestion": "This question requires analyzing the tactile map scenario to establish axes, determine coordinates of a rectangular shape under specific placement constraints, and apply the map's scale to find physical dimensions.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "subjective_evaluation_points": [
+        {
+          "point": "Explains that the left wall acts as the y-axis ($x = 0$) and the bottom wall/floor boundary acts as the x-axis ($y = 0$), with the intersection as the origin $(0,0)$.",
+          "marks": 1
+        },
+        {
+          "point": "Determines the coordinates of the four corners of the wardrobe as $(3, 0)$, $(7, 0)$, $(3, 2)$, and $(7, 2)$.",
+          "marks": 2
+        },
+        {
+          "point": "Calculates the perimeter of the wardrobe as $12\\text{ ft}$ and uses the scale $1\\text{ cm} : 1\\text{ foot}$ to find that $12\\text{ cm}$ of wool is required.",
+          "marks": 1
+        }
+      ],
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.003",
+      "topic": "The 2-D Cartesian Coordinate System",
+      "questionType": "matchfollowing",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "Refer to Fig. 1.3 showing Reiaan's room layout where $O(0,0)$ is the origin, the x-axis represents the distance along the bottom wall, and the y-axis represents the distance along the left wall. Match the physical features of the room with their correct mathematical coordinate representations or dimensions based on the grid.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "Based on Fig 1.3:\n- The bottom-right corner of the wardrobe ($W_{2}$) lies on the x-axis at $x = 7$, so its coordinates are $(7, 0)$.\n- The upper end of the bathroom door ($B_{2}$) lies on the y-axis at $y = 4$, so its coordinates are $(0, 4)$.\n- The entrance door width $D_{1}R_{1}$ spans from $x = 8$ to $x = 11.5$, giving a width of $11.5 - 8 = 3.5\\text{ units}$.\n- The bottom-left corner of the bed ($S_{1}$) lies on the y-axis at $y = 5$, so its coordinates are $(0, 5)$.",
+      "explanationQuestion": "The question asks to map physical elements from the room layout diagram (Fig 1.3) to their corresponding mathematical coordinates and lengths using the grid lines.",
+      "correctAnswer": null,
+      "leftItems": [
+        "Coordinates of the bottom-right corner of the wardrobe ($W_{2}$)",
+        "Coordinates of the upper end of the bathroom door ($B_{2}$)",
+        "Width of the entrance door ($D_{1}R_{1}$)",
+        "Coordinates of the bottom-left corner of the bed ($S_{1}$)"
+      ],
+      "rightItems": [
+        "$3.5\\text{ units}$",
+        "$(0, 5)$",
+        "$(7, 0)$",
+        "$(0, 4)$"
+      ],
+      "correctMappings": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 2
+        },
+        {
+          "leftIndex": 1,
+          "rightIndex": 3
+        },
+        {
+          "leftIndex": 2,
+          "rightIndex": 0
+        },
+        {
+          "leftIndex": 3,
+          "rightIndex": 1
+        }
+      ],
+      "set": "A"
+    },
+    {
+      "conceptId": "C020",
+      "id": "A2.004",
+      "topic": "Exercises",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "Suppose Shalini wants to place a study table in Reiaan's room (Fig 1.5). The table is rectangular, and three of its feet are experimentally planned to be placed at the coordinates $P(8, 9)$, $Q(11, 9)$, and $R(11, 7)$ on the room's grid.\n\n(a) Determine the coordinates of the fourth foot, $S$, of the table to ensure it remains rectangular.\n(b) Calculate the length, width, and area (in square units) of the tabletop.\n(c) If the scale is $1\\text{ cm} : 1\\text{ foot}$ and the actual floor area of the bedroom is $12\\text{ ft} \\times 10\\text{ ft}$, determine what percentage of the total bedroom floor area is occupied by this study table.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 8,
+      "marks": 4,
+      "explanationAnswer": "(a) To form a rectangle with vertices $P(8, 9)$, $Q(11, 9)$, and $R(11, 7)$, the fourth vertex $S$ must share the x-coordinate of $P$ and the y-coordinate of $R$. Thus, $S = (8, 7)$.\n(b) Length = $11 - 8 = 3\\text{ units}$. Width = $9 - 7 = 2\\text{ units}$. Area = $3 \\times 2 = 6\\text{ sq units}$.\n(c) Since $1\\text{ unit} = 1\\text{ foot}$, the table area is $6\\text{ sq ft}$. The total bedroom area is $12 \\times 10 = 120\\text{ sq ft}$. The percentage occupied is $\\frac{6}{120} \\times 100 = 5\\%$.",
+      "explanationQuestion": "This practical exercise tests the geometric properties of rectangles in a 2D coordinate system, distance calculations, and scale-to-percentage conversions.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies the coordinates of the fourth foot $S$ as $(8, 7)$ to complete the rectangle.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates the dimensions of the table (Length = $3\\text{ units}$, Width = $2\\text{ units}$) and the area as $6\\text{ sq units}$.",
+          "marks": 1
+        },
+        {
+          "point": "Converts grid units to feet using the scale $1\\text{ unit} = 1\\text{ foot}$, finding the table area is $6\\text{ sq ft}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates the percentage of the total bedroom area ($120\\text{ sq ft}$) occupied by the table as $\\frac{6}{120} \\times 100 = 5\\%$.",
+          "marks": 1
+        }
+      ],
+      "set": "A"
+    },
+    {
+      "conceptId": "C006",
+      "id": "A2.001",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "In the 2-D Cartesian coordinate system, what is the specific designation for the point of intersection of the x-axis and y-axis?",
+      "options": [
+        {
+          "optionText": "The vertex",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The origin",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The central node",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The null point",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "The point of intersection of the two perpendicular axes (x-axis and y-axis) is defined as the origin $(0, 0)$.",
+      "explanationQuestion": "This tests the fundamental definition of the coordinate system origin.",
+      "correctAnswer": "The origin",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.002",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "If a point $P(x, y)$ has a negative x-coordinate and a positive y-coordinate, in which quadrant does it lie?",
+      "options": [
+        {
+          "optionText": "Quadrant I",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Quadrant III",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant IV",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "By convention, Quadrant II is defined by negative x-values and positive y-values $(-, +)$.",
+      "explanationQuestion": "This tests the knowledge of quadrant sign conventions.",
+      "correctAnswer": "Quadrant II",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A2.003",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "True or False: For any point lying strictly on the x-axis, the y-coordinate must be zero.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "Since the x-axis is the line where the vertical distance from the origin is zero, all points on it have the form $(x, 0)$.",
+      "explanationQuestion": "This tests the understanding of axis properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "True or False: The coordinate pair $(3, 5)$ is identical to the coordinate pair $(5, 3)$ in a 2-D Cartesian plane.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "In coordinate geometry, the order of elements in the ordered pair $(x, y)$ is significant; therefore, $(3, 5) \\neq (5, 3)$.",
+      "explanationQuestion": "This tests the understanding of ordered pairs.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.005",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given two points $A(3, 4)$ and $D(7, 1)$, calculate the distance $AD$ using the distance formula derived from the Baudhayana-Pythagoras Theorem. Show your steps.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify the distance formula: $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+          "marks": 1
+        },
+        {
+          "point": "Substitute the values correctly: $\\sqrt{(7 - 3)^2 + (1 - 4)^2}$",
+          "marks": 1
+        },
+        {
+          "point": "Calculate the squares: $\\sqrt{4^2 + (-3)^2} = \\sqrt{16 + 9}$",
+          "marks": 1
+        },
+        {
+          "point": "Final result: $\\sqrt{25} = 5$ units",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is 5 units.",
+      "explanationQuestion": "This tests the application of the distance formula.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C020",
+      "id": "A2.006",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "A rectangle has three of its vertices at $(0, 0)$, $(12, 0)$, and $(12, 10)$. Determine the coordinates of the fourth vertex and justify your answer.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify that for a rectangle with sides parallel to the axes, the fourth point must share an x-coordinate with one point and a y-coordinate with another.",
+          "marks": 1
+        },
+        {
+          "point": "Analyze the coordinates: $(0,0)$ to $(12,0)$ is a horizontal base, $(12,0)$ to $(12,10)$ is a vertical side.",
+          "marks": 1
+        },
+        {
+          "point": "State the fourth vertex must be $(0, 10)$ to complete the rectangle.",
+          "marks": 2
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The fourth vertex is $(0, 10)$.",
+      "explanationQuestion": "This tests the application of coordinate geometry to identify geometric shapes.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.001",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "If a point $P(x, y)$ has a negative $x$-coordinate and a positive $y$-coordinate, in which quadrant does it lie and what is the relative position of the point from the origin?",
+      "options": [
+        {
+          "optionText": "Quadrant I; to the right of the origin",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II; to the left and above the origin",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Quadrant III; to the left and below the origin",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant IV; to the right and below the origin",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI - Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "A negative $x$ means the point is to the left of the origin. A positive $y$ means the point is above the origin. This combination defines Quadrant II.",
+      "explanationQuestion": "The question tests the conceptual understanding of coordinate sign conventions and spatial orientation in the Cartesian plane.",
+      "correctAnswer": "Quadrant II; to the left and above the origin",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.002",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Given a point $P(a, b)$ where $a \\neq b$, which of the following statements is mathematically accurate regarding the coordinate system definitions?",
+      "options": [
+        {
+          "optionText": "$P(a, b)$ and $P(b, a)$ represent the same location on the Cartesian plane.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The coordinates are interchangeable without changing the point's location.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The point $P(a, b)$ and $P(b, a)$ are distinct locations unless $a = b$.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The order of coordinates only matters for points in the first quadrant.",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI - Dummy URL",
+      "pageNumber": 4,
+      "marks": 1,
+      "explanationAnswer": "In a 2-D Cartesian coordinate system, the order of the ordered pair $(x, y)$ is critical. Changing the order changes the distance from the respective axes, thus defining a different point.",
+      "explanationQuestion": "This tests the fundamental property that coordinate representation is ordered.",
+      "correctAnswer": "The point $P(a, b)$ and $P(b, a)$ are distinct locations unless $a = b$.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.003",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Explain why the distance between two points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ can be derived using the Baudhayana-Pythagoras theorem. Provide the final formula.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Mentions the construction of a right-angled triangle using the difference in x and y coordinates as the base and height.",
+          "marks": 1
+        },
+        {
+          "point": "States the formula for the hypotenuse: $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "AI - Dummy URL",
+      "pageNumber": 10,
+      "marks": 2,
+      "explanationAnswer": "By creating a right triangle where the horizontal side length is $|x_{2}-x_{1}|$ and the vertical side length is $|y_{2}-y_{1}|$, the distance between the points is the hypotenuse, calculated as $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.",
+      "explanationQuestion": "Requires understanding of geometric derivation of algebraic distance formulas.",
+      "correctAnswer": "The distance is $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$, derived from the hypotenuse of a triangle with legs formed by coordinate differences.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.004",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "If a circle is centered at the origin $(0, 0)$ and contains the point $(3, 4)$, determine if the point $(-5, 0)$ lies on the circle, inside it, or outside it. Justify using the distance formula.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculates the radius of the circle using the point $(3, 4)$ as $\\sqrt{3^{2}+4^{2}} = 5$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates the distance of $(-5, 0)$ from the origin as $\\sqrt{(-5)^{2}+0^{2}} = 5$.",
+          "marks": 1
+        },
+        {
+          "point": "Concludes that since the distance equals the radius, the point lies on the circle.",
+          "marks": 2
+        }
+      ],
+      "sourceTextbookUrl": "AI - Dummy URL",
+      "pageNumber": 13,
+      "marks": 4,
+      "explanationAnswer": "The radius is 5. The distance of $(-5, 0)$ from the origin is 5. Since distance equals radius, it lies on the circle.",
+      "explanationQuestion": "Tests application of distance formula to geometric properties.",
+      "correctAnswer": "The point lies on the circle.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "Consider a quadrilateral with vertices at $A(0, 0)$, $B(2, 0)$, $C(2, 2)$, and $D(0, 2)$. Which of the following properties are true for this shape?",
+      "options": [
+        {
+          "optionText": "All sides are of equal length."
+        },
+        {
+          "optionText": "The diagonals are of equal length."
+        },
+        {
+          "optionText": "The shape is a rectangle but not a square."
+        },
+        {
+          "optionText": "The adjacent sides are perpendicular."
+        }
+      ],
+      "multi": [
+        "All sides are of equal length.",
+        "The diagonals are of equal length.",
+        "The adjacent sides are perpendicular."
+      ],
+      "sourceTextbookUrl": "AI - Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The side lengths are all 2 units. The diagonals are $\\sqrt{2^{2}+2^{2}} = \\sqrt{8}$. The shape is a square, meaning it has equal sides and perpendicular adjacent sides.",
+      "explanationQuestion": "Requires coordinate geometry analysis to classify a polygon.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C033",
+      "id": "A2.006",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "truefalse",
+      "questionText": "Reflecting a triangle $T$ across the $y$-axis preserves the lengths of its sides, but changes the signs of the $y$-coordinates of its vertices.",
+      "correctAnswer": false,
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "sourceTextbookUrl": "AI - Dummy URL",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflecting across the $y$-axis changes the sign of the $x$-coordinates, not the $y$-coordinates. Side lengths are preserved.",
+      "explanationQuestion": "Tests understanding of geometric transformations in the coordinate plane.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C039",
+      "id": "A2.001",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "In the context of the room layout provided in Fig 1.1 and the coordinate system discussed, if a point is marked at the intersection of the left wall and the bottom wall of the room, and we define this as the origin $(0,0)$, what does the coordinate $(x, y)$ represent in terms of physical measurement if the scale is $1 \\text{ cm} : 1 \\text{ foot}$?",
+      "options": [
+        {
+          "optionText": "A point at $x$ feet from the left wall and $y$ feet from the bottom wall.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "A point at $x$ cm from the origin and $y$ cm from the origin.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A point at $x$ feet from the origin along the $y$-axis and $y$ feet along the $x$-axis.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A point representing the area of the room as $x \\times y$ square feet.",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "According to the coordinate system definition, the $x$-coordinate represents the distance from the $y$-axis (the left wall) and the $y$-coordinate represents the distance from the $x$-axis (the bottom wall). Given the scale $1 \\text{ cm} : 1 \\text{ foot}$, the units map directly to feet.",
+      "explanationQuestion": "This question tests the understanding of coordinate mapping to physical dimensions using the provided scale.",
+      "correctAnswer": "A point at $x$ feet from the left wall and $y$ feet from the bottom wall.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.002",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Referring to Fig 1.2, if a point $P$ is placed at $(-3, 4)$, calculate the exact distance of $P$ from the origin $O(0, 0)$ using the Baudhayana-Pythagoras theorem as discussed in the chapter. Show your steps.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies the coordinates as $x_1=0, y_1=0$ and $x_2=-3, y_2=4$.",
+          "marks": 1
+        },
+        {
+          "point": "Applies the distance formula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates $\\sqrt{(-3-0)^2 + (4-0)^2} = \\sqrt{9 + 16} = \\sqrt{25}$.",
+          "marks": 1
+        },
+        {
+          "point": "States the final distance as $5$ units.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 4,
+      "marks": 4,
+      "explanationAnswer": "The distance $d$ from the origin $(0,0)$ to $(x,y)$ is $\\sqrt{x^2 + y^2}$. Substituting $x=-3$ and $y=4$, $d = \\sqrt{(-3)^2 + 4^2} = \\sqrt{9+16} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "The question requires applying the distance formula derived from the Baudhayana-Pythagoras theorem to a specific point in the Cartesian plane.",
+      "correctAnswer": "5 units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In the experiment of marking a room with pins and threads, if a student uses a scale of $1 \\text{ cm} : 1 \\text{ foot}$ and marks two pins at $(2, 3)$ and $(2, 8)$, the length of the thread connecting these two points represents a physical distance of $5 \\text{ feet}$.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Since the $x$-coordinates are the same, the distance is the absolute difference in $y$-coordinates: $|8 - 3| = 5$ units. With a scale of $1 \\text{ cm} : 1 \\text{ foot}$, this corresponds to $5 \\text{ feet}$.",
+      "explanationQuestion": "This tests the application of coordinate geometry to practical room measurement.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C040",
+      "id": "A2.004",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If Reiaan places a pin at $(1, 2)$ and another at $(4, 6)$ on his grid, the horizontal distance covered is ______ units and the vertical distance covered is ______ units, which corresponds to a total straight-line distance of ______ feet.",
+      "blanks": [
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "Horizontal distance = $|4 - 1| = 3$. Vertical distance = $|6 - 2| = 4$. Straight-line distance = $\\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "Tests the ability to decompose movement into $x$ and $y$ components and apply the distance formula in a practical scenario.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "In the Cartesian coordinate system, which quadrant contains points with a negative x-coordinate and a positive y-coordinate?",
+      "options": [
+        {
+          "optionText": "Quadrant I",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Quadrant III",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant IV",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "By definition, Quadrant II is where x is negative and y is positive.",
+      "explanationQuestion": "This tests the recall of sign conventions for quadrants in the Cartesian plane.",
+      "correctAnswer": "Quadrant II",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C006",
+      "id": "A2.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "What are the coordinates of the point where the x-axis and y-axis intersect?",
+      "options": [
+        {
+          "optionText": "(1, 1)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(0, 1)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(0, 0)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(1, 0)",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "The intersection of the x-axis and y-axis is defined as the origin, represented by (0, 0).",
+      "explanationQuestion": "This tests the recall of the definition of the origin.",
+      "correctAnswer": "(0, 0)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A2.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "For any point lying on the x-axis, the value of its y-coordinate must be zero.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "Points on the x-axis have no vertical displacement from the origin, therefore y = 0.",
+      "explanationQuestion": "This tests the comprehension of coordinate properties on axes.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "The coordinates $(x, y)$ and $(y, x)$ always represent the same location on the Cartesian plane regardless of the values of $x$ and $y$.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The order of coordinates matters; $(x, y) = (y, x)$ only if $x = y$.",
+      "explanationQuestion": "This tests the comprehension of the ordered nature of coordinate pairs.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given a room layout where the origin is at the bottom-left corner, if a piece of furniture has its corners at $(2, 3)$ and $(6, 3)$, calculate the length of the side connecting these two points and explain your reasoning.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies that the y-coordinates are identical (y=3), implying a horizontal line segment.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates the length as the absolute difference of x-coordinates: $|6 - 2| = 4$ units.",
+          "marks": 1
+        }
+      ],
+      "marks": 2,
+      "explanationAnswer": "Since the y-coordinates are the same, the distance is the difference in x-coordinates, which is 4 units.",
+      "explanationQuestion": "This tests the application of coordinate geometry to find distances between points with a common axis coordinate.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.006",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Explain how the distance formula $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ is derived using the Baudhayana-Pythagoras Theorem.",
+      "subjective_evaluation_points": [
+        {
+          "point": "States that a right-angled triangle is formed between two points $(x_1, y_1)$ and $(x_2, y_2)$.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies the base as $|x_2 - x_1|$ and the height as $|y_2 - y_1|$.",
+          "marks": 1
+        },
+        {
+          "point": "Applies the theorem $a^2 + b^2 = c^2$ to show the distance $c = \\sqrt{base^2 + height^2}$.",
+          "marks": 2
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The formula represents the hypotenuse of a right-angled triangle where the legs are the differences in x and y coordinates respectively.",
+      "explanationQuestion": "This tests the application and understanding of the geometric derivation of the distance formula.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "If a point $P(x, y)$ is located such that $x < 0$ and $y > 0$, in which quadrant does it lie and what is the sign of its coordinates?",
+      "options": [
+        {
+          "optionText": "Quadrant I; (+, +)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II; (-, +)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Quadrant III; (-, -)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant IV; (+, -)",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "By definition, Quadrant II is where the x-axis is negative and the y-axis is positive, corresponding to coordinates $(-, +)$.",
+      "explanationQuestion": "The question tests the ability to map coordinate signs to specific Cartesian quadrants.",
+      "correctAnswer": "Quadrant II; (-, +)",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Given that point $A(x, y)$ is not on the axes and $x \\neq y$, which of the following statements is mathematically true regarding the transformation of $A$ to $A'(y, x)$?",
+      "options": [
+        {
+          "optionText": "The points $A$ and $A'$ are always identical.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The points $A$ and $A'$ are distinct locations on the Cartesian plane.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The point $A'$ lies on the x-axis.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The point $A'$ lies on the y-axis.",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 7,
+      "marks": 1,
+      "explanationAnswer": "Since $x \\neq y$, swapping the coordinates results in a unique point $(y, x)$ that is distinct from $(x, y)$ unless the point lies on the line $y=x$.",
+      "explanationQuestion": "This tests the property of ordered pairs in a coordinate system.",
+      "correctAnswer": "The points $A$ and $A'$ are distinct locations on the Cartesian plane.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "If a triangle $ADM$ with vertices $A(3, 4)$, $D(7, 1)$, and $M(9, 6)$ is reflected across the y-axis, justify whether the distance $AD$ changes after reflection.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify the coordinates of the reflected points: $A'(-3, 4)$, $D'(-7, 1)$, $M'(-9, 6)$.",
+          "marks": 1
+        },
+        {
+          "point": "Apply the distance formula to calculate the length of $AD$ and $A'D'$.",
+          "marks": 1
+        },
+        {
+          "point": "Conclude that reflection preserves distance/side lengths, hence $AD = A'D'$.",
+          "marks": 2
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 11,
+      "marks": 4,
+      "explanationAnswer": "Reflection is an isometry; it preserves the distance between points. Therefore, the distance $AD$ remains invariant.",
+      "explanationQuestion": "Tests the understanding of geometric transformations in the coordinate plane.",
+      "correctAnswer": "The distance remains unchanged because reflection is an isometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Given points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$, evaluate whether $ABCD$ forms a square by calculating the side lengths.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculate lengths of $AB$, $BC$, $CD$, and $DA$ using the distance formula.",
+          "marks": 2
+        },
+        {
+          "point": "Show that all four sides are equal to $\\sqrt{10}$.",
+          "marks": 1
+        },
+        {
+          "point": "Conclude that since all sides are equal and it is a closed polygon, it forms a square.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 4,
+      "explanationAnswer": "By calculating the distance between consecutive points, we find $AB=BC=CD=DA=\\sqrt{10}$. This confirms the shape is a square.",
+      "explanationQuestion": "Tests the application of the distance formula to classify geometric shapes.",
+      "correctAnswer": "Yes, $ABCD$ is a square as all side lengths are equal.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "A circle $K$ is centered at the origin $(0, 0)$ with a radius of $9$. Which of the following points lie strictly ON the circle?",
+      "options": [
+        {
+          "optionText": "(9, 0)"
+        },
+        {
+          "optionText": "(0, -9)"
+        },
+        {
+          "optionText": "(6, 6)"
+        },
+        {
+          "optionText": "(-5, 7)"
+        }
+      ],
+      "multi": [
+        "(9, 0)",
+        "(0, -9)"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 13,
+      "marks": 1,
+      "explanationAnswer": "A point $(x, y)$ lies on a circle of radius $r$ centered at origin if $x^{2} + y^{2} = r^{2}$. Here $r^{2} = 81$. $(9)^{2} + 0^{2} = 81$ and $0^{2} + (-9)^{2} = 81$.",
+      "explanationQuestion": "Tests the application of the distance formula in the context of circle equations.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.006",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200m$ apart, intersections are denoted by $(x, y)$. If a person is at $(2, 5)$, which of the following intersection coordinates are exactly $400m$ away from their current position?",
+      "options": [
+        {
+          "optionText": "(2, 7)"
+        },
+        {
+          "optionText": "(0, 5)"
+        },
+        {
+          "optionText": "(4, 5)"
+        },
+        {
+          "optionText": "(2, 2)"
+        }
+      ],
+      "multi": [
+        "(2, 7)",
+        "(0, 5)",
+        "(4, 5)"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "Distance between $(x_1, y_1)$ and $(x_2, y_2)$ is $\\sqrt{(x_2-x_1)^{2} + (y_2-y_1)^{2}}$. Since units are $200m$, a distance of $400m$ is $2$ units. Points at distance $2$ from $(2, 5)$ are $(2 \\pm 2, 5)$ and $(2, 5 \\pm 2)$, which are $(4, 5), (0, 5), (2, 7), (2, 3)$.",
+      "explanationQuestion": "Tests the application of coordinate geometry to real-world navigation problems.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "In the room layout provided (Fig 1.3), if the bottom-left corner of the room is the origin $(0,0)$, and the door $D_1R_1$ is located such that $D_1$ is at $(7, 0)$ and $R_1$ is at $(11.5, 0)$, what is the width of the door in feet?",
+      "options": [
+        {
+          "optionText": "3.5 feet",
+          "isCorrect": false
+        },
+        {
+          "optionText": "4.5 feet",
+          "isCorrect": true
+        },
+        {
+          "optionText": "7 feet",
+          "isCorrect": false
+        },
+        {
+          "optionText": "11.5 feet",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "The distance between $D_1(7, 0)$ and $R_1(11.5, 0)$ along the x-axis is calculated as $|11.5 - 7| = 4.5$ feet.",
+      "explanationQuestion": "The question tests the application of coordinate geometry to measure physical distances in a layout.",
+      "correctAnswer": "4.5 feet",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "A city has roads 200 m apart in both North-South and East-West directions. If the intersection of the 2nd North-South road and 5th East-West road is $(2, 5)$, how many unique street intersections can be referred to as $(4, 3)$?",
+      "options": [
+        {
+          "optionText": "0",
+          "isCorrect": false
+        },
+        {
+          "optionText": "1",
+          "isCorrect": true
+        },
+        {
+          "optionText": "2",
+          "isCorrect": false
+        },
+        {
+          "optionText": "4",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "In a Cartesian coordinate system, a unique pair of $(x, y)$ coordinates defines exactly one unique point or intersection.",
+      "explanationQuestion": "The question tests the understanding of unique mapping in a grid-based coordinate system.",
+      "correctAnswer": "1",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The point $(3, 5)$ is the same as the point $(5, 3)$ in a 2-D Cartesian plane. Reason: The order of coordinates in an ordered pair does not matter for defining the location.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The order of coordinates $(x, y)$ is fixed; $x$ represents the horizontal distance and $y$ the vertical. $(3, 5) \neq (5, 3)$ unless $x=y$.",
+      "explanationQuestion": "This tests the fundamental property of ordered pairs in coordinate geometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C011",
+      "id": "A2.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: Any point lying on the y-axis must have its x-coordinate equal to zero. Reason: The y-axis is defined as the set of all points where the horizontal distance from the origin is null.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "By definition, the y-axis is the locus of points where the perpendicular distance from the y-axis (the x-coordinate) is $0$.",
+      "explanationQuestion": "This tests the definition of axis-based coordinate properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Given points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$, prove that $ABCD$ is a square by calculating the lengths of its sides.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculate length of $AB$ using distance formula: $\\sqrt{(-1-2)^{2} + (2-1)^{2}} = \\sqrt{9+1} = \\sqrt{10}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculate length of $BC$, $CD$, and $DA$ showing all equal $\\sqrt{10}$.",
+          "marks": 1
+        },
+        {
+          "point": "Show that the diagonals $AC$ and $BD$ are equal or sides are perpendicular to confirm it is a square.",
+          "marks": 1
+        },
+        {
+          "point": "Conclude that since all sides are equal and diagonals are equal, it is a square.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The side lengths are all $\\sqrt{10}$. Since all sides are equal and the diagonals are equal, the shape is a square.",
+      "explanationQuestion": "This requires applying the distance formula to verify geometric properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.006",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Points $A(1, -8)$, $B(-4, 7)$, and $C(-7, -4)$ lie on a circle centered at the origin $(0, 0)$. Determine the radius of this circle and verify if point $D(-5, 6)$ lies inside, outside, or on the circle.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculate radius $r$ using $OA = \\sqrt{1^{2} + (-8)^{2}} = \\sqrt{65}$.",
+          "marks": 1
+        },
+        {
+          "point": "Verify $OB$ and $OC$ also equal $\\sqrt{65}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculate distance $OD = \\sqrt{(-5)^{2} + 6^{2}} = \\sqrt{25 + 36} = \\sqrt{61}$.",
+          "marks": 1
+        },
+        {
+          "point": "Conclude $OD < \\sqrt{65}$, so $D$ lies inside the circle.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The radius is $\\sqrt{65}$. Since the distance of $D$ from the origin is $\\sqrt{61} < \\sqrt{65}$, $D$ is inside.",
+      "explanationQuestion": "This tests the application of the distance formula to geometric loci.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Referring to Fig 1.3, if the door $D_1R_1$ is located such that $D_1$ is at $(7, 0)$ and $R_1$ is at $(11.5, 0)$, and the room scale is $1 \\text{ cm} : 1 \\text{ foot}$, what is the actual physical width of the door in feet?",
+      "options": [
+        {
+          "optionText": "3.5 feet",
+          "isCorrect": false
+        },
+        {
+          "optionText": "4.5 feet",
+          "isCorrect": true
+        },
+        {
+          "optionText": "5.0 feet",
+          "isCorrect": false
+        },
+        {
+          "optionText": "4.0 feet",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "The width is the difference between the x-coordinates: $11.5 - 7 = 4.5$. Given the scale $1 \\text{ cm} : 1 \\text{ foot}$, the width is 4.5 feet.",
+      "explanationQuestion": "Requires interpretation of the coordinate-based room layout and scale provided on page 5.",
+      "correctAnswer": "4.5 feet",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C039",
+      "id": "A2.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "In Fig 1.3, if the origin $(0, 0)$ is fixed at the bottom-left corner of the room, the coordinates of point $B$ $(12, 10)$ imply that the room's total width is 12 units and its total height is 10 units.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "The coordinates $(12, 10)$ indicate the position relative to the origin $(0, 0)$, thus defining the boundary of the space as 12 units horizontally and 10 units vertically.",
+      "explanationQuestion": "Tests understanding of coordinate interpretation relative to a fixed origin.",
+      "correctAnswer": true,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "A student uses a rectangular grid to map a room of size $12 \\text{ ft} \\times 10 \\text{ ft}$. If they place pins at $(0, 0)$, $(12, 0)$, $(12, 10)$, and $(0, 10)$ to represent the corners, explain how the coordinate system helps determine if the room is perfectly rectangular.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Mention that the distance between $(0, 0)$ and $(12, 0)$ must equal the distance between $(0, 10)$ and $(12, 10)$ (length).",
+          "marks": 1
+        },
+        {
+          "point": "Mention that the distance between $(0, 0)$ and $(0, 10)$ must equal the distance between $(12, 0)$ and $(12, 10)$ (width).",
+          "marks": 1
+        },
+        {
+          "point": "State that perpendicularity of axes ensures corners are $90^{\\circ}$ if coordinates are aligned to the grid.",
+          "marks": 2
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 4,
+      "explanationAnswer": "The coordinate system allows for the calculation of side lengths using distance formulas and verifies geometric properties like parallelism and perpendicularity.",
+      "explanationQuestion": "Requires application of practical mapping techniques to geometric verification.",
+      "correctAnswer": "The coordinate system allows for the calculation of side lengths using distance formulas and verifies geometric properties like parallelism and perpendicularity.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C040",
+      "id": "A2.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If an object is placed at $(2, 3)$ on a grid where the scale is $1 \\text{ cm} : 1 \\text{ foot}$, and we shift it to $(5, 7)$, the total distance moved in feet, calculated using the Pythagorean theorem, is ______ units, which corresponds to an actual distance of ______ feet.",
+      "blanks": [
+        "5",
+        "5"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 9,
+      "marks": 1,
+      "explanationAnswer": "Distance $= \\sqrt{(5-2)^{2} + (7-3)^{2}} = \\sqrt{3^{2} + 4^{2}} = \\sqrt{9 + 16} = \\sqrt{25} = 5$. Scale $1:1$ implies 5 feet.",
+      "explanationQuestion": "Requires combining coordinate geometry with practical scale conversion.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C031",
+      "id": "A2.001",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "What is the x-coordinate of any point lying on the y-axis in a Cartesian coordinate system?",
+      "options": [
+        {
+          "optionText": "1",
+          "isCorrect": false
+        },
+        {
+          "optionText": "0",
+          "isCorrect": true
+        },
+        {
+          "optionText": "y",
+          "isCorrect": false
+        },
+        {
+          "optionText": "undefined",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 7,
+      "marks": 1,
+      "explanationAnswer": "By definition, the y-axis consists of all points where the horizontal distance from the y-axis is zero. Therefore, the x-coordinate is always 0.",
+      "explanationQuestion": "This question tests the fundamental property of the Cartesian plane regarding points on the axes.",
+      "correctAnswer": "0",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.002",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "For any two distinct real numbers $x$ and $y$, the point $(x, y)$ is the same as the point $(y, x)$.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The statement is false because the order of coordinates in a pair $(x, y)$ is significant. $(x, y) = (y, x)$ only holds true if $x = y$.",
+      "explanationQuestion": "This tests the understanding of coordinate ordering.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.003",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "If a point $P(x, y)$ is located in the third quadrant, which of the following conditions must be true?",
+      "options": [
+        {
+          "optionText": "$x > 0, y > 0$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$x < 0, y > 0$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$x < 0, y < 0$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$x > 0, y < 0$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "In the third quadrant, both the x-axis and y-axis values are negative, so $x < 0$ and $y < 0$.",
+      "explanationQuestion": "This tests the comprehension of quadrant sign conventions.",
+      "correctAnswer": "$x < 0, y < 0$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.004",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "When a geometric figure like a triangle is reflected across the y-axis, the lengths of its sides change.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "Reflection is an isometry, meaning it preserves distances and side lengths of the geometric figure.",
+      "explanationQuestion": "This tests the understanding of geometric properties under reflection.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C024",
+      "id": "A2.005",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given points $S(-8, 7)$ and $T(6, -3)$, calculate the midpoint $M$ of the segment $ST$. Show your steps.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify the midpoint formula as $(\\frac{x1 + x2}{2}, \\frac{y1 + y2}{2})$.",
+          "marks": 1
+        },
+        {
+          "point": "Substitute correct values: $(\\frac{-8 + 6}{2}, \\frac{7 - 3}{2})$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculate the final result as $(-1, 2)$.",
+          "marks": 2
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The midpoint is $(\\frac{-8+6}{2}, \\frac{7-3}{2}) = (\\frac{-2}{2}, \\frac{4}{2}) = (-1, 2)$.",
+      "explanationQuestion": "This requires applying the midpoint formula to specific coordinate points.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C022",
+      "id": "A2.006",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Using the distance formula, find the distance between point $A(3, 4)$ and point $D(7, 1)$.",
+      "subjective_evaluation_points": [
+        {
+          "point": "State the distance formula $\\sqrt{(x2 - x1)^{2} + (y2 - y1)^{2}}$.",
+          "marks": 1
+        },
+        {
+          "point": "Substitute the values correctly: $\\sqrt{(7 - 3)^{2} + (1 - 4)^{2}}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculate correctly: $\\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16 + 9} = \\sqrt{25} = 5$.",
+          "marks": 2
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "Distance = $\\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{16+9} = 5$ units.",
+      "explanationQuestion": "This tests the application of the distance formula derived from the Baudhayana-Pythagoras Theorem.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.001",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "If a point $P(x, y)$ is defined such that $x \\neq y$, which of the following statements regarding the coordinates $(x, y)$ and $(y, x)$ is mathematically true?",
+      "options": [
+        {
+          "optionText": "$(x, y) = (y, x)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$(x, y) \\neq (y, x)$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The distance from the origin is different for both points",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Both points always lie in the same quadrant",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 7,
+      "marks": 1,
+      "explanationAnswer": "In a Cartesian coordinate system, the order of coordinates in the ordered pair $(x, y)$ is significant. If $x \\neq y$, then the point $(x, y)$ represents a unique location distinct from $(y, x)$.",
+      "explanationQuestion": "This question tests the understanding of coordinate order significance in the Cartesian plane.",
+      "correctAnswer": "$(x, y) \\neq (y, x)$",
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.002",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "The point $(a, b)$ coincides with the point $(b, a)$ if and only if $a = b$.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 7,
+      "marks": 1,
+      "explanationAnswer": "For two points $(x_1, y_1)$ and $(x_2, y_2)$ to coincide, $x_1$ must equal $x_2$ and $y_1$ must equal $y_2$. Thus, $a=b$ and $b=a$, which implies $a=b$.",
+      "explanationQuestion": "This question evaluates the logical condition for coordinate coincidence.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.003",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Explain why reflecting a triangle $\\Delta ADM$ across the y-axis preserves the lengths of its sides, even though the coordinates of its vertices change.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Mentions that reflection is an isometry (rigid transformation).",
+          "marks": 1
+        },
+        {
+          "point": "Explains that the distance formula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$ remains invariant because the squares of the differences in coordinates are preserved under reflection.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 11,
+      "marks": 2,
+      "explanationAnswer": "Reflection across the y-axis maps $(x, y)$ to $(-x, y)$. The distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ after reflection becomes $\\sqrt{((-x_2)-(-x_1))^2 + (y_2-y_1)^2} = \\sqrt{(x_1-x_2)^2 + (y_2-y_1)^2}$, which is the original distance.",
+      "explanationQuestion": "This question requires evaluating the geometric properties of reflections in the coordinate plane.",
+      "correctAnswer": "Reflection is an isometry that preserves distances between points.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.004",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Given a circle $K$ centered at the origin $(0, 0)$ with radius $r = 10$, which of the following points lies exactly on the circle?",
+      "options": [
+        {
+          "optionText": "$(6, 7)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$(6, 8)$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$(5, 5)$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$(0, 11)$",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 13,
+      "marks": 1,
+      "explanationAnswer": "A point $(x, y)$ lies on a circle $x^2 + y^2 = r^2$. Here $r^2 = 100$. For $(6, 8)$, $6^2 + 8^2 = 36 + 64 = 100$.",
+      "explanationQuestion": "This tests the application of the distance formula to verify points on a circle.",
+      "correctAnswer": "$(6, 8)$",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "If the vertices of a quadrilateral are $A(2, 1)$, $B(5, 1)$, $C(5, 4)$, and $D(2, 4)$, prove that it is a square using the distance formula.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculates lengths of all four sides $AB, BC, CD, DA$ using the distance formula and shows they are all equal to 3 units.",
+          "marks": 2
+        },
+        {
+          "point": "Calculates lengths of diagonals $AC$ and $BD$ and shows they are equal to $\\sqrt{3^2 + 3^2} = 3\\sqrt{2}$, confirming it is a square.",
+          "marks": 2
+        }
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 14,
+      "marks": 4,
+      "explanationAnswer": "Side lengths: $AB = \\sqrt{(5-2)^2 + (1-1)^2} = 3$, $BC = \\sqrt{(5-5)^2 + (4-1)^2} = 3$, $CD = \\sqrt{(2-5)^2 + (4-4)^2} = 3$, $DA = \\sqrt{(2-2)^2 + (1-4)^2} = 3$. Diagonals: $AC = \\sqrt{(5-2)^2 + (4-1)^2} = \\sqrt{18} = 3\\sqrt{2}$, $BD = \\sqrt{(2-5)^2 + (4-1)^2} = \\sqrt{18} = 3\\sqrt{2}$. Since all sides are equal and diagonals are equal, it is a square.",
+      "explanationQuestion": "This question requires synthesis of coordinate geometry concepts to prove a geometric property.",
+      "correctAnswer": "The quadrilateral is a square because all sides are 3 units and diagonals are equal.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C028",
+      "id": "A2.006",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are 200m apart, if an intersection is marked as $(2, 5)$, which of the following intersection coordinates are possible if we are looking for intersections that are exactly 3 units apart in total grid distance (sum of absolute differences of coordinates)?",
+      "options": [
+        {
+          "optionText": "$(3, 7)$"
+        },
+        {
+          "optionText": "$(4, 6)$"
+        },
+        {
+          "optionText": "$(1, 3)$"
+        },
+        {
+          "optionText": "$(0, 4)$"
+        }
+      ],
+      "multi": [
+        "$(4, 6)$",
+        "$(1, 3)$",
+        "$(0, 4)$"
+      ],
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The total grid distance is $|x - 2| + |y - 5| = 3$. For $(4, 6)$: $|4-2| + |6-5| = 2 + 1 = 3$. For $(1, 3)$: $|1-2| + |3-5| = 1 + 2 = 3$. For $(0, 4)$: $|0-2| + |4-5| = 2 + 1 = 3$.",
+      "explanationQuestion": "This tests the ability to apply coordinate-based distance logic in a real-world grid scenario.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.001",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Based on the reflection of $\\Delta ADM$ across the y-axis, which of the following properties is preserved in the transformed triangle $\\Delta A'D'M'$?",
+      "options": [
+        {
+          "optionText": "The coordinates of the vertices remain unchanged.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The lengths of the sides of the triangle are preserved.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The orientation of the triangle remains clockwise.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The x-coordinates of the vertices remain unchanged.",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT Class 9 Mathematics",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflection across an axis is an isometry, meaning it preserves distances between points. Therefore, the lengths of the sides of the triangle remain invariant.",
+      "explanationQuestion": "This question tests the understanding of geometric reflections in the Cartesian plane as discussed on page 11.",
+      "correctAnswer": "The lengths of the sides of the triangle are preserved.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.002",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Given the points $A(3, 4)$ and $D(7, 1)$, calculate the length of the segment $AD$ using the Baudhayana-Pythagoras Theorem as derived in the text. Show your steps.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies the change in x-coordinates: $\\Delta x = 7 - 3 = 4$.",
+          "marks": 1
+        },
+        {
+          "point": "Identifies the change in y-coordinates: $\\Delta y = 1 - 4 = -3$.",
+          "marks": 1
+        },
+        {
+          "point": "Applies the theorem: $AD = \\sqrt{4^{2} + (-3)^{2}}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates final result: $AD = \\sqrt{16 + 9} = \\sqrt{25} = 5$ units.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is calculated by finding the horizontal and vertical components of the line segment and applying the Pythagorean theorem, resulting in 5 units.",
+      "explanationQuestion": "This question requires application of the distance formula derivation shown on page 9.",
+      "correctAnswer": "5 units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In the room layout activity (Fig 1.1), if the scale is $1$ cm : $1$ foot, and a wall segment measures $5$ cm on the map, the actual length of the wall in the room is $5$ feet.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "The scale $1$ cm : $1$ foot implies a direct mapping where every unit of distance on the diagram corresponds to the same unit in feet in reality.",
+      "explanationQuestion": "This tests the practical application of scale interpretation mentioned in the chapter.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "A2.004",
+      "topic": "Page 7: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 7-8 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If Reiaan places his study table such that its feet are at $(8, 9)$, $(11, 9)$, and $(11, 7)$, the fourth foot of the rectangular table must be located at coordinate (______, ______).",
+      "blanks": [
+        "8",
+        "7"
+      ],
+      "marks": 1,
+      "explanationAnswer": "For a rectangle with sides parallel to the axes, the fourth vertex $(x, y)$ must share an x-coordinate with one adjacent vertex and a y-coordinate with the other. Here, $(8, 7)$ completes the rectangle defined by the other three points.",
+      "explanationQuestion": "This tests the practical geometric reasoning required to place objects on a coordinate grid.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "What is the general formula for the distance $d$ between two points $(x_1, y_1)$ and $(x_2, y_2)$ in a 2-D Cartesian plane?",
+      "options": [
+        {
+          "optionText": "$d = \\sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$d = (x_2 - x_1)^2 + (y_2 - y_1)^2$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$d = \\sqrt{|x_2 - x_1| + |y_2 - y_1|}$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "The distance formula derived from the Baudhayana-Pythagoras theorem is $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$.",
+      "explanationQuestion": "Requires recall of the coordinate geometry distance formula.",
+      "correctAnswer": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "When a triangle is reflected across the y-axis, the lengths of its sides change compared to the original triangle.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflection is an isometry, meaning it preserves distances (side lengths) between points.",
+      "explanationQuestion": "Requires recall of properties of geometric transformations.",
+      "correctAnswer": false,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C017",
+      "id": "A2.003",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "In the triangle ADM (Fig 1.6), to find the distance AD, we calculate the horizontal distance as the difference in ______ coordinates and the vertical distance as the difference in ______ coordinates.",
+      "blanks": [
+        "x",
+        "y"
+      ],
+      "options": null,
+      "multi": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 9,
+      "marks": 1,
+      "explanationAnswer": "The horizontal shift is $\\Delta x$ and the vertical shift is $\\Delta y$.",
+      "explanationQuestion": "Requires understanding how to decompose 2D distance into components.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C016",
+      "id": "A2.004",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "Which of the following conditions allow for the simple calculation of distance using absolute differences $|x_2 - x_1|$ or $|y_2 - y_1|$?",
+      "options": [
+        {
+          "optionText": "When the line segment is parallel to the x-axis"
+        },
+        {
+          "optionText": "When the line segment is parallel to the y-axis"
+        },
+        {
+          "optionText": "When the points are at the origin"
+        },
+        {
+          "optionText": "When the line segment is diagonal"
+        }
+      ],
+      "multi": [
+        "When the line segment is parallel to the x-axis",
+        "When the line segment is parallel to the y-axis"
+      ],
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 8,
+      "marks": 1,
+      "explanationAnswer": "Distance is calculated as the absolute difference of the varying coordinate if the other coordinate remains constant.",
+      "explanationQuestion": "Requires comprehension of the distance formula's simplified cases.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C022",
+      "id": "A2.005",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given points $A(3, 4)$ and $M(9, 6)$, calculate the length of side $AM$ using the distance formula and show your steps.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify coordinates: $(x_1, y_1) = (3, 4)$ and $(x_2, y_2) = (9, 6)$.",
+          "marks": 1
+        },
+        {
+          "point": "Apply formula: $\\sqrt{(9-3)^2 + (6-4)^2} = \\sqrt{6^2 + 2^2}$.",
+          "marks": 1
+        },
+        {
+          "point": "Simplify to $\\sqrt{36 + 4} = \\sqrt{40}$.",
+          "marks": 1
+        },
+        {
+          "point": "State final answer: $2\\sqrt{10}$ units.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is $\\sqrt{(9-3)^2 + (6-4)^2} = \\sqrt{36+4} = \\sqrt{40} = 2\\sqrt{10}$.",
+      "explanationQuestion": "Application of the distance formula.",
+      "correctAnswer": "2\\sqrt{10} units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.006",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "If a circle has its center at the origin $(0, 0)$ and passes through point $P(-3, 4)$, what is the radius of the circle?",
+      "subjective_evaluation_points": [
+        {
+          "point": "Understand that the radius is the distance from the center $(0,0)$ to any point on the circumference.",
+          "marks": 1
+        },
+        {
+          "point": "Apply distance formula: $r = \\sqrt{(-3 - 0)^2 + (4 - 0)^2}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculate: $r = \\sqrt{9 + 16} = \\sqrt{25}$.",
+          "marks": 1
+        },
+        {
+          "point": "Final result: $r = 5$ units.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The radius is the distance from $(0,0)$ to $(-3,4)$, which is $\\sqrt{(-3)^2 + 4^2} = 5$.",
+      "explanationQuestion": "Application of distance formula to circle geometry.",
+      "correctAnswer": "5 units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Given a triangle with vertices $A(3, 4)$, $D(7, 1)$, and $M(9, 6)$, determine which side of the triangle has the greatest length based on the distance formula $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$.",
+      "options": [
+        {
+          "optionText": "Side AD",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Side DM",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Side AM",
+          "isCorrect": true
+        },
+        {
+          "optionText": "All sides are equal",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "Calculating lengths: $AD = \\sqrt{(7-3)^2 + (1-4)^2} = \\sqrt{16+9} = 5$. $DM = \\sqrt{(9-7)^2 + (6-1)^2} = \\sqrt{4+25} = \\sqrt{29} \\approx 5.38$. $AM = \\sqrt{(9-3)^2 + (6-4)^2} = \\sqrt{36+4} = \\sqrt{40} \\approx 6.32$. Thus, AM is the longest.",
+      "explanationQuestion": "The question requires calculating three distinct distances using the coordinate geometry distance formula and comparing the resulting square roots.",
+      "correctAnswer": "Side AM",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "If triangle $ADM$ is reflected across the y-axis to form $A'D'M'$, how does the distance between $A'$ and $D'$ compare to the distance between $A$ and $D$?",
+      "options": [
+        {
+          "optionText": "The distance $A'D'$ is greater than $AD$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The distance $A'D'$ is equal to $AD$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The distance $A'D'$ is less than $AD$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The distance $A'D'$ is half of $AD$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflection across an axis is an isometry, meaning it is a transformation that preserves distances between points. Therefore, the length of the segment remains unchanged.",
+      "explanationQuestion": "The question tests the understanding of geometric properties of reflections in the Cartesian plane.",
+      "correctAnswer": "The distance $A'D'$ is equal to $AD$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C029",
+      "id": "A2.003",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Two circular icons are drawn on a screen. Icon 1 has its center at $(100, 150)$ with a radius of $80$ pixels. Icon 2 has its center at $(250, 230)$ with a radius of $80$ pixels. Determine the distance between their centers and evaluate if the circles intersect.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculate distance $d = \\sqrt{(250-100)^2 + (230-150)^2}$",
+          "marks": 1
+        },
+        {
+          "point": "Compute $d = \\sqrt{150^2 + 80^2} = \\sqrt{22500 + 6400} = \\sqrt{28900} = 170$ pixels",
+          "marks": 1
+        },
+        {
+          "point": "Compare distance ($170$) with sum of radii ($80 + 80 = 160$)",
+          "marks": 1
+        },
+        {
+          "point": "Conclude that since $170 > 160$, the circles do not intersect",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 4,
+      "explanationAnswer": "The distance between centers is $170$ pixels. Since the sum of the radii is $160$ pixels, the distance between centers exceeds the sum of the radii, meaning the circles are separate.",
+      "explanationQuestion": "This requires applying the distance formula to find the gap between two points and evaluating the intersection condition for circles.",
+      "correctAnswer": "Distance is 170 pixels; they do not intersect.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.004",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$ are plotted. Prove that $ABCD$ forms a square by calculating the lengths of the four sides and the diagonals.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculate side lengths $AB, BC, CD, DA$ using distance formula",
+          "marks": 1
+        },
+        {
+          "point": "Show all sides equal $\\sqrt{(-1-2)^2 + (2-1)^2} = \\sqrt{10}$",
+          "marks": 1
+        },
+        {
+          "point": "Calculate diagonal lengths $AC$ and $BD$",
+          "marks": 1
+        },
+        {
+          "point": "Show diagonals are equal $\\sqrt{(-2-2)^2 + (-1-1)^2} = \\sqrt{20}$ and conclude it is a square",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 4,
+      "explanationAnswer": "All sides measure $\\sqrt{10}$ and diagonals measure $\\sqrt{20}$. Since all sides are equal and diagonals are equal, the figure is a square.",
+      "explanationQuestion": "This tests the application of the distance formula to verify properties of a geometric quadrilateral.",
+      "correctAnswer": "It is a square because all sides are equal and diagonals are equal.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C023",
+      "id": "A2.005",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "questionText": "To verify if points $R(-5, -1)$, $B(-2, -5)$, and $C(4, -12)$ are collinear, one can check if the sum of two smaller distances (e.g., $RB + BC$) equals the distance of the longest segment ($RC$).",
+      "correctAnswer": true,
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "marks": 1,
+      "explanationAnswer": "The condition for three points to be collinear is that the sum of the distances between two pairs of points equals the distance between the third pair.",
+      "explanationQuestion": "Tests the understanding of the collinearity condition in a 2D plane.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.006",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "questionText": "A point $P(x, y)$ lies on a circle with center at the origin $(0, 0)$ and radius $r$ if and only if $\\sqrt{x^2 + y^2} = r$.",
+      "correctAnswer": true,
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "marks": 1,
+      "explanationAnswer": "The definition of a circle is the locus of points at a constant distance $r$ from the center. Using the distance formula from $(0, 0)$, we get $\\sqrt{(x-0)^2 + (y-0)^2} = r$.",
+      "explanationQuestion": "Tests the application of the distance formula to define a geometric shape.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Consider a computer graphics program defining a coordinate plane. If a point $A$ is at $(3, 4)$ and a point $D$ is at $(7, 1)$, what is the distance $AD$ calculated using the Baudhayana-Pythagoras theorem?",
+      "options": [
+        {
+          "optionText": "$3$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$4$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$5$ units",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$7$ units",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 9,
+      "marks": 1,
+      "explanationAnswer": "The distance is $\\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16+9} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "The question tests the application of the distance formula derived from the Baudhayana-Pythagoras theorem in a coordinate plane.",
+      "correctAnswer": "$5$ units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C017",
+      "id": "A2.002",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "If point $M$ is at $(9, 6)$ and point $D$ is at $(7, 1)$, what is the length of segment $DM$?",
+      "options": [
+        {
+          "optionText": "$\\sqrt{29}$ units",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$\\sqrt{20}$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{40}$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$5$ units",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "$DM = \\sqrt{(9-7)^{2} + (6-1)^{2}} = \\sqrt{2^{2} + 5^{2}} = \\sqrt{4+25} = \\sqrt{29}$.",
+      "explanationQuestion": "Applying the distance formula to find the length of a segment between two specific points in the Cartesian plane.",
+      "correctAnswer": "$\\sqrt{29}$ units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.003",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: When a triangle is reflected across an axis in the coordinate plane, the lengths of its sides change because the coordinates are transformed.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflection is an isometry; it preserves lengths. The side lengths of a triangle remain invariant under reflection.",
+      "explanationQuestion": "Tests the understanding of geometric properties of reflection in a coordinate plane.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: For any two distinct points $P(x_{1}, y_{1})$ and $Q(x_{2}, y_{2})$, the distance $PQ$ is always equal to the distance $QP$.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "The distance formula $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$ is symmetric because the square of the difference is independent of the order of subtraction.",
+      "explanationQuestion": "Tests the symmetric property of the distance function in Euclidean space.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.005",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Given points $A(1, -8)$, $B(-4, 7)$, and $C(-7, -4)$, prove that these points lie on a circle centered at the origin $(0,0)$ and find the radius of this circle.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculate the distance of each point from the origin $(0,0)$ using the formula $d = \\sqrt{x^{2} + y^{2}}$.",
+          "marks": 2
+        },
+        {
+          "point": "Show $OA = \\sqrt{1^{2} + (-8)^{2}} = \\sqrt{65}$, $OB = \\sqrt{(-4)^{2} + 7^{2}} = \\sqrt{65}$, and $OC = \\sqrt{(-7)^{2} + (-4)^{2}} = \\sqrt{65}$.",
+          "marks": 1
+        },
+        {
+          "point": "Conclude that since all distances are equal, they lie on a circle with radius $\\sqrt{65}$.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 13,
+      "marks": 4,
+      "explanationAnswer": "The distance from the origin is constant at $\\sqrt{65}$.",
+      "explanationQuestion": "Application of distance formula to identify points on a circle.",
+      "correctAnswer": "Radius is $\\sqrt{65}$",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.006",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Plot points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$ on the Cartesian plane. Explain why $ABCD$ forms a square using coordinate distance calculations.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculate the lengths of all four sides $AB$, $BC$, $CD$, and $DA$ using the distance formula.",
+          "marks": 2
+        },
+        {
+          "point": "Show that $AB = BC = CD = DA = \\sqrt{10}$.",
+          "marks": 1
+        },
+        {
+          "point": "Verify that diagonals $AC$ and $BD$ are equal in length, confirming it is a square.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 4,
+      "explanationAnswer": "The sides are all equal to $\\sqrt{10}$ and diagonals are equal.",
+      "explanationQuestion": "Using coordinate geometry to prove properties of a square.",
+      "correctAnswer": "It is a square because all sides are equal and diagonals are equal.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Based on the derivation of the distance formula in the chapter, if a point A is at $(3, 4)$ and point D is at $(7, 1)$, what is the distance $AD$ calculated using the Baudhayana-Pythagoras Theorem?",
+      "options": [
+        {
+          "optionText": "$3$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$4$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$5$ units",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$7$ units",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Class 9 Ganita Manjari",
+      "pageNumber": 9,
+      "marks": 1,
+      "explanationAnswer": "The distance formula is $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$. Here, $\\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16+9} = \\sqrt{25} = 5$ units.",
+      "explanationQuestion": "The question asks to apply the distance formula derived from the Baudhayana-Pythagoras theorem on the provided coordinates in the text.",
+      "correctAnswer": "$5$ units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.002",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Explain how the distance between two points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is derived using the Baudhayana-Pythagoras Theorem as shown in the textbook.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify that the horizontal distance between points is $|x_{2}-x_{1}|$.",
+          "marks": 1
+        },
+        {
+          "point": "Identify that the vertical distance between points is $|y_{2}-y_{1}|$.",
+          "marks": 1
+        },
+        {
+          "point": "State that these form the two sides of a right-angled triangle with the distance between points as the hypotenuse.",
+          "marks": 1
+        },
+        {
+          "point": "Apply the theorem $c^{2} = a^{2} + b^{2}$ to arrive at the formula $d = \\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "NCERT - Class 9 Ganita Manjari",
+      "pageNumber": 10,
+      "marks": 4,
+      "explanationAnswer": "The derivation relies on creating a right triangle where the horizontal leg is the difference in x-coordinates and the vertical leg is the difference in y-coordinates, then using the Pythagoras theorem to find the hypotenuse.",
+      "explanationQuestion": "The question requires explaining the geometric derivation of the distance formula.",
+      "correctAnswer": "Derivation using a right triangle and Pythagoras theorem.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In the experiment of pinning threads to a grid to represent a room (Fig 1.1), if the scale is $1\\text{ cm} : 1\\text{ foot}$, then a distance of $5\\text{ cm}$ on the sketch represents a physical room distance of $5\\text{ feet}$.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "NCERT - Class 9 Ganita Manjari",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "The scale $1\\text{ cm} : 1\\text{ foot}$ implies a direct linear conversion where $1\\text{ cm}$ on the map equals $1\\text{ foot}$ in reality.",
+      "explanationQuestion": "The question tests the understanding of scale conversion used in the practical activity.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.004",
+      "topic": "Page 9: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 9-10 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If you were to map a room using pins and threads as described in the activity, why is it necessary to define an origin $(0, 0)$ and a standard scale before marking points?",
+      "subjective_evaluation_points": [
+        {
+          "point": "Defining an origin provides a fixed reference point to measure all other coordinates.",
+          "marks": 1
+        },
+        {
+          "point": "A standard scale ensures that the relative proportions and actual physical dimensions are maintained accurately in the sketch.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "NCERT - Class 9 Ganita Manjari",
+      "pageNumber": 3,
+      "marks": 2,
+      "explanationAnswer": "The origin and scale are fundamental to creating a consistent coordinate system that allows for accurate distance and position calculation.",
+      "explanationQuestion": "The question requires conceptual understanding of the practical activity's requirements.",
+      "correctAnswer": "To ensure fixed reference and accurate dimensional representation.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "What is the general formula to calculate the distance between two points $P_{1}(x_{1}, y_{1})$ and $P_{2}(x_{2}, y_{2})$ in a 2-D Cartesian plane?",
+      "options": [
+        {
+          "optionText": "$\\sqrt{(x_{2} + x_{1})^{2} + (y_{2} + y_{1})^{2}}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{(x_{2} - y_{2})^{2} + (x_{1} - y_{1})^{2}}$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "The distance formula derived from the Baudhayana-Pythagoras theorem is the square root of the sum of the squares of the differences of the x and y coordinates.",
+      "explanationQuestion": "This question tests the recall of the fundamental distance formula used in 2D coordinate geometry.",
+      "correctAnswer": "$\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "When a geometric figure like a triangle is reflected across an axis in the Cartesian plane, the lengths of its sides change due to the shift in coordinates.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "Reflection is an isometry; it preserves the distance between points and thus the lengths of the sides of the figure remain unchanged.",
+      "explanationQuestion": "This question tests the understanding of geometric properties under reflection as discussed in the text.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.003",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "If a point $P$ has a negative x-coordinate and a positive y-coordinate, in which quadrant does it lie?",
+      "options": [
+        {
+          "optionText": "Quadrant I",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Quadrant III",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant IV",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "In the Cartesian plane, Quadrant II is defined by negative x-values and positive y-values.",
+      "explanationQuestion": "Tests the comprehension of quadrant sign conventions.",
+      "correctAnswer": "Quadrant II",
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A2.004",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "For any point lying on the x-axis, its ______ coordinate is always zero, and for any point on the y-axis, its ______ coordinate is always zero.",
+      "blanks": [
+        "y",
+        "x"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 4,
+      "marks": 1,
+      "explanationAnswer": "The x-axis is defined by y=0, and the y-axis is defined by x=0.",
+      "explanationQuestion": "Tests comprehension of axis definitions.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.005",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Calculate the distance between points $A(3, 4)$ and $D(7, 1)$ using the distance formula.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify $x_{1}=3, y_{1}=4, x_{2}=7, y_{2}=1$.",
+          "marks": 1
+        },
+        {
+          "point": "Substitute into formula: $\\sqrt{(7-3)^{2} + (1-4)^{2}}$",
+          "marks": 1
+        },
+        {
+          "point": "Calculate squares: $\\sqrt{4^{2} + (-3)^{2}} = \\sqrt{16+9}$",
+          "marks": 1
+        },
+        {
+          "point": "Final result: $\\sqrt{25} = 5$ units.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is $\\sqrt{(7-3)^{2} + (1-4)^{2}} = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{25} = 5$.",
+      "explanationQuestion": "Tests the application of the distance formula.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.006",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given points $A(1, -8)$, $B(-4, 7)$, and $C(-7, -4)$, show that they are equidistant from the origin $O(0, 0)$. What is the radius of the circle passing through these points?",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculate $OA = \\sqrt{1^{2} + (-8)^{2}} = \\sqrt{65}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculate $OB = \\sqrt{(-4)^{2} + 7^{2}} = \\sqrt{16+49} = \\sqrt{65}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculate $OC = \\sqrt{(-7)^{2} + (-4)^{2}} = \\sqrt{49+16} = \\sqrt{65}$.",
+          "marks": 1
+        },
+        {
+          "point": "Since all distances equal $\\sqrt{65}$, the radius is $\\sqrt{65}$.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "All points are at a distance of $\\sqrt{65}$ from the origin, satisfying the condition for a circle with radius $\\sqrt{65}$.",
+      "explanationQuestion": "Tests application of distance formula to verify points on a circle.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "If a triangle $\\Delta ADM$ with vertices $A(3, 4)$, $D(7, 1)$, and $M(9, 6)$ is reflected across the y-axis to form $\\Delta A'D'M'$, what is the calculated length of side $D'M'$?",
+      "options": [
+        {
+          "optionText": "$\\sqrt{20}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{29}$",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$\\sqrt{40}$",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{13}$",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflection across the y-axis transforms $(x, y)$ to $(-x, y)$. Thus, $D(7, 1)$ becomes $D'(-7, 1)$ and $M(9, 6)$ becomes $M'(-9, 6)$. The distance $D'M' = \\sqrt{(-9 - (-7))^{2} + (6 - 1)^{2}} = \\sqrt{(-2)^{2} + 5^{2}} = \\sqrt{4 + 25} = \\sqrt{29}$.",
+      "explanationQuestion": "This question requires understanding coordinate reflection and applying the distance formula.",
+      "correctAnswer": "$\\sqrt{29}$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Consider the reflection of triangle $\\Delta ADM$ across the y-axis. Which property of the side lengths is preserved in the reflected triangle $\\Delta A'D'M'$?",
+      "options": [
+        {
+          "optionText": "The lengths of the sides are changed by a factor of -1.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The lengths of the sides remain exactly the same.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The lengths of the sides are squared.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The lengths of the sides become zero.",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "Reflection is an isometry (rigid transformation), which means it preserves distances between points. Therefore, side lengths remain invariant.",
+      "explanationQuestion": "This tests the conceptual understanding of geometric properties preserved under reflection.",
+      "correctAnswer": "The lengths of the sides remain exactly the same.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.003",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Points $A(1, -8)$, $B(-4, 7)$, and $C(-7, -4)$ lie on a circle centered at the origin $(0, 0)$. Calculate the radius of this circle and determine if a point $P(6, 8)$ lies on, inside, or outside this circle.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 13,
+      "marks": 4,
+      "explanationAnswer": "Radius $r = \\sqrt{1^{2} + (-8)^{2}} = \\sqrt{1 + 64} = \\sqrt{65}$. For $P(6, 8)$, distance $OP = \\sqrt{6^{2} + 8^{2}} = \\sqrt{36 + 64} = \\sqrt{100} = 10$. Since $10 > \\sqrt{65}$, the point lies outside the circle.",
+      "explanationQuestion": "Requires applying the distance formula from the origin to verify circle membership.",
+      "correctAnswer": "Radius is $\\sqrt{65}$; Point $P$ is outside.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly calculates the radius using the distance formula from the origin.",
+          "marks": 2
+        },
+        {
+          "point": "Correctly calculates the distance of point P from the origin.",
+          "marks": 1
+        },
+        {
+          "point": "Correctly compares the distances to conclude point P is outside.",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "C024",
+      "id": "A2.004",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Evaluation",
+      "difficulty": "hard",
+      "questionText": "Given $M(-7, 1)$ is the midpoint of segment $AB$, where $A(3, -4)$ and $B(x, y)$, find the coordinates of point $B$. Show your steps.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 13,
+      "marks": 2,
+      "explanationAnswer": "Midpoint formula: $x_{M} = \\frac{x_{A} + x_{B}}{2} \\implies -7 = \\frac{3 + x}{2} \\implies -14 = 3 + x \\implies x = -17$. Similarly, $y_{M} = \\frac{y_{A} + y_{B}}{2} \\implies 1 = \\frac{-4 + y}{2} \\implies 2 = -4 + y \\implies y = 6$. Thus, $B(-17, 6)$.",
+      "explanationQuestion": "Tests the application of the midpoint formula to find an unknown endpoint.",
+      "correctAnswer": "$B(-17, 6)$",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly sets up the midpoint equations for x and y coordinates.",
+          "marks": 1
+        },
+        {
+          "point": "Correctly solves for x and y to find the coordinates of B.",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "For points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$, which of the following statements are true regarding the quadrilateral $ABCD$?",
+      "options": [
+        {
+          "optionText": "The lengths of all sides are equal to $\\sqrt{10}$."
+        },
+        {
+          "optionText": "The length of diagonal $AC$ is $\\sqrt{4}$."
+        },
+        {
+          "optionText": "The length of diagonal $BD$ is $\\sqrt{16}$."
+        },
+        {
+          "optionText": "The quadrilateral is a square."
+        }
+      ],
+      "multi": [
+        "The lengths of all sides are equal to $\\sqrt{10}$.",
+        "The quadrilateral is a square."
+      ],
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "Side $AB = \\sqrt{(-1-2)^2 + (2-1)^2} = \\sqrt{9+1} = \\sqrt{10}$. All sides equal $\\sqrt{10}$. Diagonals $AC = \\sqrt{(-2-2)^2 + (-1-1)^2} = \\sqrt{16+4} = \\sqrt{20}$. $BD = \\sqrt{(1-(-1))^2 + (-2-2)^2} = \\sqrt{4+16} = \\sqrt{20}$. Since sides are equal and diagonals are equal, it is a square.",
+      "explanationQuestion": "Requires determining the nature of a quadrilateral using distance calculations.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C029",
+      "id": "A2.006",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "Two circular icons with radii $80$ pixels are drawn on a screen with centers $A(100, 150)$ and $B(250, 230)$. The distance between the centers is less than the sum of their radii, meaning the circles intersect.",
+      "options": null,
+      "correctAnswer": false,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "Distance $AB = \\sqrt{(250-100)^2 + (230-150)^2} = \\sqrt{150^2 + 80^2} = \\sqrt{22500 + 6400} = \\sqrt{28900} = 170$. Sum of radii = $80 + 80 = 160$. Since $170 > 160$, the circles do not intersect.",
+      "explanationQuestion": "Tests the intersection condition for two circles using distance between centers.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "In a coordinate geometry simulation, a robot moves from point $A(3, 4)$ to point $D(7, 1)$. If the robot then reflects its path across the $y$-axis to reach new coordinates $A'(-3, 4)$ and $D'(-7, 1)$, what is the distance $D'M'$ where $M'$ is the reflected image of $M(9, 6)$?",
+      "options": [
+        {
+          "optionText": "$\\sqrt{29}$ units",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$\\sqrt{40}$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{5}$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{13}$ units",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 11,
+      "marks": 1,
+      "explanationAnswer": "The distance formula is $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$. For $D'(-7, 1)$ and $M'(-9, 6)$, distance = $\\sqrt{(-9 - (-7))^{2} + (6 - 1)^{2}} = \\sqrt{(-2)^{2} + 5^{2}} = \\sqrt{4 + 25} = \\sqrt{29}$.",
+      "explanationQuestion": "The question tests the application of the distance formula after a geometric reflection across the y-axis.",
+      "correctAnswer": "$\\sqrt{29}$ units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "Consider triangle $ADM$ with vertices $A(3, 4)$, $D(7, 1)$, and $M(9, 6)$. If this triangle is reflected across the $x$-axis, explain why the side lengths remain preserved and calculate the new length of side $AM$ after reflection.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Explains that reflection is an isometry (rigid transformation) which preserves distance between points.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates the original length of $AM = \\sqrt{(9-3)^{2} + (6-4)^{2}} = \\sqrt{6^{2} + 2^{2}} = \\sqrt{40}$.",
+          "marks": 1
+        },
+        {
+          "point": "States that the reflected length is identical to the original length, $\\sqrt{40}$ units.",
+          "marks": 1
+        }
+      ],
+      "marks": 2,
+      "explanationAnswer": "Reflection is a rigid transformation that preserves distances. The original length $AM = \\sqrt{(9-3)^{2} + (6-4)^{2}} = \\sqrt{36+4} = \\sqrt{40}$. After reflection, the new coordinates are $A(3, -4)$ and $M(9, -6)$, and the distance remains $\\sqrt{(9-3)^{2} + (-6 - (-4))^{2}} = \\sqrt{6^{2} + (-2)^{2}} = \\sqrt{40}$.",
+      "explanationQuestion": "This question requires understanding the properties of geometric reflections in the Cartesian plane.",
+      "correctAnswer": "The side length remains $\\sqrt{40}$ units because reflection preserves distance.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.003",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: For any two distinct points $P(x_{1}, y_{1})$ and $Q(x_{2}, y_{2})$, the distance $PQ$ is calculated as $\\sqrt{(x_{1}-x_{2})^{2} + (y_{1}-y_{2})^{2}}$. Reason: The distance formula is invariant to the order of subtraction of coordinates because the square of a negative number is positive.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "The distance formula is derived from the Pythagorean theorem, and since $(a-b)^{2} = (b-a)^{2}$, the order of subtraction does not change the result.",
+      "explanationQuestion": "Tests the fundamental properties of the distance formula.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The point $(x, y)$ always coincides with $(y, x)$ on the Cartesian plane. Reason: The coordinate system is symmetric about the line $y = x$.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "The point $(x, y)$ only coincides with $(y, x)$ if $x = y$. For any other case, the points are reflections of each other across the line $y = x$.",
+      "explanationQuestion": "Tests the understanding of coordinate order and the line of symmetry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.005",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "A circle $K$ is centered at the origin $(0, 0)$. If point $A(1, -8)$ lies on the circle, what is the radius of the circle, and does point $P(-5, 6)$ lie inside, outside, or on the circle?",
+      "options": [
+        {
+          "optionText": "Radius $\\sqrt{65}$, Point $P$ is inside",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Radius $\\sqrt{65}$, Point $P$ is outside",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Radius $9$, Point $P$ is on the circle",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Radius $8$, Point $P$ is inside",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 13,
+      "marks": 1,
+      "explanationAnswer": "Radius $r = \\sqrt{1^{2} + (-8)^{2}} = \\sqrt{1+64} = \\sqrt{65}$. For $P(-5, 6)$, distance from origin = $\\sqrt{(-5)^{2} + 6^{2}} = \\sqrt{25+36} = \\sqrt{61}$. Since $\\sqrt{61} < \\sqrt{65}$, the point lies inside.",
+      "explanationQuestion": "Tests the ability to determine distances from the origin and compare them to a radius.",
+      "correctAnswer": "Radius $\\sqrt{65}$, Point $P$ is inside",
+      "set": "A"
+    },
+    {
+      "conceptId": "C024",
+      "id": "A2.006",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Given $M(-7, 1)$ is the midpoint of segment $AB$, where $A$ is $(3, -4)$, determine the coordinates of point $B(x, y)$.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Uses the midpoint formula: $x_{m} = (x_{1} + x_{2}) / 2$ and $y_{m} = (y_{1} + y_{2}) / 2$.",
+          "marks": 1
+        },
+        {
+          "point": "Sets up equations: $-7 = (3 + x) / 2$ and $1 = (-4 + y) / 2$.",
+          "marks": 1
+        },
+        {
+          "point": "Solves for $x$: $3 + x = -14 \\implies x = -17$.",
+          "marks": 1
+        },
+        {
+          "point": "Solves for $y$: $-4 + y = 2 \\implies y = 6$. Coordinates are $(-17, 6)$.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "Using the midpoint formula $M = (\\frac{x_{1}+x_{2}}{2}, \\frac{y_{1}+y_{2}}{2})$, we get $-7 = \\frac{3+x}{2} \\implies x = -17$ and $1 = \\frac{-4+y}{2} \\implies y = 6$. The point is $(-17, 6)$.",
+      "explanationQuestion": "Tests the ability to perform inverse calculations using the midpoint formula.",
+      "correctAnswer": "B is $(-17, 6)$",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.001",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Given a triangle with vertices $A(3, 4)$, $D(7, 1)$, and $M(9, 6)$, what is the length of side $DM$ calculated using the distance formula $\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$?",
+      "options": [
+        {
+          "optionText": "$\\sqrt{20}$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{29}$ units",
+          "isCorrect": true
+        },
+        {
+          "optionText": "$\\sqrt{35}$ units",
+          "isCorrect": false
+        },
+        {
+          "optionText": "$\\sqrt{40}$ units",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 10,
+      "marks": 1,
+      "explanationAnswer": "Using $D(7, 1)$ and $M(9, 6)$, the distance $DM = \\sqrt{(9 - 7)^{2} + (6 - 1)^{2}} = \\sqrt{2^{2} + 5^{2}} = \\sqrt{4 + 25} = \\sqrt{29}$.",
+      "explanationQuestion": "The question asks for the distance between two specific points $D$ and $M$ identified in the textbook diagrams.",
+      "correctAnswer": "$\\sqrt{29}$ units",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C019",
+      "id": "A2.002",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "When triangle $ADM$ is reflected across the $y$-axis to form $A'D'M'$, the length of side $D'M'$ is equal to the length of side $DM$.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "As stated in the text, reflection preserves the lengths of the sides of the geometric figure.",
+      "explanationQuestion": "This tests the concept of geometric transformations (reflection) and its effect on distance properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If a student maps a rectangular room on a coordinate grid where the bottom-left corner is $(0,0)$ and the top-right corner is $(12, 10)$, calculate the diagonal distance of the room floor using the distance formula. Show your steps.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies the two opposite corner coordinates as $(0,0)$ and $(12,10)$.",
+          "marks": 1
+        },
+        {
+          "point": "Correctly applies the distance formula $d = \\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.",
+          "marks": 1
+        },
+        {
+          "point": "Substitutes values: $\\sqrt{(12-0)^{2} + (10-0)^{2}}$.",
+          "marks": 1
+        },
+        {
+          "point": "Final calculation: $\\sqrt{144 + 100} = \\sqrt{244} \\approx 15.62$ units.",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is $\\sqrt{12^{2} + 10^{2}} = \\sqrt{144 + 100} = \\sqrt{244} \\approx 15.62$ units.",
+      "explanationQuestion": "Practical application of coordinate geometry to measure physical space.",
+      "correctAnswer": "$\\sqrt{244}$ or approximately 15.62 units",
+      "set": "A"
+    },
+    {
+      "conceptId": "C027",
+      "id": "A2.004",
+      "topic": "Page 11: 1.4 DISTANCE BETWEEN TWO POINTS IN THE 2-D PLANE (Pages 11-13 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200$ m apart, if a person moves from intersection $(2, 5)$ to $(4, 3)$, the distance covered in the $x$-direction is ______ units and the distance covered in the $y$-direction is ______ units.",
+      "blanks": [
+        "2",
+        "2"
+      ],
+      "marks": 1,
+      "explanationAnswer": "Change in $x = 4 - 2 = 2$. Change in $y = 3 - 5 = -2$. The absolute distance (magnitude) is 2.",
+      "explanationQuestion": "Tests the ability to interpret grid-based coordinate movements.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "In the Cartesian plane, which quadrant contains points where both the x-coordinate and y-coordinate are negative?",
+      "options": [
+        {
+          "optionText": "Quadrant I",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant III",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Quadrant IV",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "By definition, the third quadrant is characterized by points $(x, y)$ where $x < 0$ and $y < 0$.",
+      "explanationQuestion": "The question asks to identify the quadrant based on the sign convention of coordinate axes.",
+      "correctAnswer": "Quadrant III",
+      "set": "A"
+    },
+    {
+      "conceptId": "C006",
+      "id": "A2.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "The coordinates of the origin, which is the point of intersection of the x-axis and the y-axis, are defined as $(1, 1)$.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The origin is defined as the point $(0, 0)$, not $(1, 1)$.",
+      "explanationQuestion": "The question tests the fundamental definition of the origin in a Cartesian coordinate system.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "For any two distinct real numbers $x$ and $y$, the point $(x, y)$ is identical to the point $(y, x)$.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "If $x \\neq y$, the order of coordinates matters, so $(x, y) \\neq (y, x)$.",
+      "explanationQuestion": "The question tests the comprehension of coordinate ordering in 2D space.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "According to the distance formula derived from the Baudhayana-Pythagoras Theorem, the distance between points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is given by $\\sqrt{______ + ______}$.",
+      "blanks": [
+        "(x_{2} - x_{1})^{2}",
+        "(y_{2} - y_{1})^{2}"
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The distance formula is $\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$.",
+      "explanationQuestion": "The question requires recalling the standard distance formula structure.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A2.005",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Explain why the coordinates of any point on the x-axis must be of the form $(x, 0)$ and provide a geometric justification.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly states that the y-coordinate represents the perpendicular distance from the x-axis.",
+          "marks": 1
+        },
+        {
+          "point": "Explains that for any point on the x-axis, the perpendicular distance from the x-axis is zero, hence y=0.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 2,
+      "explanationAnswer": "A point on the x-axis has no vertical displacement from the axis, meaning its distance from the x-axis is zero. Thus, its y-coordinate is 0.",
+      "explanationQuestion": "This requires applying the definition of coordinates to a specific geometric scenario.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.006",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Calculate the distance between the points $P(3, 4)$ and $Q(6, 8)$ using the distance formula.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies the formula $\\sqrt{(x_{2}-x_{1})^{2} + (y_{2}-y_{1})^{2}}$.",
+          "marks": 1
+        },
+        {
+          "point": "Substitutes values correctly: $\\sqrt{(6-3)^{2} + (8-4)^{2}} = \\sqrt{3^{2} + 4^{2}} = \\sqrt{9+16} = \\sqrt{25}$.",
+          "marks": 1
+        },
+        {
+          "point": "States the final result as 5 units.",
+          "marks": 2
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 4,
+      "explanationAnswer": "Distance = $\\sqrt{(6-3)^{2} + (8-4)^{2}} = \\sqrt{3^{2} + 4^{2}} = 5$.",
+      "explanationQuestion": "This tests the application of the distance formula to specific coordinates.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C029",
+      "id": "A2.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "A computer graphics program displays images on a screen where the origin $(0, 0)$ is the bottom-left corner. A circular icon with radius $80$ pixels is centered at point $A(100, 150)$. If the screen is $800$ pixels wide and $600$ pixels high, which of the following is true regarding the circle's position?",
+      "options": [
+        {
+          "optionText": "The circle is entirely contained within the screen boundaries.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The circle intersects the left edge of the screen.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The circle intersects the bottom edge of the screen.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The circle lies outside the screen boundary.",
+          "isCorrect": false
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The circle has center $(100, 150)$ and radius $80$. The minimum x-coordinate is $100 - 80 = 20$, and maximum x-coordinate is $100 + 80 = 180$. The minimum y-coordinate is $150 - 80 = 70$, and maximum y-coordinate is $150 + 80 = 230$. Since all these values are within the screen limits $[0, 800]$ and $[0, 600]$, the circle is entirely inside.",
+      "explanationQuestion": "This question requires evaluating the boundary conditions of a circle within a rectangular coordinate grid.",
+      "correctAnswer": "The circle is entirely contained within the screen boundaries.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C027",
+      "id": "A2.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "A city has roads running North-South and East-West at uniform intervals of $200$ m. Using a scale of $1$ cm $= 200$ m, represent the grid. If an intersection is marked as $(2, 5)$ where $2$ is the second street in N-S direction and $5$ is the fifth street in E-W direction, determine how many intersections exist if there are $10$ streets in each direction. Explain the logic of identifying intersections as ordered pairs.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies that for $10$ streets in each direction, there are $10 \times 10 = 100$ total street intersections.",
+          "marks": 1
+        },
+        {
+          "point": "Explains that ordered pairs $(x, y)$ uniquely identify the intersection of the $x^{th}$ N-S street and $y^{th}$ E-W street, acting as a coordinate system.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 2,
+      "explanationAnswer": "Total intersections are $10 \times 10 = 100$. The ordered pair convention allows for unique identification of grid crossings, analogous to the Cartesian plane.",
+      "explanationQuestion": "This question tests the application of coordinate systems to real-world grid layouts.",
+      "correctAnswer": "100 intersections; the ordered pair provides a unique grid reference.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: For any two distinct points $P(x, y)$ and $Q(y, x)$ where $x \\neq y$, the distance from the origin remains the same. Reason: The coordinates are commutative in distance calculations from the origin.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The distance from the origin is $\\sqrt{x^{2} + y^{2}}$. If we swap coordinates to $(y, x)$, the distance is $\\sqrt{y^{2} + x^{2}}$, which is identical.",
+      "explanationQuestion": "This tests the property of coordinate symmetry regarding the origin.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The point $(3, 4)$ and $(4, 3)$ represent the same location on a Cartesian plane. Reason: The order of coordinates in an ordered pair $(x, y)$ does not affect the location of the point.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The order of coordinates in an ordered pair defines the specific position. $(3, 4)$ is distinct from $(4, 3)$ unless $x=y$.",
+      "explanationQuestion": "This tests the fundamental definition of ordered pairs in coordinate geometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "multi",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Given points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$. Select the properties that verify $ABCD$ is a square.",
+      "options": [
+        {
+          "optionText": "All four sides have equal length of $\\sqrt{10}$ units."
+        },
+        {
+          "optionText": "The diagonals are perpendicular."
+        },
+        {
+          "optionText": "The diagonals have equal length of $\\sqrt{20}$ units."
+        },
+        {
+          "optionText": "The coordinates are all negative."
+        }
+      ],
+      "multi": [
+        "All four sides have equal length of $\\sqrt{10}$ units.",
+        "The diagonals are perpendicular.",
+        "The diagonals have equal length of $\\sqrt{20}$ units."
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The side length is $\\sqrt{(2 - (-1))^{2} + (1 - 2)^{2}} = \\sqrt{3^{2} + (-1)^{2}} = \\sqrt{10}$. The diagonals are $AC$ and $BD$, both length $\\sqrt{4^{2} + 2^{2}} = \\sqrt{20}$. Equal sides and equal diagonals confirm a square.",
+      "explanationQuestion": "This requires applying the distance formula to verify geometric properties.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.006",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Points $A(1, -8)$, $B(-4, 7)$, and $C(-7, -4)$ are given. Show that they lie on a circle centered at the origin $(0, 0)$ and find the radius of this circle. Justify your answer using the distance formula.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculates distance of $A$ from origin: $\\sqrt{1^{2} + (-8)^{2}} = \\sqrt{65}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates distance of $B$ from origin: $\\sqrt{(-4)^{2} + 7^{2}} = \\sqrt{16 + 49} = \\sqrt{65}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates distance of $C$ from origin: $\\sqrt{(-7)^{2} + (-4)^{2}} = \\sqrt{49 + 16} = \\sqrt{65}$.",
+          "marks": 1
+        },
+        {
+          "point": "Concludes all points are equidistant from the origin, confirming they lie on a circle with radius $\\sqrt{65}$.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 13,
+      "marks": 4,
+      "explanationAnswer": "Since the distance from the origin for all three points is $\\sqrt{65}$, they lie on a circle with radius $\\sqrt{65}$.",
+      "explanationQuestion": "This tests the definition of a circle in coordinate geometry based on distance from the center.",
+      "correctAnswer": "Radius is $\\sqrt{65}$.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "According to the chapter summary, if a point has coordinates $(x, y)$ where $x < 0$ and $y < 0$, in which quadrant does this point lie?",
+      "options": [
+        {
+          "optionText": "First Quadrant",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Second Quadrant",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Third Quadrant",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Fourth Quadrant",
+          "isCorrect": false
+        }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The summary states that points in the third quadrant have both x and y coordinates negative (-, -).",
+      "explanationQuestion": "This question tests the understanding of quadrant sign conventions as summarized on page 15.",
+      "correctAnswer": "Third Quadrant",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Indirect",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "The distance between two points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is calculated using the formula $\\sqrt{(x_{2} - x_{1}) + (y_{2} - y_{1})}$.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The formula provided in the summary is $\\sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$. The statement omits the squares.",
+      "explanationQuestion": "This tests the accuracy of the distance formula as defined in the summary.",
+      "correctAnswer": false,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If you are using a grid to map a room with a scale of $1 \\text{ cm} : 1 \\text{ foot}$, and you place a pin at $(2, 3)$ and another at $(5, 7)$ on this grid, calculate the physical distance between these two points in feet using the distance formula.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies coordinates as $(x_{1}, y_{1}) = (2, 3)$ and $(x_{2}, y_{2}) = (5, 7)$.",
+          "marks": 1
+        },
+        {
+          "point": "Applies the distance formula $d = \\sqrt{(5 - 2)^{2} + (7 - 3)^{2}}$.",
+          "marks": 1
+        },
+        {
+          "point": "Calculates $d = \\sqrt{3^{2} + 4^{2}} = \\sqrt{9 + 16} = \\sqrt{25}$.",
+          "marks": 1
+        },
+        {
+          "point": "Concludes the distance is $5$ feet, noting the scale $1 \\text{ cm} = 1 \\text{ foot}$.",
+          "marks": 1
+        }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 4,
+      "explanationAnswer": "The distance is $\\sqrt{(5-2)^{2} + (7-3)^{2}} = \\sqrt{3^{2} + 4^{2}} = 5$ units. Since $1 \\text{ unit} = 1 \\text{ foot}$, the distance is $5$ feet.",
+      "explanationQuestion": "This tests the application of the distance formula to a practical room-mapping scenario.",
+      "correctAnswer": "5 feet",
+      "set": "A"
+    },
+    {
+      "conceptId": "C027",
+      "id": "A2.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Indirect",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "In a city grid where streets are $200 \\text{ m}$ apart, if a street intersection is defined as $(2, 5)$, where the first coordinate is the N-S street and the second is the E-W street, the intersection $(4, 3)$ represents the ______ street in the N-S direction and the ______ street in the E-W direction.",
+      "blanks": [
+        "4th",
+        "3rd"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "Following the convention provided in Problem 14, $(x, y)$ corresponds to the x-th N-S street and y-th E-W street.",
+      "explanationQuestion": "Tests understanding of custom coordinate conventions established in the practical exercises.",
+      "correctAnswer": null,
+      "set": "A"
+    }
+  ],
+  "validationMeta": {
+    "totalInput": 148,
+    "passed": 148,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  }
+}

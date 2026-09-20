@@ -1,0 +1,1688 @@
+{
+  "subject": "Artificial Intelligence",
+  "grade": 10,
+  "chapterName": "Cartisan and Coordination ",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "REV-A1.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "A student calculates the distance between two points $(2, 3)$ and $(5, 7)$ using the expression $\\sqrt{(5-2)^2 + (7-3)^2}$. Which geometric principle justifies the validity of this specific algebraic structure for finding the length of the segment connecting these points?",
+      "options": [
+        {
+          "optionText": "The Midpoint Theorem",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The Baudhayana-Pythagoras Theorem",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The Slope-Intercept Form",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The Law of Cosines",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "The Baudhayana-Pythagoras Theorem",
+      "explanationAnswer": "The distance formula is derived by constructing a right-angled triangle where the horizontal leg is the difference in x-coordinates and the vertical leg is the difference in y-coordinates, applying the Baudhayana-Pythagoras Theorem.",
+      "explanationQuestion": "Identify the underlying theorem that allows the conversion of coordinate differences into a straight-line distance.",
+      "marks": 1,
+      "pageNumber": 15,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "REV-A1.005",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Consider two distinct points $P(a, b)$ and $Q(b, a)$ where $a \\neq b$. If these points are plotted on a Cartesian plane, which of the following statements is mathematically accurate regarding their positions?",
+      "options": [
+        {
+          "optionText": "The points are identical because the set of coordinates is the same.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The points are reflections of each other across the line y = x.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The points must lie on the same axis.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The distance between the points is zero.",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "The points are reflections of each other across the line y = x.",
+      "explanationAnswer": "Since the order of coordinates defines the position, swapping x and y results in a different point. Specifically, $(a, b)$ and $(b, a)$ are symmetric with respect to the line $y=x$.",
+      "explanationQuestion": "Analyze the effect of swapping coordinates on the location of a point in the Cartesian plane.",
+      "marks": 1,
+      "pageNumber": 15,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "REV-A1.006",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "A point $P$ has coordinates $(x, y)$. If it is known that $x > 0$ and $y = 0$, where is point $P$ located in the Cartesian plane?",
+      "options": [
+        {
+          "optionText": "On the y-axis",
+          "isCorrect": false
+        },
+        {
+          "optionText": "At the origin",
+          "isCorrect": false
+        },
+        {
+          "optionText": "In the first quadrant",
+          "isCorrect": false
+        },
+        {
+          "optionText": "On the positive x-axis",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswer": "On the positive x-axis",
+      "explanationAnswer": "Any point with a y-coordinate of 0 lies on the x-axis. Since x is positive, it lies specifically on the positive side of the x-axis.",
+      "explanationQuestion": "Determine the location of a point based on the constraints of its coordinate values.",
+      "marks": 1,
+      "pageNumber": 15,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "REV-S001.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "A student observes that the distance between two points on a Cartesian plane can be represented as the hypotenuse of a right-angled triangle. If the horizontal leg of this triangle has a length of |x2 - x1| and the vertical leg has a length of |y2 - y1|, derive the mathematical expression for the distance between these two points and justify why the Baudhayana-Pythagoras Theorem is the fundamental basis for this derivation.",
+      "options": null,
+      "correctAnswer": "The distance is sqrt((x2 - x1)^2 + (y2 - y1)^2). The theorem states that in a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides, which directly maps to the distance formula.",
+      "explanationAnswer": "By applying the Baudhayana-Pythagoras Theorem (a^2 + b^2 = c^2) to the right triangle formed by the coordinates, where the legs are the differences in x and y coordinates, we get d^2 = (x2 - x1)^2 + (y2 - y1)^2. Taking the square root yields the distance formula.",
+      "explanationQuestion": "The question requires the student to work backwards from the geometric construction of the distance formula to its algebraic representation and theoretical justification.",
+      "marks": 4,
+      "pageNumber": 15,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/textbook.php?iemh1=0-15",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "State that in a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides (Baudhayana-Pythagoras Theorem).",
+          "marks": 1
+        },
+        {
+          "point": "Express the lengths of the horizontal and vertical legs as |x2 - x1| and |y2 - y1| respectively.",
+          "marks": 1
+        },
+        {
+          "point": "Set up the equation d^2 = (x2 - x1)^2 + (y2 - y1)^2 using the theorem.",
+          "marks": 1
+        },
+        {
+          "point": "Solve for d to derive the distance formula d = sqrt((x2 - x1)^2 + (y2 - y1)^2).",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "C001",
+      "id": "REV-M9.1.001",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "A cartographer needs to create a system that assigns numerical values to specific points on a map to identify their exact physical locations. What is the mathematical term for this type of framework?",
+      "options": [
+        {
+          "optionText": "A coordinate system",
+          "isCorrect": true
+        },
+        {
+          "optionText": "A chronological timeline",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A geometric polygon calculator",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A thermal measurement scale",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "A coordinate system",
+      "explanationAnswer": "The definition provided describes a coordinate system, which acts as a structured framework using numbers to define physical locations.",
+      "explanationQuestion": "Identify the term that matches the description of a numerical framework for locating points.",
+      "marks": 1,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C001",
+      "id": "REV-M9.1.004",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "multi",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "If a student is asked to identify the essential characteristics that allow a mathematical framework to function as a coordinate system, which of the following features must be present?",
+      "options": [
+        {
+          "optionText": "It must function as a structured framework."
+        },
+        {
+          "optionText": "It must be capable of being visualized as grid lines."
+        },
+        {
+          "optionText": "It must use numbers to map physical locations."
+        },
+        {
+          "optionText": "It must be used exclusively for measuring time intervals."
+        }
+      ],
+      "multi": [
+        "It must function as a structured framework.",
+        "It must be capable of being visualized as grid lines.",
+        "It must use numbers to map physical locations."
+      ],
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "A coordinate system is defined by its structure, its grid-like visualization, and its use of numbers for spatial location. Measuring time is not a defining characteristic of a spatial coordinate system.",
+      "explanationQuestion": "Select the properties that define a coordinate system.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "REV-M9.1.005",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "Which ancient civilization is historically credited with the first massive urban-scale application of grid systems for city planning?",
+      "options": [
+        {
+          "optionText": "The Sindhu-Sarasvatī Civilisation",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The Roman Empire",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The Mesopotamian Civilisation",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The Egyptian Civilisation",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "The Sindhu-Sarasvatī Civilisation",
+      "explanationAnswer": "Historical records indicate that the Sindhu-Sarasvatī Civilisation utilized grid layouts on a massive urban scale thousands of years ago.",
+      "explanationQuestion": "Identify the civilization known for early systematic grid usage.",
+      "marks": 1,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "REV-M9.1.006",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "truefalse",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "True or False: In the urban planning of the Sindhu-Sarasvatī Civilisation, the streets were laid out in a grid pattern with a uniform spacing of approximately 10 metres.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "True. The historical evidence confirms that the streets were spaced at intervals of about 10 metres, which demonstrates the precision of their urban planning.",
+      "explanationQuestion": "Evaluate the accuracy of the 10-metre spacing claim for Sindhu-Sarasvatī city grids.",
+      "correctAnswer": true,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C002",
+      "id": "REV-M9.1.008",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "matchfollowing",
+      "category": "Recall",
+      "difficulty": "hard",
+      "leftItems": [
+        "First systematic use of grids on a massive urban scale",
+        "Used East-West and North-South lines for deep geometric constructions",
+        "Described the latitudes and longitudes of thousands of locations",
+        "Formalised the notion and use of zero and negative numbers"
+      ],
+      "rightItems": [
+        "Sindhu-Sarasvatī Civilisation",
+        "Baudhāyana",
+        "Ptolemy",
+        "Brahmagupta"
+      ],
+      "correctMappings": [
+        {
+          "leftIndex": 0,
+          "rightIndex": 0
+        },
+        {
+          "leftIndex": 1,
+          "rightIndex": 1
+        },
+        {
+          "leftIndex": 2,
+          "rightIndex": 2
+        },
+        {
+          "leftIndex": 3,
+          "rightIndex": 3
+        }
+      ],
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "The matches are: Urban grids (Sindhu-Sarasvatī), Geometric lines (Baudhāyana), Latitudes/Longitudes (Ptolemy), Zero/Negative numbers (Brahmagupta).",
+      "explanationQuestion": "Match the historical achievement to the corresponding mathematician or civilization.",
+      "correctAnswer": null,
+      "set": "A",
+      "questionText": "Match the historical contributions in the left column with the figures or civilisations responsible for them in the right column."
+    },
+    {
+      "conceptId": "C003",
+      "id": "REV-M9.1.009",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "Which mathematician is noted for building upon Hipparchus's work to map thousands of locations using a system of latitudes and longitudes around 150 BCE?",
+      "options": [
+        {
+          "optionText": "Ptolemy",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Euclid",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Pythagoras",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Hipparchus",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "Ptolemy",
+      "explanationAnswer": "Ptolemy is the Greek mathematician who expanded on earlier work to document the coordinates of thousands of locations.",
+      "explanationQuestion": "Identify the mathematician who mapped locations using latitude and longitude.",
+      "marks": 1,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "REV-M9.1.013",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Recall",
+      "difficulty": "medium",
+      "questionText": "The development of the four-quadrant Cartesian plane relies fundamentally on the algebraic formalisation of which mathematical concepts?",
+      "options": [
+        {
+          "optionText": "Zero and negative numbers",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Prime numbers and fractions",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Sines and cosines",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Geometric area and volume",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "Zero and negative numbers",
+      "explanationAnswer": "Brahmagupta's work on zero and negative numbers provided the necessary algebraic foundation for the four-quadrant Cartesian plane.",
+      "explanationQuestion": "Identify the mathematical concepts that enabled the creation of the Cartesian plane.",
+      "marks": 1,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "REV-M9.1.016",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "multi",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "Brahmagupta's mathematical contributions were essential for the development of modern coordinate systems. Which of the following components of a Cartesian plane are direct consequences of his work?",
+      "options": [
+        {
+          "optionText": "The definition of the origin as zero."
+        },
+        {
+          "optionText": "The representation of values less than zero on negative axes."
+        },
+        {
+          "optionText": "The existence of a four-quadrant plane."
+        },
+        {
+          "optionText": "The use of trigonometric ratios for mapping."
+        }
+      ],
+      "multi": [
+        "The definition of the origin as zero.",
+        "The representation of values less than zero on negative axes.",
+        "The existence of a four-quadrant plane."
+      ],
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT - Textbook based",
+      "pageNumber": 1,
+      "marks": 1,
+      "explanationAnswer": "Brahmagupta's formalisation of zero and negative numbers allowed for the origin and the negative axes, which are the building blocks of the four-quadrant Cartesian plane.",
+      "explanationQuestion": "Select the features of the Cartesian plane derived from Brahmagupta's work.",
+      "correctAnswer": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C004",
+      "id": "REV-S001.003",
+      "topic": "Page 1: 1.1 INTRODUCTION",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "In the modern Cartesian coordinate system, the existence of the origin and the four-quadrant structure relies fundamentally on the mathematical formalization of zero and negative numbers as distinct algebraic entities. Which historical mathematician's work provided the essential foundation for these concepts, and how did it enable the development of the Cartesian plane?",
+      "options": null,
+      "correctAnswer": "Brahmagupta; his formalization of zero and negative numbers allowed for the definition of the origin and negative axes, which are prerequisites for the four-quadrant Cartesian plane.",
+      "explanationAnswer": "Brahmagupta's work (c. 628 CE) provided the algebraic framework for zero and negative numbers. Without these, the coordinate system would be restricted to positive values (first quadrant only), as there would be no mathematical basis for the origin (0,0) or the negative directions on the x and y axes.",
+      "explanationQuestion": "The student must identify the historical figure whose specific mathematical contributions (zero and negative numbers) are the logical prerequisites for the geometric structure of the Cartesian plane.",
+      "marks": 4,
+      "pageNumber": 1,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identification of Brahmagupta as the mathematician.",
+          "marks": 2
+        },
+        {
+          "point": "Explanation of how zero and negative numbers enable the origin and four-quadrant structure.",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "conceptId": "C038",
+      "id": "REV-A2.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Comprehension",
+      "difficulty": "medium",
+      "questionText": "A student wants to create a tactile model to help a visually impaired person understand the spatial layout of a room. Based on the method used by Shalini for Reiaan, which of the following setups would be most effective for this purpose?",
+      "options": [
+        {
+          "optionText": "A flat paper map with ink-drawn lines",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A rectangular grid structure using pins to mark points and threads to connect them",
+          "isCorrect": true
+        },
+        {
+          "optionText": "A series of verbal instructions recorded on a digital device",
+          "isCorrect": false
+        },
+        {
+          "optionText": "A set of standard measuring tapes placed on the floor",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "A rectangular grid structure using pins to mark points and threads to connect them",
+      "explanationAnswer": "The method of using pins and threads creates a tactile, physical representation of a coordinate system that can be felt, which is the specific technique Shalini employed to help Reiaan navigate his room.",
+      "explanationQuestion": "The question asks to identify the practical application of the tactile coordinate system described in the text.",
+      "marks": 1,
+      "pageNumber": 2,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "REV-A2.004",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "sourceType": "TB-Reversed",
+      "questionType": "multi",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "Shalini designed a tactile coordinate system for Reiaan. If you were to replicate the functional purpose of her design, which specific materials would you select to ensure the user can physically perceive the 'points' and 'lines' of the layout?",
+      "options": [
+        {
+          "optionText": "Pins"
+        },
+        {
+          "optionText": "Thick wool"
+        },
+        {
+          "optionText": "Digital screen"
+        },
+        {
+          "optionText": "Paint"
+        }
+      ],
+      "multi": [
+        "Pins",
+        "Thick wool"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 1,
+      "subjective_evaluation_points": null,
+      "explanationAnswer": "Pins are used to represent fixed points in the coordinate grid, while thick wool acts as the tactile lines connecting these points, allowing the user to feel the spatial relationships.",
+      "explanationQuestion": "The question requires identifying the specific components of the tactile model that serve the functions of points and lines.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "REV-S001.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "A teacher wants to teach a visually impaired student the concept of a coordinate system. If the teacher decides to use a tactile grid with pins and threads, what specific pedagogical challenges must be addressed to ensure the student successfully maps physical spatial relationships to abstract coordinate geometry?",
+      "options": null,
+      "correctAnswer": "The teacher must ensure the student understands that pins represent discrete points (ordered pairs) and threads represent the continuous nature of axes or lines, while also ensuring the student can consistently relate the tactile distance between pins to the numerical units of the coordinate system.",
+      "explanationAnswer": "To bridge the gap between physical space and abstract geometry, the student must learn to interpret the tactile grid as a formal system. This involves mapping the physical 'feel' of a pin's location to the abstract concept of (x, y) coordinates and understanding that the threads define the reference axes, which are essential for defining any point in a plane.",
+      "explanationQuestion": "The question asks for the pedagogical requirements and challenges involved in using a tactile grid to teach coordinate geometry, reversing the focus from the 'why' of the activity to the 'how' and the conceptual requirements for success.",
+      "marks": 4,
+      "pageNumber": 2,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Defining tactile representation of coordinate points (x, y) using pins.",
+          "marks": 1
+        },
+        {
+          "point": "Establishing the relationship between threads and the continuous nature of axis lines.",
+          "marks": 1
+        },
+        {
+          "point": "Translating physical distance between pins into consistent numerical units.",
+          "marks": 1
+        },
+        {
+          "point": "Addressing spatial-to-abstract cognitive mapping challenges for the student.",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "C014",
+      "id": "REV-S001.003",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "HOTS",
+      "difficulty": "hard",
+      "questionText": "A student claims that for any two points (a, b) and (b, a), the location on the Cartesian plane remains identical regardless of the values of a and b. Provide a mathematical counter-argument to disprove this claim, specifically addressing the relationship between coordinate order and axis distance.",
+      "options": null,
+      "correctAnswer": "The claim is false; (a, b) and (b, a) represent the same point only if a = b. Otherwise, they represent different distances from the x and y axes.",
+      "explanationAnswer": "The claim is incorrect because the Cartesian coordinate system is an ordered pair system. The first coordinate (x) measures distance from the y-axis, and the second coordinate (y) measures distance from the x-axis. If a is not equal to b, the point (a, b) will have a different horizontal and vertical displacement compared to (b, a), placing them at different locations in the plane.",
+      "explanationQuestion": "To disprove the claim, one must demonstrate that the order of coordinates is non-commutative. By defining the x and y components as distinct distances from the axes, it becomes clear that swapping them changes the geometric position unless the values are identical.",
+      "marks": 4,
+      "pageNumber": 4,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly identifying that Cartesian coordinates are ordered pairs.",
+          "marks": 1
+        },
+        {
+          "point": "Explaining that the first coordinate corresponds to the distance from the y-axis and the second to the x-axis.",
+          "marks": 1
+        },
+        {
+          "point": "Providing the condition a = b for points to be identical.",
+          "marks": 1
+        },
+        {
+          "point": "Concluding clearly that swapping coordinates changes the geometric position when a is not equal to b.",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "C010",
+      "id": "REV-A1.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Application",
+      "difficulty": "medium",
+      "questionText": "A point P(a, b) is plotted on a Cartesian plane such that its vertical distance from the origin is zero. Which of the following must be true regarding the coordinates of P?",
+      "options": [
+        {
+          "optionText": "The value of 'a' must be 0.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The value of 'b' must be 0.",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Both 'a' and 'b' must be 0.",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The value of 'a' must be equal to 'b'.",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "The value of 'b' must be 0.",
+      "explanationAnswer": "The vertical distance from the origin in a Cartesian plane is represented by the y-coordinate. If this distance is zero, the point must lie on the x-axis, meaning its y-coordinate (b) is 0.",
+      "explanationQuestion": "Identify the coordinate property corresponding to a zero vertical distance from the origin.",
+      "marks": 1,
+      "pageNumber": 4,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "REV-A1.005",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Analysis",
+      "difficulty": "hard",
+      "questionText": "A point Q has coordinates (-5, 8). In which quadrant of the Cartesian plane does this point lie?",
+      "options": [
+        {
+          "optionText": "Quadrant I",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Quadrant III",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant IV",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "Quadrant II",
+      "explanationAnswer": "In the Cartesian coordinate system, Quadrant II is defined by a negative x-coordinate and a positive y-coordinate (-, +). Since -5 is negative and 8 is positive, the point lies in Quadrant II.",
+      "explanationQuestion": "Analyze the signs of the given coordinates (-5, 8) to determine their quadrant location.",
+      "marks": 2,
+      "pageNumber": 6,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C021",
+      "id": "REV-S001.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "In the floor plan represented by Fig 1.3, a designer needs to place a new window of exactly 3.5 units in width, starting at the coordinate x = 2.0. If the window is represented by a line segment on the x-axis, determine the coordinate of the endpoint of this window and explain the mathematical relationship between the segment length and the coordinate system.",
+      "options": null,
+      "correctAnswer": "The window will span from x = 2.0 to x = 5.5. The endpoint is at 5.5, calculated by adding the width (3.5) to the starting coordinate (2.0).",
+      "explanationAnswer": "The length of a horizontal segment on the x-axis is defined by the absolute difference between its endpoints: |x2 - x1| = length. Given the start point x1 = 2.0 and length = 3.5, we solve 3.5 = |x2 - 2.0|. Since the window extends forward, x2 = 2.0 + 3.5 = 5.5.",
+      "explanationQuestion": "This question reverses the process of finding a length from coordinates to finding a coordinate from a specified length, requiring an understanding of the additive property of segments on a Cartesian axis.",
+      "marks": 4,
+      "pageNumber": 5,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://generativelanguage.googleapis.com/v1beta/files/q9g1pmb0jmx5",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly identifying the starting coordinate x1 = 2.0 and the window width = 3.5.",
+          "marks": 1
+        },
+        {
+          "point": "Applying the mathematical relationship: Length = |x2 - x1|.",
+          "marks": 1
+        },
+        {
+          "point": "Correctly calculating the endpoint x2 = 2.0 + 3.5 = 5.5.",
+          "marks": 1
+        },
+        {
+          "point": "Providing a clear explanation of the additive property of segments on the coordinate axis.",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "REV-S6.001",
+      "topic": "Spatial Reasoning",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "A room has a total floor area of 120 ft². If a wardrobe occupying 8 ft² is placed inside, what is the remaining usable floor area of the bedroom?",
+      "options": [
+        {
+          "optionText": "112 ft²",
+          "isCorrect": true
+        },
+        {
+          "optionText": "128 ft²",
+          "isCorrect": false
+        },
+        {
+          "optionText": "104 ft²",
+          "isCorrect": false
+        },
+        {
+          "optionText": "116 ft²",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "112 ft²",
+      "explanationAnswer": "The usable area is the total area minus the area occupied by the furniture. 120 - 8 = 112 ft².",
+      "explanationQuestion": "Subtract the area of the wardrobe from the total area of the bedroom to find the remaining space.",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "REV-S6.002",
+      "topic": "Spatial Reasoning",
+      "sourceType": "TB-Reversed",
+      "questionType": "fillblanks",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If a bathroom has a total area of 54 ft² and its length is 9 ft, what are its dimensions? Width: ______ ft, Length: ______ ft.",
+      "blanks": [
+        "6",
+        "9"
+      ],
+      "options": null,
+      "correctAnswer": "6, 9",
+      "explanationAnswer": "Area = length × width. Given 54 = 9 × width, width = 54 / 9 = 6 ft.",
+      "explanationQuestion": "Divide the total area by the given length to determine the width of the room.",
+      "marks": 1,
+      "pageNumber": 0,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "REV-S6.003",
+      "topic": "Spatial Reasoning",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "In a floor plan, if a door swing arc connects a bedroom to an adjacent room, what does this imply about the room's accessibility and privacy? Explain.",
+      "options": null,
+      "correctAnswer": "It implies an en-suite or private access configuration.",
+      "explanationAnswer": "The door swing indicates the path of entry. If the door opens from the bedroom into another space, it suggests that the second space is a private extension of the bedroom, such as an en-suite bathroom.",
+      "explanationQuestion": "Analyze the function of a door swing arc in a floor plan and how it dictates the flow of movement between two connected spaces.",
+      "marks": 4,
+      "pageNumber": 0,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identification of the door swing as a directional indicator for flow and accessibility.",
+          "marks": 2
+        },
+        {
+          "point": "Analysis of privacy implications (e.g., en-suite vs. shared access) based on floor plan layout.",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "REV-S6.001",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "A point lies on the y-axis, 4 units above the origin. What are its coordinates?",
+      "options": [
+        {
+          "optionText": "(0, 4)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(4, 0)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(0, -4)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(4, 4)",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "(0, 4)",
+      "explanationAnswer": "Points on the y-axis have an x-coordinate of 0. Being 4 units above the origin means the y-coordinate is 4.",
+      "explanationQuestion": "Apply the definition of the y-axis (x=0) and the vertical distance from the origin to determine the coordinate pair.",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "REV-S6.002",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "fillblanks",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If point E is at (-2.9, 0) and point G is at (0, -4.5), which axes do they lie on? E lies on the ______ axis and G lies on the ______ axis.",
+      "blanks": [
+        "x",
+        "y"
+      ],
+      "options": null,
+      "correctAnswer": "x, y",
+      "explanationAnswer": "A point with a y-coordinate of 0 lies on the x-axis. A point with an x-coordinate of 0 lies on the y-axis.",
+      "explanationQuestion": "Examine the coordinates to see which value is zero, identifying the axis of intersection.",
+      "marks": 1,
+      "pageNumber": 0,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "REV-S6.003",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If a point has an x-coordinate of 0, what can you conclude about its position on a Cartesian plane? Provide an example.",
+      "options": null,
+      "correctAnswer": "It lies on the y-axis. Example: (0, 5).",
+      "explanationAnswer": "Any point where x=0 is located on the vertical axis (y-axis), as it has no horizontal displacement from the origin.",
+      "explanationQuestion": "Relate the coordinate value x=0 to the geometric definition of the y-axis.",
+      "marks": 2,
+      "pageNumber": 0,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correct identification that the point lies on the y-axis",
+          "marks": 1
+        },
+        {
+          "point": "Correct example provided (e.g., (0, y))",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "REV-S6.001",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "A bed corner is located at (0, 5) on a floor plan grid. Which wall is this corner touching if the y-axis represents the left wall?",
+      "options": [
+        {
+          "optionText": "Left wall",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Right wall",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Bottom wall",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Top wall",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "Left wall",
+      "explanationAnswer": "Since the x-coordinate is 0, the point lies on the y-axis. Given the y-axis is the left wall, the corner touches the left wall.",
+      "explanationQuestion": "Interpret the coordinate (0, 5) in the context of the grid where the y-axis is defined as the left wall.",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "REV-S6.002",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "fillblanks",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If a wardrobe spans from x=3 to x=7 on a grid, what is its total width in grid units? Width = ______ units.",
+      "blanks": [
+        "4"
+      ],
+      "options": null,
+      "correctAnswer": "4",
+      "explanationAnswer": "The width is the difference between the x-coordinates: 7 - 3 = 4.",
+      "explanationQuestion": "Calculate the distance between the two x-coordinates defining the edges of the wardrobe.",
+      "marks": 1,
+      "pageNumber": 0,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "REV-S6.003",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If a rectangular bed has corners at (0, 5) and (7, 8), what is the area of the bed in square units?",
+      "options": null,
+      "correctAnswer": "21 square units",
+      "explanationAnswer": "Length = 7 - 0 = 7. Width = 8 - 5 = 3. Area = 7 * 3 = 21.",
+      "explanationQuestion": "Find the length and width by calculating the differences in x and y coordinates, then multiply them.",
+      "marks": 2,
+      "pageNumber": 0,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Calculation of length (7-0=7) and width (8-5=3)",
+          "marks": 1
+        },
+        {
+          "point": "Calculation of area (7*3=21 square units)",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "VI.000",
+      "id": "REV-S6.000",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "A point has coordinates (x, y) where x > 0 and y < 0. In which quadrant is this point located?",
+      "options": [
+        {
+          "optionText": "Quadrant I",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant II",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant III",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Quadrant IV",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswer": "Quadrant IV",
+      "explanationAnswer": "Quadrant IV is characterized by positive x-values and negative y-values.",
+      "explanationQuestion": "Recall the sign conventions for each of the four quadrants in the Cartesian plane.",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "REV-S6.001",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "fillblanks",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "If a point is in Quadrant II, its x-coordinate must be ______ and its y-coordinate must be ______.",
+      "blanks": [
+        "negative",
+        "positive"
+      ],
+      "options": null,
+      "correctAnswer": "negative, positive",
+      "explanationAnswer": "Quadrant II is the upper-left section where x is negative and y is positive.",
+      "explanationQuestion": "Identify the signs of the axes in the second quadrant.",
+      "marks": 1,
+      "pageNumber": 0,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "REV-S6.002",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If a point is 3 units from the x-axis and 5 units from the y-axis in Quadrant II, what are its coordinates?",
+      "options": null,
+      "correctAnswer": "(-5, 3)",
+      "explanationAnswer": "Distance from y-axis is |x| = 5, so x = -5 (in QII). Distance from x-axis is |y| = 3, so y = 3.",
+      "explanationQuestion": "Use the distance from axes to find the absolute values of coordinates, then apply the quadrant sign rules.",
+      "marks": 2,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify x-coordinate magnitude as 5 and y-coordinate magnitude as 3",
+          "marks": 1
+        },
+        {
+          "point": "Apply Quadrant II sign rules (x negative, y positive) to get (-5, 3)",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "REV-S6.001",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "A point is at (0, 5). If this point is shifted 8 units to the right, what are its new coordinates?",
+      "options": [
+        {
+          "optionText": "(8, 5)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(0, 13)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(8, 0)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(5, 8)",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "(8, 5)",
+      "explanationAnswer": "Shifting to the right increases the x-coordinate. 0 + 8 = 8. The y-coordinate remains 5.",
+      "explanationQuestion": "Apply the translation rule for a horizontal shift to the given coordinates.",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "REV-S6.002",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "fillblanks",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If a wardrobe has a width of 4 units and its left edge is at x=3, its right edge must be at x=______.",
+      "blanks": [
+        "7"
+      ],
+      "options": null,
+      "correctAnswer": "7",
+      "explanationAnswer": "Right edge = Left edge + width = 3 + 4 = 7.",
+      "explanationQuestion": "Add the width to the starting x-coordinate to find the ending x-coordinate.",
+      "marks": 1,
+      "pageNumber": 0,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "REV-S6.003",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If a bed has a length of 8 units and one corner is at (0, 5), what are the possible coordinates for the other corner on the same horizontal edge?",
+      "options": null,
+      "correctAnswer": "(8, 5)",
+      "explanationAnswer": "Since it is a horizontal edge, the y-coordinate remains 5. The x-coordinate is 0 + 8 = 8.",
+      "explanationQuestion": "Apply the length to the x-coordinate while keeping the y-coordinate constant for a horizontal line.",
+      "marks": 2,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifying that horizontal edge means y-coordinate remains constant",
+          "marks": 1
+        },
+        {
+          "point": "Adding the length to the x-coordinate to get the correct point (8, 5)",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "REV-S6.001",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "A point M is located at (9, 6). If we reflect this point across the y-axis, what are the new coordinates?",
+      "options": [
+        {
+          "optionText": "(-9, 6)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(9, -6)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(-9, -6)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(6, 9)",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "(-9, 6)",
+      "explanationAnswer": "Reflecting across the y-axis changes the sign of the x-coordinate while keeping the y-coordinate the same.",
+      "explanationQuestion": "Apply the reflection rule (x, y) -> (-x, y) to the point (9, 6).",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "REV-S6.002",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "fillblanks",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If the distance between two points (3, 1) and (7, 1) is 4 units, what is the distance between their reflected points (-3, 1) and (-7, 1)? Distance = ______ units.",
+      "blanks": [
+        "4"
+      ],
+      "options": null,
+      "correctAnswer": "4",
+      "explanationAnswer": "Reflection is an isometry, meaning it preserves the distance between points.",
+      "explanationQuestion": "Recognize that reflection does not change the length of a line segment.",
+      "marks": 1,
+      "pageNumber": 0,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "REV-S6.003",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If a triangle has vertices at (3, 4), (7, 1), and (9, 6), what is the area of the triangle formed by these points?",
+      "options": null,
+      "correctAnswer": "13 square units",
+      "explanationAnswer": "Using the area formula: 0.5 * |3(1-6) + 7(6-4) + 9(4-1)| = 0.5 * |-15 + 14 + 27| = 13.",
+      "explanationQuestion": "Substitute the given coordinates into the coordinate geometry area formula for a triangle.",
+      "marks": 2,
+      "pageNumber": 0,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Correctly applying the area formula for a triangle with vertices (x1, y1), (x2, y2), and (x3, y3)",
+          "marks": 1
+        },
+        {
+          "point": "Calculation of the final result with units",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "REV-S6.001",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "A point D is at (7, 1). If we translate this point 4 units to the left, what are its new coordinates?",
+      "options": [
+        {
+          "optionText": "(3, 1)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(7, -3)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(11, 1)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(7, 5)",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "(3, 1)",
+      "explanationAnswer": "Translating to the left subtracts from the x-coordinate. 7 - 4 = 3. The y-coordinate remains 1.",
+      "explanationQuestion": "Apply the translation rule for a leftward shift to the coordinates.",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "REV-S6.002",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "fillblanks",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If the horizontal distance between two points is 4 units and their y-coordinates are the same, and one point is at (3, 1), the other point could be at (______, 1).",
+      "blanks": [
+        "7"
+      ],
+      "options": null,
+      "correctAnswer": "7",
+      "explanationAnswer": "Since the y-coordinates are the same, the horizontal distance is the difference in x-coordinates. 3 + 4 = 7.",
+      "explanationQuestion": "Add the horizontal distance to the x-coordinate of the known point.",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "REV-S6.003",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "Given two points A(3, 4) and D(7, 1), calculate the length of the segment AD.",
+      "options": null,
+      "correctAnswer": "5 units",
+      "explanationAnswer": "d = √((7-3)² + (1-4)²) = √(4² + (-3)²) = √(16 + 9) = 5.",
+      "explanationQuestion": "Use the distance formula with the provided coordinates.",
+      "marks": 2,
+      "pageNumber": 0,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Application of distance formula",
+          "marks": 1
+        },
+        {
+          "point": "Correct calculation and final result",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "REV-S6.001",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "In a right-angled triangle formed by points (x1, y1), (x2, y1), and (x2, y2), what does the expression √((x2-x1)² + (y2-y1)²) represent?",
+      "options": [
+        {
+          "optionText": "The length of the hypotenuse",
+          "isCorrect": true
+        },
+        {
+          "optionText": "The area of the triangle",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The perimeter of the triangle",
+          "isCorrect": false
+        },
+        {
+          "optionText": "The slope of the hypotenuse",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "The length of the hypotenuse",
+      "explanationAnswer": "This is the distance formula, which calculates the length of the segment connecting (x1, y1) and (x2, y2), which is the hypotenuse.",
+      "explanationQuestion": "Identify the distance formula as the application of the Pythagorean theorem to coordinate geometry.",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "REV-S6.002",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "fillblanks",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "In a right triangle with legs of length 3 and 4, the hypotenuse length is ______.",
+      "blanks": [
+        "5"
+      ],
+      "options": null,
+      "correctAnswer": "5",
+      "explanationAnswer": "By the Pythagorean theorem: √(3² + 4²) = √(9 + 16) = √25 = 5.",
+      "explanationQuestion": "Apply the Pythagorean theorem to the given leg lengths.",
+      "marks": 1,
+      "pageNumber": 0,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "REV-S6.003",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "How does the Pythagorean theorem relate to the distance formula between two points (x1, y1) and (x2, y2)?",
+      "options": null,
+      "correctAnswer": "The distance formula is the Pythagorean theorem applied to the horizontal and vertical differences between points.",
+      "explanationAnswer": "The horizontal difference (x2-x1) and vertical difference (y2-y1) form the legs of a right triangle, and the distance between the points is the hypotenuse.",
+      "explanationQuestion": "Explain the geometric derivation of the distance formula using a right-angled triangle.",
+      "marks": 4,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identification of horizontal difference as (x2 - x1) and vertical difference as (y2 - y1).",
+          "marks": 1
+        },
+        {
+          "point": "Mention that these differences represent the base and height of a right-angled triangle.",
+          "marks": 1
+        },
+        {
+          "point": "Application of the Pythagorean theorem: a^2 + b^2 = c^2.",
+          "marks": 1
+        },
+        {
+          "point": "Stating that distance d = sqrt((x2 - x1)^2 + (y2 - y1)^2) as the hypotenuse.",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "conceptId": "VI.001",
+      "id": "REV-S6.001",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "mcq",
+      "category": "Visual-Interpretation",
+      "difficulty": "medium",
+      "questionText": "If a point (x, y) is reflected across the y-axis to become (-x, y), what transformation rule would reflect it across the x-axis?",
+      "options": [
+        {
+          "optionText": "(x, -y)",
+          "isCorrect": true
+        },
+        {
+          "optionText": "(-x, y)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(-x, -y)",
+          "isCorrect": false
+        },
+        {
+          "optionText": "(y, x)",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "(x, -y)",
+      "explanationAnswer": "Reflecting across the x-axis keeps the x-coordinate the same and negates the y-coordinate.",
+      "explanationQuestion": "Identify the coordinate change for an x-axis reflection.",
+      "marks": 1,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.002",
+      "id": "REV-S6.002",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "fillblanks",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "If a point (3, 1) is reflected across the y-axis, its new coordinates are (______, 1).",
+      "blanks": [
+        "-3"
+      ],
+      "options": null,
+      "correctAnswer": "-3",
+      "explanationAnswer": "Reflection across the y-axis negates the x-coordinate: 3 becomes -3.",
+      "explanationQuestion": "Apply the y-axis reflection rule to the x-coordinate.",
+      "marks": 1,
+      "pageNumber": 0,
+      "multi": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "VI.003",
+      "id": "REV-S6.003",
+      "topic": "Coordinate Geometry",
+      "sourceType": "TB-Reversed",
+      "questionType": "subjective",
+      "category": "Visual-Interpretation",
+      "difficulty": "hard",
+      "questionText": "Why does reflection across an axis preserve the congruence of a geometric shape?",
+      "options": null,
+      "correctAnswer": "Because reflection is a rigid transformation (isometry) that preserves distances and angles.",
+      "explanationAnswer": "Reflection maps every point to a new position while maintaining the relative distances between all points in the shape, thus preserving its size and shape.",
+      "explanationQuestion": "Define the properties of rigid transformations in coordinate geometry.",
+      "marks": 4,
+      "pageNumber": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": null,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A",
+      "subjective_evaluation_points": [
+        {
+          "point": "Mentioning reflection as a rigid transformation or isometry.",
+          "marks": 2
+        },
+        {
+          "point": "Explaining that distances between points and internal angles remain unchanged.",
+          "marks": 2
+        }
+      ]
+    }
+  ]
+}

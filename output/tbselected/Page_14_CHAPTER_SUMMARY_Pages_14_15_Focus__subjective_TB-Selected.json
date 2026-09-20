@@ -1,0 +1,69 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 3,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 3,
+    "coveragePercentage": "7.5%"
+  },
+  "validationMeta": {
+    "totalInput": 1,
+    "passed": 1,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "selectionSummary": {
+    "initialCount": 3,
+    "selectedCount": 1,
+    "removedCount": 2,
+    "removalReasons": {
+      "duplicates": 0,
+      "nonStandardCategory": 0,
+      "categoryOverRepresentation": 0,
+      "lowQuality": 2
+    }
+  },
+  "questions": [
+    {
+      "conceptId": "C018",
+      "id": "S001.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "TB-Selected",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Using the distance formula provided in the chapter summary, calculate the distance between two points $P(x_1, y_1)$ and $Q(x_2, y_2)$ and explain the role of the Baudhayana-Pythagoras Theorem in its derivation.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/textbook.php?iemh1=0-15",
+      "pageNumber": 15,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "States the distance formula: $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$.",
+          "marks": 2
+        },
+        {
+          "point": "Explains that the theorem is used to find the hypotenuse of a right-angled triangle formed by the horizontal and vertical differences between the points.",
+          "marks": 2
+        }
+      ],
+      "explanationAnswer": "The distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ is given by $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. This formula is derived using the Baudhayana-Pythagoras Theorem, where the horizontal distance $|x_2 - x_1|$ and vertical distance $|y_2 - y_1|$ act as the two legs of a right-angled triangle, and the distance between the points is the hypotenuse.",
+      "explanationQuestion": "This question tests the application of the distance formula and the understanding of its geometric derivation as summarized on page 15.",
+      "correctAnswer": "Distance = $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. It is derived from the Baudhayana-Pythagoras Theorem.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ]
+}

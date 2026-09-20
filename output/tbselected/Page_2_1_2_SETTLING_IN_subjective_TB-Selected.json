@@ -1,0 +1,77 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "coverageReport": {
+    "totalQuestions": 2,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 1,
+    "coveragePercentage": "2.5%"
+  },
+  "validationMeta": {
+    "totalInput": 1,
+    "passed": 1,
+    "failed": 0,
+    "dropped": 0,
+    "failedIds": [],
+    "failedDetails": [],
+    "droppedIds": [],
+    "droppedDetails": []
+  },
+  "selectionSummary": {
+    "initialCount": 2,
+    "selectedCount": 1,
+    "removedCount": 1,
+    "removalReasons": {
+      "duplicates": 1,
+      "nonStandardCategory": 0,
+      "categoryOverRepresentation": 0,
+      "lowQuality": 0
+    }
+  },
+  "questions": [
+    {
+      "conceptId": "C038",
+      "id": "S001.001",
+      "topic": "Page 2: 1.2 SETTLING IN",
+      "questionType": "subjective",
+      "sourceType": "TB-Selected",
+      "category": "Practical-Experimental",
+      "difficulty": "medium",
+      "questionText": "Shalini used a rectangular grid with fixed pins and threads to help Reiaan understand the layout of a room. Explain why this physical activity is an effective way to introduce the concept of a coordinate system to someone who cannot see.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 2,
+      "marks": 4,
+      "subjective_evaluation_points": [
+        {
+          "point": "Identifies that the physical grid provides a tactile representation of spatial relationships.",
+          "marks": 1
+        },
+        {
+          "point": "Explains that pins represent specific points and threads represent lines or axes.",
+          "marks": 1
+        },
+        {
+          "point": "Mentions that it allows the user to 'feel' distances and directions in a structured way.",
+          "marks": 1
+        },
+        {
+          "point": "Concludes that this bridges the gap between physical space and abstract coordinate geometry.",
+          "marks": 1
+        }
+      ],
+      "explanationAnswer": "The activity is effective because it translates abstract mathematical concepts into a tactile experience. By using pins to mark points and threads to connect them, the user can physically perceive the relative positions of objects. This helps in understanding that coordinates are essentially a 'structured framework' for describing location, which is the foundational definition of a coordinate system.",
+      "explanationQuestion": "The question asks for the pedagogical value of the activity described in section 1.2, where Shalini helps Reiaan visualize a room layout using a grid.",
+      "correctAnswer": "The activity provides a tactile, physical model that maps real-world objects to a structured grid, allowing the user to perceive spatial relationships and distances through touch, which is the core principle of a coordinate system.",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    }
+  ]
+}

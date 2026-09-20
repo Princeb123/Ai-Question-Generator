@@ -1,0 +1,111 @@
+{
+  "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+  "batch": "Batch_4_Applied_Data_Practical",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C021",
+      "id": "A2.001",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "Referring to Fig 1.3, if the door $D_1R_1$ is located such that $D_1$ is at $(7, 0)$ and $R_1$ is at $(11.5, 0)$, and the room scale is $1 \\text{ cm} : 1 \\text{ foot}$, what is the actual physical width of the door in feet?",
+      "options": [
+        { "optionText": "3.5 feet", "isCorrect": false },
+        { "optionText": "4.5 feet", "isCorrect": true },
+        { "optionText": "5.0 feet", "isCorrect": false },
+        { "optionText": "4.0 feet", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "The width is the difference between the x-coordinates: $11.5 - 7 = 4.5$. Given the scale $1 \\text{ cm} : 1 \\text{ foot}$, the width is 4.5 feet.",
+      "explanationQuestion": "Requires interpretation of the coordinate-based room layout and scale provided on page 5.",
+      "correctAnswer": "4.5 feet",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C039",
+      "id": "A2.002",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Source-Based",
+      "category": "Source-Based",
+      "difficulty": "hard",
+      "questionText": "In Fig 1.3, if the origin $(0, 0)$ is fixed at the bottom-left corner of the room, the coordinates of point $B$ $(12, 10)$ imply that the room's total width is 12 units and its total height is 10 units.",
+      "options": null,
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 5,
+      "marks": 1,
+      "explanationAnswer": "The coordinates $(12, 10)$ indicate the position relative to the origin $(0, 0)$, thus defining the boundary of the space as 12 units horizontally and 10 units vertically.",
+      "explanationQuestion": "Tests understanding of coordinate interpretation relative to a fixed origin.",
+      "correctAnswer": true,
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C038",
+      "id": "A2.003",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "A student uses a rectangular grid to map a room of size $12 \\text{ ft} \\times 10 \\text{ ft}$. If they place pins at $(0, 0)$, $(12, 0)$, $(12, 10)$, and $(0, 10)$ to represent the corners, explain how the coordinate system helps determine if the room is perfectly rectangular.",
+      "subjective_evaluation_points": [
+        { "point": "Mention that the distance between $(0, 0)$ and $(12, 0)$ must equal the distance between $(0, 10)$ and $(12, 10)$ (length).", "marks": 1 },
+        { "point": "Mention that the distance between $(0, 0)$ and $(0, 10)$ must equal the distance between $(12, 0)$ and $(12, 10)$ (width).", "marks": 1 },
+        { "point": "State that perpendicularity of axes ensures corners are $90^{\\circ}$ if coordinates are aligned to the grid.", "marks": 2 }
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 3,
+      "marks": 4,
+      "explanationAnswer": "The coordinate system allows for the calculation of side lengths using distance formulas and verifies geometric properties like parallelism and perpendicularity.",
+      "explanationQuestion": "Requires application of practical mapping techniques to geometric verification.",
+      "correctAnswer": "The coordinate system allows for the calculation of side lengths using distance formulas and verifies geometric properties like parallelism and perpendicularity.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C040",
+      "id": "A2.004",
+      "topic": "Page 5: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 5-6 Focus)",
+      "questionType": "fillblanks",
+      "sourceType": "Practical-Experimental",
+      "category": "Practical-Experimental",
+      "difficulty": "hard",
+      "questionText": "If an object is placed at $(2, 3)$ on a grid where the scale is $1 \\text{ cm} : 1 \\text{ foot}$, and we shift it to $(5, 7)$, the total distance moved in feet, calculated using the Pythagorean theorem, is ______ units, which corresponds to an actual distance of ______ feet.",
+      "blanks": [
+        "5",
+        "5"
+      ],
+      "sourceTextbookUrl": "AI -Dummy URL",
+      "pageNumber": 9,
+      "marks": 1,
+      "explanationAnswer": "Distance $= \\sqrt{(5-2)^{2} + (7-3)^{2}} = \\sqrt{3^{2} + 4^{2}} = \\sqrt{9 + 16} = \\sqrt{25} = 5$. Scale $1:1$ implies 5 feet.",
+      "explanationQuestion": "Requires combining coordinate geometry with practical scale conversion.",
+      "correctAnswer": null,
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 4,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 4,
+    "coveragePercentage": "10%"
+  }
+}

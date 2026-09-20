@@ -1,0 +1,163 @@
+{
+  "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+  "batch": "Batch_1_Foundational_Core",
+  "subject": "Mathematics",
+  "grade": 10,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C006",
+      "id": "A2.001",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "In the 2-D Cartesian coordinate system, what is the specific designation for the point of intersection of the x-axis and y-axis?",
+      "options": [
+        { "optionText": "The vertex", "isCorrect": false },
+        { "optionText": "The origin", "isCorrect": true },
+        { "optionText": "The central node", "isCorrect": false },
+        { "optionText": "The null point", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 3,
+      "marks": 1,
+      "explanationAnswer": "The point of intersection of the two perpendicular axes (x-axis and y-axis) is defined as the origin $(0, 0)$.",
+      "explanationQuestion": "This tests the fundamental definition of the coordinate system origin.",
+      "correctAnswer": "The origin",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C012",
+      "id": "A2.002",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Definition",
+      "category": "Recall",
+      "difficulty": "hard",
+      "questionText": "If a point $P(x, y)$ has a negative x-coordinate and a positive y-coordinate, in which quadrant does it lie?",
+      "options": [
+        { "optionText": "Quadrant I", "isCorrect": false },
+        { "optionText": "Quadrant II", "isCorrect": true },
+        { "optionText": "Quadrant III", "isCorrect": false },
+        { "optionText": "Quadrant IV", "isCorrect": false }
+      ],
+      "multi": null,
+      "blanks": null,
+      "sourceTextbookUrl": "NCERT",
+      "pageNumber": 6,
+      "marks": 1,
+      "explanationAnswer": "By convention, Quadrant II is defined by negative x-values and positive y-values $(-, +)$.",
+      "explanationQuestion": "This tests the knowledge of quadrant sign conventions.",
+      "correctAnswer": "Quadrant II",
+      "leftItems": null,
+      "rightItems": null,
+      "correctMappings": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C010",
+      "id": "A2.003",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "True or False: For any point lying strictly on the x-axis, the y-coordinate must be zero.",
+      "correctAnswer": true,
+      "marks": 1,
+      "explanationAnswer": "Since the x-axis is the line where the vertical distance from the origin is zero, all points on it have the form $(x, 0)$.",
+      "explanationQuestion": "This tests the understanding of axis properties.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.004",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Comprehension",
+      "difficulty": "hard",
+      "questionText": "True or False: The coordinate pair $(3, 5)$ is identical to the coordinate pair $(5, 3)$ in a 2-D Cartesian plane.",
+      "correctAnswer": false,
+      "marks": 1,
+      "explanationAnswer": "In coordinate geometry, the order of elements in the ordered pair $(x, y)$ is significant; therefore, $(3, 5) \\neq (5, 3)$.",
+      "explanationQuestion": "This tests the understanding of ordered pairs.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C018",
+      "id": "A2.005",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Definition",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "Given two points $A(3, 4)$ and $D(7, 1)$, calculate the distance $AD$ using the distance formula derived from the Baudhayana-Pythagoras Theorem. Show your steps.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify the distance formula: $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+          "marks": 1
+        },
+        {
+          "point": "Substitute the values correctly: $\\sqrt{(7 - 3)^2 + (1 - 4)^2}$",
+          "marks": 1
+        },
+        {
+          "point": "Calculate the squares: $\\sqrt{4^2 + (-3)^2} = \\sqrt{16 + 9}$",
+          "marks": 1
+        },
+        {
+          "point": "Final result: $\\sqrt{25} = 5$ units",
+          "marks": 1
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The distance is 5 units.",
+      "explanationQuestion": "This tests the application of the distance formula.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C020",
+      "id": "A2.006",
+      "topic": "Page 3: 1.3 THE 2-D CARTESIAN COORDINATE SYSTEM (Pages 3-4 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Application",
+      "difficulty": "hard",
+      "questionText": "A rectangle has three of its vertices at $(0, 0)$, $(12, 0)$, and $(12, 10)$. Determine the coordinates of the fourth vertex and justify your answer.",
+      "subjective_evaluation_points": [
+        {
+          "point": "Identify that for a rectangle with sides parallel to the axes, the fourth point must share an x-coordinate with one point and a y-coordinate with another.",
+          "marks": 1
+        },
+        {
+          "point": "Analyze the coordinates: $(0,0)$ to $(12,0)$ is a horizontal base, $(12,0)$ to $(12,10)$ is a vertical side.",
+          "marks": 1
+        },
+        {
+          "point": "State the fourth vertex must be $(0, 10)$ to complete the rectangle.",
+          "marks": 2
+        }
+      ],
+      "marks": 4,
+      "explanationAnswer": "The fourth vertex is $(0, 10)$.",
+      "explanationQuestion": "This tests the application of coordinate geometry to identify geometric shapes.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}

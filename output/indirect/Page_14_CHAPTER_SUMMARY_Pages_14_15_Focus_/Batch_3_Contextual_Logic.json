@@ -1,0 +1,146 @@
+{
+  "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+  "batch": "Batch_3_Contextual_Logic",
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapterName": "Orienting Yourself: The Use of Coordinates",
+  "chapterNumber": 1,
+  "textbookRef": "NCERT - Textbook based",
+  "questions": [
+    {
+      "conceptId": "C029",
+      "id": "A2.001",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "mcq",
+      "sourceType": "Exercise",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "A computer graphics program displays images on a screen where the origin $(0, 0)$ is the bottom-left corner. A circular icon with radius $80$ pixels is centered at point $A(100, 150)$. If the screen is $800$ pixels wide and $600$ pixels high, which of the following is true regarding the circle's position?",
+      "options": [
+        { "optionText": "The circle is entirely contained within the screen boundaries.", "isCorrect": true },
+        { "optionText": "The circle intersects the left edge of the screen.", "isCorrect": false },
+        { "optionText": "The circle intersects the bottom edge of the screen.", "isCorrect": false },
+        { "optionText": "The circle lies outside the screen boundary.", "isCorrect": false }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The circle has center $(100, 150)$ and radius $80$. The minimum x-coordinate is $100 - 80 = 20$, and maximum x-coordinate is $100 + 80 = 180$. The minimum y-coordinate is $150 - 80 = 70$, and maximum y-coordinate is $150 + 80 = 230$. Since all these values are within the screen limits $[0, 800]$ and $[0, 600]$, the circle is entirely inside.",
+      "explanationQuestion": "This question requires evaluating the boundary conditions of a circle within a rectangular coordinate grid.",
+      "correctAnswer": "The circle is entirely contained within the screen boundaries.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C027",
+      "id": "A2.002",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Case-Study",
+      "difficulty": "hard",
+      "questionText": "A city has roads running North-South and East-West at uniform intervals of $200$ m. Using a scale of $1$ cm $= 200$ m, represent the grid. If an intersection is marked as $(2, 5)$ where $2$ is the second street in N-S direction and $5$ is the fifth street in E-W direction, determine how many intersections exist if there are $10$ streets in each direction. Explain the logic of identifying intersections as ordered pairs.",
+      "subjective_evaluation_points": [
+        { "point": "Identifies that for $10$ streets in each direction, there are $10 \times 10 = 100$ total street intersections.", "marks": 1 },
+        { "point": "Explains that ordered pairs $(x, y)$ uniquely identify the intersection of the $x^{th}$ N-S street and $y^{th}$ E-W street, acting as a coordinate system.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 2,
+      "explanationAnswer": "Total intersections are $10 \times 10 = 100$. The ordered pair convention allows for unique identification of grid crossings, analogous to the Cartesian plane.",
+      "explanationQuestion": "This question tests the application of coordinate systems to real-world grid layouts.",
+      "correctAnswer": "100 intersections; the ordered pair provides a unique grid reference.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C014",
+      "id": "A2.003",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: For any two distinct points $P(x, y)$ and $Q(y, x)$ where $x \\neq y$, the distance from the origin remains the same. Reason: The coordinates are commutative in distance calculations from the origin.",
+      "correctAnswer": true,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The distance from the origin is $\\sqrt{x^{2} + y^{2}}$. If we swap coordinates to $(y, x)$, the distance is $\\sqrt{y^{2} + x^{2}}$, which is identical.",
+      "explanationQuestion": "This tests the property of coordinate symmetry regarding the origin.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C015",
+      "id": "A2.004",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "truefalse",
+      "sourceType": "Fact",
+      "category": "Assertion-Reason",
+      "difficulty": "hard",
+      "questionText": "Assertion: The point $(3, 4)$ and $(4, 3)$ represent the same location on a Cartesian plane. Reason: The order of coordinates in an ordered pair $(x, y)$ does not affect the location of the point.",
+      "correctAnswer": false,
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 15,
+      "marks": 1,
+      "explanationAnswer": "The order of coordinates in an ordered pair defines the specific position. $(3, 4)$ is distinct from $(4, 3)$ unless $x=y$.",
+      "explanationQuestion": "This tests the fundamental definition of ordered pairs in coordinate geometry.",
+      "set": "A"
+    },
+    {
+      "conceptId": "C030",
+      "id": "A2.005",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "multi",
+      "sourceType": "Exercise",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Given points $A(2, 1)$, $B(-1, 2)$, $C(-2, -1)$, and $D(1, -2)$. Select the properties that verify $ABCD$ is a square.",
+      "options": [
+        { "optionText": "All four sides have equal length of $\\sqrt{10}$ units." },
+        { "optionText": "The diagonals are perpendicular." },
+        { "optionText": "The diagonals have equal length of $\\sqrt{20}$ units." },
+        { "optionText": "The coordinates are all negative." }
+      ],
+      "multi": [
+        "All four sides have equal length of $\\sqrt{10}$ units.",
+        "The diagonals are perpendicular.",
+        "The diagonals have equal length of $\\sqrt{20}$ units."
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 14,
+      "marks": 1,
+      "explanationAnswer": "The side length is $\\sqrt{(2 - (-1))^{2} + (1 - 2)^{2}} = \\sqrt{3^{2} + (-1)^{2}} = \\sqrt{10}$. The diagonals are $AC$ and $BD$, both length $\\sqrt{4^{2} + 2^{2}} = \\sqrt{20}$. Equal sides and equal diagonals confirm a square.",
+      "explanationQuestion": "This requires applying the distance formula to verify geometric properties.",
+      "correctAnswer": null,
+      "set": "A"
+    },
+    {
+      "conceptId": "C026",
+      "id": "A2.006",
+      "topic": "Page 14: CHAPTER SUMMARY (Pages 14-15 Focus)",
+      "questionType": "subjective",
+      "sourceType": "Exercise",
+      "category": "Competency-Based",
+      "difficulty": "hard",
+      "questionText": "Points $A(1, -8)$, $B(-4, 7)$, and $C(-7, -4)$ are given. Show that they lie on a circle centered at the origin $(0, 0)$ and find the radius of this circle. Justify your answer using the distance formula.",
+      "subjective_evaluation_points": [
+        { "point": "Calculates distance of $A$ from origin: $\\sqrt{1^{2} + (-8)^{2}} = \\sqrt{65}$.", "marks": 1 },
+        { "point": "Calculates distance of $B$ from origin: $\\sqrt{(-4)^{2} + 7^{2}} = \\sqrt{16 + 49} = \\sqrt{65}$.", "marks": 1 },
+        { "point": "Calculates distance of $C$ from origin: $\\sqrt{(-7)^{2} + (-4)^{2}} = \\sqrt{49 + 16} = \\sqrt{65}$.", "marks": 1 },
+        { "point": "Concludes all points are equidistant from the origin, confirming they lie on a circle with radius $\\sqrt{65}$.", "marks": 1 }
+      ],
+      "sourceTextbookUrl": "https://ncert.nic.in/",
+      "pageNumber": 13,
+      "marks": 4,
+      "explanationAnswer": "Since the distance from the origin for all three points is $\\sqrt{65}$, they lie on a circle with radius $\\sqrt{65}$.",
+      "explanationQuestion": "This tests the definition of a circle in coordinate geometry based on distance from the center.",
+      "correctAnswer": "Radius is $\\sqrt{65}$.",
+      "set": "A"
+    }
+  ],
+  "coverageReport": {
+    "totalQuestions": 6,
+    "totalConceptsFound": 40,
+    "totalConceptsCovered": 6,
+    "coveragePercentage": "15%"
+  }
+}
